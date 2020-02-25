@@ -1,0 +1,3192 @@
+南京大学中国社会科学研究评价中心
+数字文献处理系统 版本：2.1
+版权所有 (C) 2000 - 2001 CSSCI Corp.
+
+
+【来源篇名】基于本体的突发事件舆情知识库建设研究
+【英文篇名】Research on the Construction of Emergency Network Opinion Knowledge Base Based on Ontology
+【来源作者】徐蓓蓓/杨子江/朱世伟/于俊凤
+【基    金】山东省社会科学规划研究专项“面向突发事件的网络舆情监测与应急响应体系研究”/山东省科学院2019年国际科技合作项目“面向一带一路国际科技合作资源监测与决策支撑服务关键技术研究与应用”/山东省科学院2019年国际科技合作项目“基于自成长领域知识图谱和定制产业知识图谱
+【期    刊】情报杂志
+【第一机构】齐鲁工业大学
+【机构名称】[徐蓓蓓]齐鲁工业大学./[杨子江]齐鲁工业大学./[朱世伟]齐鲁工业大学./[于俊凤]齐鲁工业大学.
+【第一作者】徐蓓蓓
+【中图类号】G356
+【年代卷期】2019,38(040):132-137
+【关 键 词】突发事件/网络舆情知识库/本体/UML映射
+【基金类别】
+【参考文献】
+1.吴文晓.基于本体的突发事件网络舆情案例推理研究:学位论文.绵阳:西南科技大学,2017
+2.吴明静.突发事件舆情案例建模研究:学位论文.天津:天津大学,2016
+3.付业勤.旅游危机事件网络舆情的本体分析.重庆理工大学学报(社会科学).2015.29(2)
+4.李宏伟.食品安全网络舆情本体学习研究.南京邮电大学学报(社会科学版).2013.15(4)
+5.唐明伟.本体驱动的突发事件案例知识库.情报理论与实践.2016.39(9)
+6.魏建香.面向药品突发事件应急决策的知识库模型构建研究.情报科学.2018.36(7)
+7.KMAILEF,K..Ontology-supported case-based reasoning approach for intelligent m-Government emergency response services.Decision Support System.2013.55(1)
+8.陈璟浩.突发公共事件网络舆情传播过程研究——以网络组织为视角.情报杂志.2015.34(2)
+9.兰月新.突发事件网络舆情传播规律与预警阶段研究.情报杂志.2013.32(5)
+10.陈海汉.突发事件网络舆情传播时段特征和政府预警模式研究.图书馆学研究.2015.(1)
+11.张旭洁.事件本体构建中几个关键问题的研究:学位论文.上海:上海大学,2013
+12.李纲.应急知识库系统构建的关键问题与模块划分研究.情报理论与实践.2018.(3)
+13.叶光辉.基于UML的叙词表转本体方法研究.图书馆杂志.2014.133(7)
+14.刘嘉.基于本体的UML类图语义推理.计算机应用与软件.2011.28(4)
+-----------------------------------------------------------------------
+
+【来源篇名】基于决策树方法的网络舆情反转识别与实证研究
+【英文篇名】Recognition and Empirical Study of Network Public Opinion Reversal Based on Decision Tree Method
+【来源作者】田俊静/兰月新/夏一雪/张双狮/连芷萱
+【基    金】河北社会科学基金项目(HB18GL081)
+【期    刊】情报杂志
+【第一机构】中国人民警察大学
+【机构名称】[田俊静]中国人民警察大学./[兰月新]中国人民警察大学./[夏一雪]中国人民警察大学./[张双狮]中国人民警察大学./[连芷萱]中国人民警察大学.
+【第一作者】田俊静
+【中图类号】G353
+【年代卷期】2019,38(080):121-125,171
+【关 键 词】决策树/网络舆情/舆情反转/实证研究/分类属性
+【基金类别】
+【参考文献】
+1.中国互联网络信息中心.第43次中国互联网络发展状况统计报告.2019
+2.刘旭彤.双微传播舆情反转现象形成机理及对策研究:学位论文.济南:山东大学,2017
+3.韩旭.探析网络“舆论反转”现象出现的成因及对策——以“狗嘴下救女童系谎言”事件为例.西部学刊.2016.(4)
+4.殷婷.网络舆情逆转研究:学位论文.保定:河北大学,2010
+5.李惠琳.新媒体环境下的舆论反转现象:学位论文.广州:暨南大学,2017
+6.赵欣.网络“舆情反转”的成因分析及其治理.新闻传播.2016.(5)
+7.兰月新.面向舆情大数据的群体性事件预警研究.天津:天津大学出版社
+8.万晓燕.反转新闻:传播特征、概念辨析与问题指向.中国出版.2017.4(8)
+9.林小静.多媒体状态下的舆论反转研究:学位论文.杭州:浙江传媒学院,2017
+10.张力文.浅析舆情反转事件对媒体公信力的侵蚀——以“哈尔滨天价鱼”事件为例.新闻研究导刊.2016.7(5)
+11.徐海霞.新闻反转剧现象研究:学位论文.石家庄:河北经贸大学,2017
+12.李羽佳.传播学视域下“反转新闻”现象研究:学位论文.呼和浩特:内蒙古大学,2017
+13.张昭阳.“舆情反转”频发有利于舆论场的理性养成.吉林日报.4.19(005)
+14.朱孟云.舆情反转事件中网络舆论场“自我纠偏”模式研究.新闻研究导刊.2017.(2)
+15.夏一雪.大数据环境下网络舆情反转机理与预测研究.情报杂志.2018.37(8)
+16.李春葆.数据仓库与数据挖掘实践.北京:电子工业出版社
+17.陈志泊.数据仓库与数据挖掘.北京:清华大学出版社
+-----------------------------------------------------------------------
+
+【来源篇名】新媒体时期涉军网络舆情态势趋向及治理路径——以“老虎团涉嫌猥亵幼童”事件为例
+【英文篇名】A Probe into the Trend of Military-related Public Opinion and Its Governance Approach in New Media Age
+【来源作者】马溯川/张法明
+【基    金】国家社会科学青年基金项目(17CZZ011)/国家自然科学基金(U16030261)/国家创新团队武警部队北方云团队
+【期    刊】情报杂志
+【第一机构】西安交通大学
+【机构名称】[马溯川]西安交通大学.人文学院/[张法明]武警工程大学.
+【第一作者】马溯川
+【中图类号】G353.1
+【年代卷期】2019,38(090):99-104,133
+【关 键 词】新媒体/涉军网络舆情/治理路径
+【基金类别】
+【参考文献】
+1..在全国宣传思想工作会议上的讲话.人民日报.8.21(2)
+2..Differential gains from mass media and their implications for participatory behavior.Communication Research.2002.29(1)
+3..美国互联网政治意识形态输出战略与应对.北京:中国社会文献出版社
+4..邓小平文选（2卷）.北京:人民出版社
+5..基于主题和情绪相互作用的微博舆情演化研究.情报杂志.2018.37(12)
+6..“老虎团”政委:涉事红黄蓝幼儿园园长为退役人员家属未发现官兵涉及猥亵等行为.2017
+7..北京警方通报红黄蓝幼儿园事件:编造“老虎团”人员猥亵幼儿行为人被抓获.2017
+8..国防部回应红黄蓝幼儿园涉军谣言:不允许诋毁子弟兵.2017
+9..新媒体时代政府舆情应对研究——以“红黄蓝”事件为例:学位论文.郑州:郑州大学,2018:23-45
+10..网络舆情典型案例评析.长沙:湖南人民出版社
+11..自媒体时代网络舆情政府治理的困境极其消除.行政论坛.2016.134(2)
+12..3·30木里县森林火灾.2019
+13..政务微博“蹭热点”现象研究.情报杂志.2019.38(3)
+14..突发公共事件网络舆情治理研究的取向与进路.情报杂志.2019.38(4)
+15..城乡地理空间距离对农村青年参与公共事务的影响——媒介和社会网络的多重中介效应研究.新闻与传播研究.2016.(1)
+16..“后真相”时代的网络意识形态诉求与纷争.学海.2018.(2)
+17..自媒体时代的舆论格局与舆情研判.天津社会科学.2013.(6)
+18..贯彻“四个更加注重”建设现代化武装警察部队.武警学术.2018.375(11)
+19..打造军营网络文化.人民武警报.5.20(4)
+20..突发事件网络舆情传播规律与预警阶段研究.情报杂志.2013.32(5)
+-----------------------------------------------------------------------
+
+【来源篇名】基于空间自相关的网络舆情话题演化时空规律分析
+【英文篇名】The Evolution of Online Public Opinion Based on Spatial Autocorrelation
+【来源作者】王璟琦/李锐/吴华意
+【基    金】国家重点研发计划项目(2016YFB0502301)/国家自然科学基金资助项目(41771426)/测绘遥感信息工程国家重点实验室专项科研经费
+【期    刊】数据分析与知识发现
+【第一机构】武汉大学
+【机构名称】[王璟琦]武汉大学.测绘遥感信息工程国家重点实验室/[李锐]武汉大学.测绘遥感信息工程国家重点实验室/[吴华意]武汉大学.测绘遥感信息工程国家重点实验室
+【第一作者】王璟琦
+【中图类号】G350
+【年代卷期】2018,2(020):64-73
+【关 键 词】空间自相关/Moran\'sⅠ统计量/LDA模型/话题演化/网络舆情
+【基金类别】
+【参考文献】
+1.朱恒民.互联网舆情演化的动态网络模型研究.情报理论与实践.2010.33(10)
+2.洪宇.话题检测与跟踪的评测及研究综述.中文信息学报.2007.21(6)
+3.林萍.基于LDA模型的网络舆情事件话题演化分析.情报杂志.2013.32(12)
+4.王来华.略论舆情空间.理论与现代化.2008.(3)
+5.Sanderson,M.Analyzing Geographic Queries,2004
+6.万源.基于语义统计分析的网络舆情挖掘技术研究:学位论文.武汉:武汉理工大学,2012
+7.蒋锴.含地理位置信息的社交媒体挖掘及应用:学位论文.合肥:中国科学技术大学,2014
+8.王劲峰.地理学时空数据分析方法.地理学报.2014.69(9)
+9.Blei,D M.Latent Dirichlet Allocation.Journal of Machine Learning Research.2003.(3)
+10.单斌.基于LDA话题演化研究方法综述.中文信息学报.2010.24(6)
+11.赵爱华.基于LDA的新闻话题子话题划分方法.小型微型计算机系统.2013.34(4)
+12.王少鹏.基于LDA的文本聚类在网络舆情分析中的应用研究.山东大学学报(理学版).2014.49(9)
+13.史剑虹.基于隐主题分析的中文微博话题发现.计算机应用研究.2014.31(3)
+14.曹丽娜.BBS话题的地理分布分析.系统科学与数学.2016.36(5)
+15.王艳东.基于社交媒体的突发事件应急信息挖掘与分析.武汉大学学报(信息科学版).2016.41(3)
+16.陈涛.基于搜索引擎关注度的网络舆情时空演化比较分析——以谷歌趋势和百度指数比较为例.情报杂志.2013.32(3)
+17.刘国巍.时空分异视角下非常规突发事件网络舆情演化研究——以“上海12.31踩踏事件”为例.情报杂志.2015.34(6)
+18.Heinrich,G.Parameter Estimation for Text Analysis:vsonix GmbH and University of Leipzig,2008
+19.崔凯.基于LDA的主题演化研究与实现:学位论文.长沙:国防科学技术大学,2010
+20.Odland,J.Spatial Autocorrelation.London:SAGE Publications
+21.秦昆.GIS空间分析理论与方法.武汉:武汉大学出版社
+22.宋雪娟.西安市住宅价格空间分异与时空演变规律分析:学位论文.西安:陕西师范大学,2011
+23.Anselin,L.Local Indicators of Spatial Association-LISA.Geographical Analysis.1995.27(2)
+24.张华平.NLPIR汉语分词系统.2016
+25.中华人民共和国国家统计局.最新县及县以上行政区划代码(截止2016年7月31日).2016
+26..ArcGIS.2016
+-----------------------------------------------------------------------
+
+【来源篇名】一种基于话题聚类及情感强度的微博舆情分析模型
+【英文篇名】Analyzing Public Opinion from Microblog with Topic Clustering and Sentiment Intensity
+【来源作者】王秀芳/盛姝/路燕
+【基    金】山东科技大学2018年研究生科技创新项目(SDKDYC180222)
+【期    刊】数据分析与知识发现
+【第一机构】山东科技大学
+【机构名称】[王秀芳]山东科技大学.计算机科学与工程学院/[盛姝]山东科技大学.计算机科学与工程学院/[路燕]山东科技大学.计算机科学与工程学院
+【第一作者】王秀芳
+【中图类号】G353.1
+【年代卷期】2018,2(060):37-47
+【关 键 词】舆情分析/情感分析/话题聚类/情感强度分析
+【基金类别】
+【参考文献】
+1.马晓玲.中文文本情感倾向分析研究.情报资料工作.2013.(1)
+2.Vaibhavi,N.Sentimental Analysis on Twitter Data Using Naive Bayes,2017
+3.唐晓波.融入情感差异和用户兴趣的微博转发预测.图书情报工作.2017.61(9)
+4.Ingle,M M.Evaluations on Sentiment Analysis of Micro Blogging Site Using Topic Modeling,2016
+5.Giatsoglou,M.Sentiment Analysis Leveraging Emotions and Word Embeddings.Expert Systems with Applications.2017.69
+6.韩忠明.面向热点话题时间序列的有效聚类算法研究.计算机学报.2012.35(11)
+7.吴青林.基于话题聚类及情感强度的中文微博舆情分析.情报理论与实践.2016.39(1)
+8.何跃.结合话题相关性的热点话题情感倾向研究.数据分析与知识发现.2017.1(3)
+9.Sotiropoulos,D N.What Drives Social Sentiment? An Entropic Measure-based Clustering Approach Towards Identifying Factors that Influence Social Sentiment Polarity,2014
+10.Manek,A S.Aspect Term Extraction for Sentiment Analysis in Large Movie Reviews Using Gini Index Feature Selection Method and SVM Classifier.World Wide Web.2017.20(2)
+11.李慧.基于属性特征的评论文本情感极性量化分析.数据分析与知识发现.2017.1(10)
+12.Meisheri,H.Textmining at EmoInt-2017: A Deep Learning Approach to Sentiment Intensity Scoring of English Tweets,2017
+13.郑丽娟.基于情感词模糊统计的网络评论情感强度的研究.系统管理学报.2014.23(3)
+14.Pérez-Ortiz,M.Semi-supervised Learning for Ordinal Kernel Discriminant Analysis.Neural Networks.2016.84
+15.周航星.有序判别典型相关分析.软件学报.2014.25(9)
+16.Hotelling,H.Relations Between 2 Sets of Variants.Biometrika.1935.28(3-4)
+17.Yoshida,K.Sparse Kernel Canonical Correlation Analysis for Discovery of Nonlinear Interactions in High-dimensional Data.BMC Bioinformatics.2017.18(1)
+18.钟敏娟.基于关联规则挖掘和极性分析的商品评论情感词典构建.情报学报.2016.35(5)
+19.刘德喜.情感词扩展对微博情感分类性能影响的实验分析.小型微型计算机系统.2016.37(5)
+20.阳林.情感词权值研究及在情感极性分析中的应用.计算机应用.2015.35(S2)
+21.Van Arthur,G.Multi-Granular Trend Detection for Time-Series Analysis.IEEE Transactions on Visualization and Computer Graphics.2017.23(1)
+22.唐晓波.基于话题情感强度的微博舆情分析.图书馆学研究.2014.(17)
+23.Refaee,E.iLab-Edinburgh at SemEval-2016 Task 7: A Hybrid Approach for Determining Sentiment Intensity of Arabic Twitter Phrases,2016
+-----------------------------------------------------------------------
+
+【来源篇名】基于联合国气候变化大会的英国主流媒体涉华舆情研究
+【英文篇名】Research on British Mainstream Media\'s China-related Public Opinions During UN Climate Change Conferences
+【来源作者】申辰瑜/郭继荣/郭淼
+【基    金】西安交通大学社会科学重大培植项目(SKZD16003)/陕西省社科招标项目(2016ZB002)
+【期    刊】情报杂志
+【第一机构】西安交通大学
+【机构名称】[申辰瑜]西安交通大学.外国语学院/[郭继荣]西安交通大学.外国语学院/[郭淼]西北政法大学.新闻传播学院
+【第一作者】申辰瑜
+【中图类号】G353.1
+【年代卷期】2018,37(090):113-119
+【关 键 词】联合国气候变化大会/英国媒体/涉华舆情/批评话语分析/中国形象
+【基金类别】
+【参考文献】
+1.周庆安.海外主流媒体涉华舆情研究方法及功能探究.对外传播.2014.(8)
+2.张丽君.联合国气候变化大会与中国国家形象的塑造.山西师大学报(社会科学版).2014.41(4)
+3.吴彤.基于内容分析法的气候变化报道国际比较.北京大学学报(自然科学版).2016.52(2)
+4..外交部发言人就气候变化巴黎大会成果发表谈话.2018
+5.Van Leeuwen,T..Discouse and Practice.Oxford:Oxford University Press
+6.Van Dijk,T. A..News as discourse.Hillsdale, NJ:Lawrence Erlbaum Associates
+7.庄学勋.媒介变迁视野下的路透社.新闻研究导刊.2017.(1)
+8.郑若琪.英国《卫报》:以开放式新闻构建数字化商业模式.南方电视学刊.2012.(6)
+9.范以锦.追求媒体品牌延伸大目标的大手笔——浅谈日经收购金融时报.传媒评论.2015.(8)
+-----------------------------------------------------------------------
+
+【来源篇名】基于要素图的舆情事件线索化方法研究
+【英文篇名】Threading Events of Public Opinion Based on Argument Graph
+【来源作者】何绯娟/杨宽/缪相林/高建忠
+【基    金】教育部人文社会科学研究青年基金项目(15YJCZH057)/陕西省社会科学基金项目(2016N005)/西安交通大学城市学院校级科研项目(2016KZ01)
+【期    刊】情报杂志
+【第一机构】西安交通大学
+【机构名称】[何绯娟]西安交通大学.城市学院/[杨宽]西安交通大学.电子与信息工程学院/[缪相林]西安交通大学.城市学院/[高建忠]西安交通大学.图书馆
+【第一作者】何绯娟
+【中图类号】G353.12
+【年代卷期】2017,36(070):101-104
+【关 键 词】舆情/事件线索化/事件关联/要素图/百度百科
+【基金类别】
+【参考文献】
+1.Nallapati,R.Event threading within news topics,2004:446-453
+2.夏火松.大数据环境下舆情分析与决策支持研究文献综述.情报杂志.2015.34(2)
+3.Zhao,S.Event causality extraction based on connectives analysis.Neurocomputing.2016.173
+4.Do,Q X.Minimally supervised event causality identification,2011:294-303
+5.Shahaf,D.Guestrin connecting two (or less) dots: Discovering structure in news articles.ACM Transactions on Knowledge Discovery from Data.2012.5(4)
+6.钟军.基于双层模型的维吾尔语突发事件因果关系抽取.自动化学报.2014.40(4)
+7.马骁霏.基于情景的突发事件链构建方法.情报杂志.2013.32(8)
+8.张辉.词网络的新闻事件关联建模.国防科技大学学报.2014.36(4)
+9.Li,P.Joint argument inference in chinese event extraction with argument consistency and event relevance.IEEE Transactions on Audio, Speech, and Language Processing.2016.24(4)
+10.Ester,B M.A density based algorithm for discovering clusters in large spatial databases,1996
+-----------------------------------------------------------------------
+
+【来源篇名】新媒体环境下社会公益网络舆情传播研究——以新浪微博“画出生命线”话题为例
+【英文篇名】The Dissemination of Online Public Opinion on Social Welfare Issues via New Media: Case Study of \"Draw up the Lifeline\" in Sina Weibo
+【来源作者】王晰巍/张柳/李师萌/王楠阿雪
+【基    金】国家自然科学面上项目(71673108)/吉林大学高峰学科(群)建设项目
+【期    刊】数据分析与知识发现
+【第一机构】吉林大学
+【机构名称】[王晰巍]吉林大学.管理学院/[张柳]吉林大学.管理学院/[李师萌]吉林大学.管理学院/[王楠阿雪]吉林大学.管理学院
+【第一作者】王晰巍
+【中图类号】G350
+【年代卷期】2017,1(060):93-101
+【关 键 词】新媒体/社会公益/网络舆情/信息传播/社会网络
+【基金类别】
+【参考文献】
+1.Rosenkrantz,A B.Use of Twitter Polls to Determine Public Opinion Regarding Content Presented at a Major National Specialty Society Meeting.Journal of the American College of Radiology.2016.14(2)
+2.Ortigosa,A.Sentiment Analysis in Facebook and Its Application to E-learning.Computers in Human Behavior.2014.31(1)
+3.Gonzalezbailon,S.Signals of Public Opinion in Online Communication: A Comparison of Methods and Data Sources.Annals of the American Academy of Political and Social Science.2015.659(1)
+4.杜阿宁.互联网舆情信息挖掘方法研究:学位论文.哈尔滨:哈尔滨工业大学,2007
+5.魏超.新媒体技术发展对网络舆情信息工作的影响研究.图书情报工作.2014.58(1)
+6.廖海涵.社交媒体舆情信息传播效果影响因素研究——以新浪微博“8.12天津爆炸”事件为例.现代图书情报技术.2016.(12)
+7.陈璟浩.突发社会安全事件网络舆情演化的生存分析——基于70起重大社会安全事件的分析.情报杂志.2016.35(4)
+8.何跃.突发事件中微博用户社群舆情传播特征研究.情报科学.2016.34(6)
+9.曾润喜.网络舆情信息资源共享研究.情报杂志.2009.28(8)
+10.李兰.新形势下公共危机事件网络舆情应对分析:学位论文.武汉:华中科技大学,2015
+11.李培铭.传统媒体与新媒体有效融合的途径分析.新媒体研究.2016.2(10)
+12.González,M A.Opinión Pública Y Web 2.0. Las Redes Digitalizan El Barómetro Político En Espa?a.Revista Mexicana De Opinión Pública.2016.21
+13.Heinrich,T.Public Opinion and Foreign Aid Cuts in Economic Crises.World Development.2016.77
+14.裴雷.社会网络分析在情报学中的应用和发展.图书馆论坛.2006.26(6)
+15.Molano,S.Social Network Analysis in a Learning Community.Procedia-Social and Behavioral Sciences.2015.185
+16.Senghore,F.Using Social Network Analysis to Investigate the Potential of Innovation Networks: Lessons Learned from NASA's International Space Apps Challenge.Procedia Computer Science.2014.28
+17.雷辉.基于社会网络分析的网络传播主体行为特征研究.情报杂志.2015.34(1)
+18.王国华.微博意见领袖的网络媒介权力之量化解读及特征研究——基于社会网络分析的视角.情报杂志.2015.34(7)
+19.滕广青.基于网络中心性的领域知识动态演化研究.图书情报工作.2016.60(14)
+20.张顺龙.针对多聚类中心大数据集的加速K-means聚类算法.计算机应用研究.2016.33(2)
+21.白林根.微博关注关系网络K－核结构实证分析.现代图书情报技术.2013.(11)
+22.王海迪.新媒体时代微博公益传播认同塑造的机制研究.西部学刊.2016.(16)
+23.陈萌.对我国微博公益平台的思考.新闻世界.2012.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】中美网络舆情监控比较
+【英文篇名】Comparison of Network Public Opinion Surveillance between China and US
+【来源作者】周松青
+【基    金】国家社会科学基金项目(14BTQ028)
+【期    刊】北京社会科学
+【第一机构】上海政法学院
+【机构名称】[周松青]上海政法学院.社会管理学院
+【第一作者】周松青
+【中图类号】G352
+【年代卷期】2017,(010):22-32
+【关 键 词】网络舆情/监控/中美比较
+【基金类别】
+【参考文献】
+1.De Zwart,Melissa.Surveillance, Big Data and Democracy: Lessons for Australia from the US and UK.UNSW Law Journal.2014.37(2)
+2.Cockfield,Arthur.Surveillance as Law.Griffith law review vol.2011.20(4)
+3.Schoenfeld,Gabriel,Dr.In Defense of the American Surveillance State.Drake Law Review.2015.(63)
+4.Amendment I. Amendment IV. The Constitution of the United States of America
+5.Madriiian,Peter G.Devil In the Details: Constitutional Problems Inherent in the Internet Surveillance Provisions of the USA Patriot Act of 2001.University of Pittsburgh Law Review.2003.64(4)
+6..United States v. Karo, 104 S. Ct. 3296. 1984,1984
+7.sec. 201. sec. 202. 115 Stat. 272 Public Law 107-56-OCT. 26, 2001
+8.Remarks on Signing the USA Patriot Act of 2001, 37 WKLY. Compilation Presidential Documents 1550, 1551. Oct. 29, 2001
+9.SEC. 702. SEC. 703. 122 STAT. 2436 Public Law 110-261-July 10, 2008
+10.Arnbak,Axel.Loopholes for Circumventing the Constitution: Unrestrained Bulk Surveillance on Americans by Collecting Network Traffic Abroad.Michigan Telecommunications and Technology Law Review.2015.(21)
+11..中华人民共和国宪法，第35条、第39条、第40条
+12..中华人民共和国反恐怖主义法(2015年12月27日第十二届全国人民代表大会常务委员会第十八次会议通过)，第九条、第十八条、第十九条、第二十一条、第八十四条、八十六条.2015
+13..国务院关于授权1国家互联网信息办公室负责互联网信息内容管理工作的通知.2014
+14..互联网新闻信息服务单位约谈工作规定.2015
+15..互联网用户账号名称管理规定.2015
+16.Lynch,John.U. S. Dept. of Justice, Computer Crime and Intellectual Property Section, Obtaining and Using Evidence from Social Networking Sites: Facebook, MySpace, Linkedln, and More.2010
+17.Semitsu,Junichi P.From Facebook to Mug Shot: How the Dearth of Social Networking Privacy Rights Revolutionized Online Government Surveillance.Social Networking and the Law. Pace Law Review.2011.31(1)
+18.Joh,Elizabeth E.New Surveillance Discretion: Automated Suspicion, Big Data, and Policing.Harvard Law & Policy Review.2016.10
+19.Pell,Stephanie K.Your Secret Stingray's No Secret Anymore: the Vanishing Government Monopoly Over Cell Phone Surveillance and Its Impact on National Security and Consumer Privacy.Harvard Journal of Law & Technology.2014.28(1)
+20.Lerner,Jack.Duty of Confidentiality in the Surveillance Age.Journal of Internet Law.2014.17(10)
+21.Miller,Kevin.Total Surveillance, Big Data, and Predictive Crime Technology: Privacy's Perfect Storm.Journal Technology of Law and Policy.2014.19
+22.Joris,V. J.Privacy and Security in the Cloud: Some Realism About Technical Solutions to Transnational Surveillance in the Post Snowden Era.Maine Law Review.2014.66(2)
+-----------------------------------------------------------------------
+
+【来源篇名】个体视角下的网络舆情传递链路预测分析
+【英文篇名】Link Prediction Analysis of Internet Public Opinion Transfer from the Individual Perspective
+【来源作者】魏静/朱恒民/宋瑞晓/蒋世兵
+【基    金】国家自然科学基金项目(71271120)/教育部人文社会科学基金项目(13YJC630178)/江苏省社会科学基金项目(14TQC002)
+【期    刊】现代图书情报技术
+【第一机构】南京邮电大学
+【机构名称】[魏静]南京邮电大学.管理学院/[朱恒民]南京邮电大学.管理学院/[宋瑞晓]南京航空航天大学.经济与管理学院/[蒋世兵]加拿大布鲁克大学.管理学院
+【第一作者】魏静
+【中图类号】G35
+【年代卷期】2016,(010):55-64
+【关 键 词】链路预测/舆情个体/无标度网络/BBS网络
+【基金类别】国家自科基金/教育部基金/省（市）级基金/
+【参考文献】
+1..
+2.吴绍忠.互联网络舆情预警机制研究.中国人民公安大学学报(自然科学版).2008.14(3)
+3.兰月新.地方政府应对网络舆情能力评估和危机预警研究.现代情报.2012.32(5)
+4.陈忆金.网络舆情信息监测研究进展.图书情报知识.2011.(6)
+5.梁娜.基于ANN-泊松模型的预测研究.咸宁学院学报.2008.28(6)
+6.尹清波.基于线性预测与马尔可夫模型的入侵检测技术研究.计算机学报.2005.28(5)
+7.范玉妹.ARMA算法在GDP预测中的应用.江南大学学报(自然科学版).2010.9(6)
+8.杨云霞.时间序列预测模型及其应用.太原师范学院学报(自然科学版).2005.4(4)
+9.杜华英.基于PSO算法的BP神经网络研究.现代计算机.2009.(2)
+10.Taylor,S.E..社会心理学.北京:北京大学出版社
+11.Abrahamson,E..Institutional and Competitive Bandwagons: Using Mathematical Modeling as a Tool to Explore Innovation Diffusion.Academy of Management Review.1993.18(3)
+12.刘锦德.基于不完全信息演化博弈模型的网络舆情传播羊群行为.国防科技大学学报.2013.35(5)
+13.Maslov,S..Specificity and Stability in Topology of Protein Networks.Science.2002.296(5569)
+14.Lam,L..Histophysics: A New Discipline.Modern Physics Letters B.2002.16(30)
+15.Liben-Nowell,D..Link Prediction Problem for Social Networks.Journal of the American Society for Information Science and Technology.2007.58(7)
+16.Murata,T..Link Prediction of Social Networks Based on Weighted Proximity Measures:IEEE,2007:85-88
+17.Leskovec,J..Predicting Positive and Negative Links in Online Social Networks,2010:641-650
+18.吴少华.基于SNA参数增量的网络舆论调控时机研究.网络安全技术与应用.2014.(6)
+19.Ahn,Y.Y..Analysis of Topological Characteristics of Huge Online Social Networking Services,2007:835-844
+20.Fu,F..Social Dilemmas in an Online Social Network: The Structure and Evolution of Cooperation.Physics Letters A.2007.371(1)
+21.Mislove,A..Measurement and Analysis of Online Social Networks,2007:29-42
+22.Kumar,R..Structure and Evolution of Online Social Networks:Social Networking:Springer International Publishing,2010:337-357
+23.魏静.在线知识转移网络的演化规律实证分析.管理评论.2014.26(12)
+24.吕琳媛.链路预测.北京:高等教育出版社
+25.王林.无标度网络中的链路预测问题研究.计算机工程.2012.38(2)
+26.田占伟.基于复杂网络的微博信息传播研究:学位论文.哈尔滨:哈尔滨工业大学,2012
+-----------------------------------------------------------------------
+
+【来源篇名】基于E-Divisive的网络舆情演化分析
+【英文篇名】Quantitative Analysis Method for Long-Term Network Public Opinion Events
+【来源作者】陈福集/张燕
+【基    金】国家自然科学基金项目(71271056)
+【期    刊】情报杂志
+【第一机构】福州大学
+【机构名称】[陈福集]福州大学.经济与管理学院/[张燕]福州大学.经济与管理学院
+【第一作者】陈福集
+【中图类号】G350
+【年代卷期】2016,35(040):75-79
+【关 键 词】网络舆情/时间序列/阶段划分/EDivisive/舆情演化
+【基金类别】国家自科基金/
+【参考文献】
+1..第36次中国互联网络发展状况统计报告
+2.王国华.解码网络舆情.武汉:华中科技大学出版社
+3.谢科范.网络舆情突发事件的生命周期原理及集群决策研究.武汉理工大学学报(社会科学版).2010.23(4)
+4.王克群.网络舆情的研判与应对.长白学刊.2010.(1)
+5.曹劲松.网络舆情的发展规律.新闻与写作.2010.(5)
+6.周耀明.基于EMD的网络舆情演化分析与建模方法.计算机工程.2012.38(21)
+7.James,Nicholas A..An R Package for Nonparametric Multiple Change Point Analysis of Multivariate Data:Matteson Cornell University,2013
+8.陈力丹.舆论学——舆论导向研究.北京:中国广播电视出版社
+9.刘建明.舆论传播.北京:清华大学出版社
+10.高辉.Web舆情的长期趋势预测方法.电子科技大学学报.2011.40(3)
+-----------------------------------------------------------------------
+
+【来源篇名】互联网数据在舆情研判中的效用研究
+【英文篇名】Effectiveness of Internet Data in the Public Opinion Analysis Task
+【来源作者】杜洪涛/孟庆国/王君泽
+【基    金】国家社会科学基金重大项目(15ZDA039)/国家社会科学基金特别委托项目(15@ZH012)/中国博士后科学基金资助项目(2015M570123)
+【期    刊】中国软科学
+【第一机构】清华大学
+【机构名称】[杜洪涛]清华大学.公共管理学院/[孟庆国]清华大学.公共管理学院/[王君泽]华中科技大学.公共管理学院
+【第一作者】杜洪涛
+【中图类号】G353.12
+【年代卷期】2016,(040):34-44
+【关 键 词】网络舆情/舆情研判/互联网数据/Web数据挖掘/效用分析
+【基金类别】国家社科基金/国家级其它基金/
+【参考文献】
+1.王来华.对舆情、民意和舆论三概念异同的初步辨析.新视野.2004.(5)
+2.魏丽萍.网络舆情形成机制的进化博弈论启示.新闻与传播研究.2010.(6)
+3.易承志.群体性突发事件网络舆情的演变机制分析.情报杂志.2011.30(12)
+4.曾润喜.网络舆情管控工作机制研究.图书情报工作.2009.53(18)
+5.曾润喜.网络舆情突发事件预警系统、指标与机制.情报杂志.2009.28(11)
+6.肖文涛.网络舆情事件的引导策略探究.中国行政管理.2011.(12)
+7.刘毅.内容分析法在网络舆情信息分析中的应用.天津大学学报(社会科学版).2006.8(4)
+8.谢海光.互联网内容及舆情深度分析模式.中国青年政治学院学报.2006.25(3)
+9.杨超.基于情感词典扩展技术的网络舆情倾向性分析.小型微型计算机系统.2010.31(4)
+10.王君泽.基于网页转载关系判别的网络舆情传播态势分析.情报杂志.2015.34(1)
+11.王君泽.微博客意见领袖识别模型研究.新闻与传播研究.2011.(6)
+12.李纲.基于文本情感分类的网络推手识别.图书情报工作.2010.54(8)
+13.康伟.基于SNA的突发事件网络舆情关键节点识别——以“7·23动车事故”为例.公共管理学报.2012.9(3)
+14.黄晓斌.文本挖掘在网络舆情信息分析中的应用.情报科学.2009.(1)
+15.李光敏.面向网络舆情的评论文本情感分析研究.情报杂志.2014.33(5)
+16.刘志明.微博网络舆情中的意见领袖识别及分析.系统工程.2011.(6)
+17.沈阳.微公益传播的动员模式研究.新闻与传播研究.2013.(3)
+18.王伟.基于聚类的网络舆情热点发现及分析.现代图书情报技术.2009.(3)
+19.许笑.广域网分布式Web爬虫.软件学报.2010.21(5)
+20.周立柱.聚焦爬虫技术研究综述.计算机应用.2005.25(9)
+21.谈国新.突发公共事件网络舆情监测指标体系研究.华中师范大学学报(人文社会科学版).2010.49(3)
+22.石彭辉.基于社会网络分析的网络舆情实证研究.现代情报.2013.33(2)
+23.曾润喜.我国网络舆情研究与发展现状分析.图书馆学研究.2009.(8)
+24.张玉峰.基于Web挖掘的网络舆情智能分析研究.情报理论与实践.2011.34(4)
+25.康伟.突发事件舆情传播的社会网络结构测度与分析——基于“11·16校车事故”的实证研究.中国软科学.2012.(7)
+26.李卓卓.基于社会网络分析的网络舆论领袖发掘——以大学生就业舆情为例.情报杂志.2011.30(11)
+27.张素兰.图像语义自动标注及其粒度分析方法.自动化学报.2012.38(5)
+28.白亮.基于本体的视频语义内容分析.计算机科学.2009.36(7)
+29.董亚倩.基于社会网络分析的网络舆情主体挖掘研究.情报资料工作.2011.(6)
+30.苏楠.基于知识图谱的国内网络舆情研究可视化分析.情报杂志.2012.(10)
+31.陈斯杰.基于用户视角的科技信息服务网站影响力评估研究:学位论文:南京理工大学,2009
+32.郭岩.网络舆情信息源影响力的评估研究.中文信息学报.2011.25(3)
+33.Wang,J..An approach to rank reviews by fusing and mining opinions based on review pertinence.Information Fusion.2015.23(3)
+34.丁波涛.国外开源情报工作的发展与我国的对策研究.情报资料工作.2011.(6)
+35.曾鸿.竞争情报与信息甄别.图书馆理论与实践.2006.(4)
+36.张紫琼.互联网商品评论情感分析研究综述.管理科学学报.2010.13(6)
+37.崔晓玲.基于汉语网络新闻评论的情感语料库标注研究.北京邮电大学学报(社会科学版).2013.(6)
+38.Kim,M..Crystal: Analyzing predictive opinions on the web,2007:1056-1064
+39.Lin,H..Which side are you on? Identifying perspectives at the document and sentence levels,2006:109-116
+40.张玉峰.基于内容相似性的论坛用户社会网络挖掘.情报杂志.2010.29(8)
+41.高承实.微博舆情监测指标体系研究.情报杂志.2011.30(9)
+42.Athanaselis,T..Recognizing verbal content of emotionally colored speech,2006
+43.吕韶华.基于SimRank的跨领域情感倾向性分析算法研究.中文信息学报.2012.26(6)
+44.曾润喜.网络舆情指标体系、方法与模型比较研究.情报杂志.2014.(4)
+45.许鑫.国内网络舆情研究的回顾与展望.情报理论与实践.2009.32(3)
+46.李纲.突发公共事件网络舆情研究综述.图书情报知识.2014.(2)
+47.李广建.大数据视角下的情报研究与情报研究技术.图书与情报.2012.(6)
+48.Epstein,J.M..Growing artificial societies: social science from the bottom up.MIT Press Books.1996.1(99)
+49.Cao,F..A model of ecological monitoring and response system for Internet public opinion.International Journal of Multimedia & Ubiquitous Engineering.2014.9(5)
+50.Jie,Ding.Ipoms: An Internet public opinion monitoring system.Applications of Digital Information & Web Technologies.2009.(1)
+51.唐涛.基于大数据的网络舆情分析方法研究.现代情报.2014.34(3)
+52.Los,W..Dealing with data: upgrading infrastructure.Science.2011.331(6024)
+53.李国杰.大数据研究:未来科技及经济社会发展的重大战略领域——大数据的研究现状与科学思考.中国科学院院刊.2012.27(6)
+54.夏火松.大数据环境下舆情分析与决策支持研究文献综述.情报杂志.2015.(2)
+55.李彪.大数据视域下社会舆情研究的新境界.编辑之友.2013.(6)
+56.王飞跃.计算实验方法与复杂系统行为分析和决策评估.系统仿真学报.2004.16(5)
+57.王飞跃.基于平行系统的非常规突发事件计算实验平台研究.复杂系统与复杂性科学.2010.7(4)
+-----------------------------------------------------------------------
+
+【来源篇名】基于知识库和主题爬虫的南海舆情实时监测研究
+【英文篇名】Research on Network Public Opinion Real-time Monitoring of the South China Sea Issue Based on Knowledge Base and Focused Crawler
+【来源作者】丁晟春/龚思兰/周文杰/王曰芬
+【基    金】国家社会科学基金项目(15BTQ063)/国家社会科学基金重点项目(14AZD084)/中央高校基本科研业务费专项资金资助(30916011330)
+【期    刊】情报杂志
+【第一机构】南京理工大学
+【机构名称】[丁晟春]南京理工大学.经济管理学院信息管理系/[龚思兰]南京理工大学.经济管理学院信息管理系/[周文杰]南京理工大学.经济管理学院信息管理系/[王曰芬]南京理工大学.经济管理学院信息管理系
+【第一作者】丁晟春
+【中图类号】G353
+【年代卷期】2016,35(050):32-37
+【关 键 词】领域知识库/主题爬虫/网络舆情监测/南海问题
+【基金类别】国家社科基金/教育部基金/
+【参考文献】
+1.张一文.非常规突发事件网络舆情热度评价指标体系构建.情报杂志.2010.29(11)
+2.王青.网络舆情监测及预警指标体系研究综述.情报科学.2011.29(7)
+3.王青.网络舆情监测及预警指标体系构建研究.图书情报工作.2011.55(8)
+4.张玥.基于信息生命周期理论的网络舆情监测研究.情报科学.2013.31(11)
+5.冯江平.网络舆情评价指标体系的构建与应用.云南师范大学学报(哲学社会科学版).2014.(2)
+6.刘彬.重大事件舆情监测指标体系与分析模型.统计与决策.2015.(11)
+7.陈忆金.网络舆情信息监测研究进展.图书情报知识.2011.144(6)
+8.唐涛.基于情报学方法的网络舆情监测研究.情报科学.2014.32(1)
+9.Talvis.Real-time Monitoring of Flu Epidemics Through Linguistic And Statistical Analysis of Twitter Messages:SMAP,2014:83-87
+10.Paola,Velardi.Twitter Mining for Fine-grained Syndromic Surveillance.Artificial Intelligence in Medicine.2014.61(3)
+11.Lauschke.Monitoring User Evolution in Twitter.Asonam,2012:972-977
+12.Robert,Power.A Case Study for Monitoring Fires with Twitter,2015
+13.Terpstra,Teun.Towards a Realtime Twitter Analysis During Crises for Operational Crisis Management,2012
+14.李纲.突发公共事件网络舆情研究综述.图书情报知识.2014.(2)
+15.陈越.网络舆情监测与预警中的知识库研究.图书情报工作.2011.(增2)
+16.于娟.主题网络爬虫研究综述.计算机工程与科学.2015.37(2)
+17.李婧.基于微博的舆情监测与分析的研究.智能计算机与应用.2013.3(2)
+18.李月超.网络舆情监控系统中主题网络爬虫的研究.电脑知识与技术.2015.11(2)
+19.杨贞.基于本体的主题爬虫的设计与实现:学位论文.合肥:合肥工业大学,2008
+20.陈鑫.基于行块分布函数的通用网页正文抽取法.2009
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情事件的话题演化分析——以成都女司机为例
+【英文篇名】A Subtopic Detection Method of Specific Events for Network Public Opinion: Taking News about a Female Driver in Chengdu as Example
+【来源作者】陈福集/马梅兰
+【基    金】国家自然科学基金项目(71271056)
+【期    刊】情报杂志
+【第一机构】福州大学
+【机构名称】[陈福集]福州大学.经济与管理学院/[马梅兰]福州大学.经济与管理学院
+【第一作者】陈福集
+【中图类号】G350
+【年代卷期】2016,35(050):58-64
+【关 键 词】网络舆情/话题演化/衍生效应/子话题识别/话题模型
+【基金类别】国家自科基金/
+【参考文献】
+1.许志凯.网络舆情分析关键技术的研究与实现:学位论文.哈尔滨:哈尔滨工业大学,2011
+2.洪宇.话题跟踪中静态和动态话题模型的核捕捉衰减.软件学报.2012.23(5)
+3.楚克明.基于LDA模型的新闻话题的演化.上海交通大学学报.2011.28(4)
+4.胡艳丽.一种话题演化建模与分析方法.自动化学报.2012.38(10)
+5.陈婷.基于时序信息的话题动态演化模型及追踪算法.武汉理工大学学报.2015.37(3)
+6.赵旭剑.一种基于特征演变的新闻话题演化挖掘方法.计算机学报.2014.37(4)
+7.赵华.话题检测与跟踪关键技术研究:学位论文.哈尔滨:哈尔滨工业大学,2008
+8.龙志祎.基于词聚类的热点话题检测算法.计算机工程与设计.2011.32(6)
+9.周泓.基于短文本信息流的回顾式话题识别模型.中文信息学报.2015.29(1)
+10.陈卓群.基于共词网络的社交媒体话题演化分析.情报科学.2015.33(1)
+11.赵爱华.面向网络新闻的话题检测技术研究:学位论文.济南:山东师范大学,2013
+12.冀俊忠.词性对新闻和微博网络话题检测的影响.北京工业大学学报.2015.41(4)
+13.李晓红.中文文本分类中的特征词抽取方法.计算机工程与设计.2009.30(17)
+14.周亚东.一种网络话题的内容焦点迁移识别方法.计算机学报.2015.38(2)
+-----------------------------------------------------------------------
+
+【来源篇名】我国网络舆情系统存在的功能性问题及对策
+【英文篇名】Analyzing China’s Online Public Opinion Monitoring Systems: Functional Flaws and Countermeasures
+【来源作者】赵珞琳/何笑然/田丽
+【基    金】国家自然科学基金项目(71573005)
+【期    刊】图书情报知识
+【第一机构】北京大学
+【机构名称】[赵珞琳]北京大学.新媒体研究院/[何笑然]南昌大学.新闻与传播学院/[田丽]北京大学.新媒体研究院
+【第一作者】赵珞琳
+【中图类号】G35
+【年代卷期】2016,(030):110-115
+【关 键 词】网络舆情/舆情监测/舆情系统
+【基金类别】国家自科基金/
+【参考文献】
+1.邱奕.我国网络舆情监测的主要方式.新闻与写作.2014.(7)
+2.郭志蓉.我国网络舆论研究的发展与现状:学位论文.西安:西北大学,2011:17-18
+3.秦爱红.网络舆情信息系统体系研究探析.新闻界.2014.(17)
+4.俞鹏飞.基于内容的音频检索系统关键技术及其实现:学位论文.上海:复旦大学,2013
+5.李向伟.基于内容的视频检索与挖掘关键技术研究:学位论文.兰州:兰州理工大学,2010
+6.刘浏.基于内容的重排列视频检索技术研究:学位论文.上海:上海交通大学,2013
+7.何顺兰.多媒体舆情分析系统设计与研究.杭州电子科技大学学报.2010.30(5)
+8.黄遥.基于OCR的视频字符识别技术研究与实现:学位论文.北京:北京交通大学,2014
+9.赖正权.刍议草根舆论场域中的话语权技术性博弈.2012
+10.陈向阳.当前境外涉华舆情新变化与应对思路.对外传播.2016.(1)
+11..国务院关于取消和调整一批行政审批项目等事项的决定_政府信息公开专栏.2015
+12.陈华.网络与舆情关联分析系统的设计实现:中国中文信息学会信息检索与内容安全专业委员会,2007:5
+13.孙玲芳.集体智慧下的网络群体事件预警机制构建.计算机工程与应用.2013.49(3)
+14.中国互联网络信息中心.CNNIC发布第37次《中国互联网络发展状况统计报告》.2016
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情信息的衍变话题细分及组配规律研究
+【英文篇名】Research on Network Public Opinion Evolution Topics Subdivision and Grouping Law
+【来源作者】黄微/李瑞/高俊峰
+【基    金】国家自然科学基金项目(71473101)
+【期    刊】情报资料工作
+【第一机构】吉林大学
+【机构名称】[黄微]吉林大学.管理学院/[李瑞]吉林大学.管理学院/[高俊峰]吉林大学.管理学院
+【第一作者】黄微
+【中图类号】G353.1
+【年代卷期】2016,(040):62-66
+【关 键 词】舆情/复杂网络/互信息/话题分析
+【基金类别】
+【参考文献】
+1.Kumaran,Q.Text classification and named entities for new event detection:ACM,2004:297-304
+2.曹树金.网络舆情主题标引算法与实现.图书情报知识.2012.(1)
+3.Go,A.Twitter sentiment classification using distant supervision.Stanford:Stanford University
+4.兰月新.突发事件网络衍生舆情监测模型研究.现代图书情报技术.2013.(3)
+5.朱恒民.面向话题衍生性的微博网络舆情传播模型研究.现代图书情报技术.2012.(5)
+6.Chung,Young Mee.A Corpus-based approach to comparative evaluation of statistical term association measure.Journal of the American Society for Information Science and Technology.2001.54(2)
+7.汪小凡.网络科学导论.北京:高等教育出版社
+8.邓君.社会网络分析工具Ucinet和Gephi的比较研究.情报理论与实践.2014.(8)
+9.西,艾伯特-拉斯洛·巴拉巴.链接.杭州:浙江人民出版社
+-----------------------------------------------------------------------
+
+【来源篇名】基于Hadoop的微博舆情监控系统模型研究
+【英文篇名】Hadoop Based Public Opinion Monitoring System for Micro-blogs
+【来源作者】杨爱东/刘东苏
+【基    金】
+【期    刊】现代图书情报技术
+【第一机构】西安电子科技大学
+【机构名称】[杨爱东]西安电子科技大学.经济与管理学院/[刘东苏]西安电子科技大学.经济与管理学院
+【第一作者】杨爱东
+【中图类号】G350
+【年代卷期】2016,(050):56-63
+【关 键 词】舆情监控/Hadoop/微博/大数据
+【基金类别】
+【参考文献】
+1.张克生.国家决策:机制与舆情.天津:天津社会科学院出版社
+2.中国互联网络信息中心.第36次中国互联网络发展状况统计报告.2015
+3.Wasserman,S..Social Network Analysis: Methods and Applications.Cambridge, NY:Cambridge University Press
+4.兰月新.大数据背景下微博舆情信息交互模型研究.现代图书情报技术.2015.(5)
+5.田占伟.基于复杂网络理论的微博信息传播实证分析.图书情报工作.2012.56(8)
+6.刘志明.微博网络舆情中的意见领袖识别及分析.系统工程.2011.29(6)
+7.高承实.微博舆情监测指标体系研究.情报杂志.2011.30(9)
+8.马彦.大数据环境下微博舆情热点话题挖掘方法研究.现代情报.2014.34(11)
+9.潘芳.基于BP神经网络的微博网络社群突发舆情的预警监控.情报杂志.2014.33(5)
+10..Hadoop.2016
+11..HDFS User Guide.2016
+12.Dean,J..MapReduce: Simplified Data Processing on Large Clusters.Communications of the ACM.2004.51(1)
+13.George,L..HBase: The Definitive Guide.O’ Reilly Media
+14.Song,Y..Approach to Chinese Word Segmentation Based on Character-Word Joint Decoding.Journal of Software.2009.20(9)
+15..TF-IDF.2016
+16..知网.2016
+17.李应安.基于MapReduce的聚类算法的并行化研究:学位论文.广州:中山大学,2010
+18.冯希莹.舆情概念辨析.社会工作.2011.(10)
+19.张伟舒.微博情感倾向算法的改进与实现.知识管理论坛.2013.(9)
+20.Shen,Y..Emotion Mining Research on Micro-blog.Lanzhou:Lanzhou University,2009
+-----------------------------------------------------------------------
+
+【来源篇名】基于改进粒子群和BP神经网络的网络舆情预测研究
+【英文篇名】Research on the Prediction of Network Public Opinion Based on Improved PSO and BP Neural Network
+【来源作者】游丹丹/陈福集
+【基    金】国家自然科学基金项目(71271056)
+【期    刊】情报杂志
+【第一机构】福州大学
+【机构名称】[游丹丹]福州大学.经济与管理学院/[陈福集]福州大学.经济与管理学院
+【第一作者】游丹丹
+【中图类号】G350
+【年代卷期】2016,35(080):156-161
+【关 键 词】网络舆情/网络舆情预测/粒子群算法/BP神经网络
+【基金类别】国家自科基金/
+【参考文献】
+1.中国互联网络信息中心.第37次中国互联网络发展状况统计报告,2016
+2.薛圈圈.基于BP神经网络的网络舆情危机预警研究.图书情报工作.2011.(20)
+3.Candes,E.J..An introduction to compressive sampling.IEEE Signal Processing Magazine.2008.25(2)
+4.Huang,H.C..Watermarking for compressive sampling applications.Washington:IEEE,2012:223-226
+5.Zeng,J.P..Predictive model for Internet public opinion.Haikou:IEEE Press,2007:7-11
+6.李振.网络舆情预测关键技术研究:学位论文.郑州:郑州大学电气工程学院,2010
+7.张一文.基于贝叶斯网络建模的非常规危机事件网络舆情预警研究.图书情报工作.2012.56(2)
+8.黄敏.基于支持向量机的网络舆情混沌预测.计算机工程与应用.2013.49(24)
+9.刘勘.基于马尔可夫链舆情热度趋势分析.计算机工程与应用.2011.47(36)
+10.张珏.网络舆情预测模型与平台的研究:学位论文.北京:北京交通大学,2009
+11.王沙沙.基于类模型的Web舆情趋势预测:学位论文.成都:电子科技大学,2011
+12.蒋玉婷.数据挖掘技术在网络舆情预测中的应用.科技通报.2013.29(10)
+13.张华.基于优化BP神经网络的微博舆情预测模型研究:学位论文.武汉:华中师范大学计算机学院,2014
+14.葛哲学.神经网络理论与MATLAB R2007实现.北京:电子工业出版社
+15.Han,Jiawei.数据挖掘概念与技术.北京:机械工业出版社
+16.龚纯.精通MATLAB最优化计算.北京:电子工业出版社
+17.田雨波.混合神经网络技术.北京:科学出版社
+18.黄艳.基于改进粒子群优化的无线传感器网络定位算法.控制与决策.2012.27(1)
+19.曾振东.基于灰色支持向量机的网络舆情预测模型.计算机应用与软件.2014.31(2)
+-----------------------------------------------------------------------
+
+【来源篇名】基于社群用户特征的网络舆情传播趋势分析
+【英文篇名】Research on the Development Trend of Internet Public Opinion Diffusion Based on Network Community User Characteristics
+【来源作者】李根强/刘人境/孟勇
+【基    金】河南省政府决策研究招标课题(2016B297)/河南省哲学社会科学规划项目(2015BSH016)/国家自然科学基金资助项目(71271166)
+【期    刊】情报杂志
+【第一机构】新乡医学院
+【机构名称】[李根强]新乡医学院.心理学系/[刘人境]西安交通大学.管理学院/[孟勇]新乡医学院.中国城乡卫生调研中心
+【第一作者】李根强
+【中图类号】G350
+【年代卷期】2016,35(090):93-98,85
+【关 键 词】网络社群/网络舆情/舆情传播/Agent/关系强度/社群认同
+【基金类别】其它基金/省（市）级基金/国家自科基金/
+【参考文献】
+1.第71期《互联网发展信息与动态》
+2.张敏.时间敏感型舆情网络的ICSR传播模型构建与仿真.图书馆学研究.2015.(21)
+3.王来华.论网络舆情与舆论的转换及其影响.天津社会科学.2008.(4)
+4.朱毅华.基于影响模型的网络舆情演化与传播仿真研究.情报杂志.2015.34(2)
+5.曾润喜.网络舆情管控工作机制研究.图书情报工作.2009.53(18)
+6.何铮.新产品扩散随机阈值模型的实证研究.系统管理学报.2013.22(1)
+7.Bass,F.M..Why the Bass Model Fits without Decision Variables.Marketing Science.1994.13(3)
+8.于凯.基于线上线下网络的舆情传播模型研究.管理评论.2015.27(8)
+9.Centola,D..Spread of behavior in an online social network experiment.Science.2010.329(5996)
+10.Lu,L..Small world yields the most effective information spreading.New Journal of Physics.2011.13(48)
+11.郭东伟.基于非理性博弈的舆情传播仿真建模研究.自动化学报.2014.40(8)
+12.李峰.基于心理阈值模型的危机事件下从众行为动力学分析.系统管理学报.2011.20(5)
+13.Granovetter,M..Thresholdmodels of collective behavior.American Journal of Sociology.1978.83(6)
+14.Higgins,E.T..Making a good decision: Value from fit.American Psychologist.2000.(55)
+15.Higgins,E.T..Achievement orientations from subjective histories of success: Promotion pride versus prevention pride.European Journal of Social Psychology.2001.(31)
+16.金盛华.社会心理学.北京:高等教育出版社
+17.卜长莉.“差序格局”的理论诠释及现代内涵.社会学研究.2003.(1)
+18.闫翠萍.网络虚拟社区中的社群文化.湖南社会科学.2013.(4)
+19.石晶.群体认同对极端群体行为的影响:中介及调节效应的检验.心理科学.2012.(2)
+20.殷融.群体认同在集群行为中的作用机制.心理科学进展.2015.(9)
+21.张晓棠.关系强度、社会资本对知识获取绩效影响研究.预测.2015.34(1)
+22.Granovetter,M..Impact of social structure on economic outcomes.Journal of Economic Perspectives.2005.19(1)
+23.Correlation between social tie and reciprocity in social media
+24.Hornsey,M.J..Why do people engage in collective action? Revisiting the role of perceived effectiveness.Journal of Applied Social Psychology.2006.36(7)
+25.Macy,M.W..Chains of cooperation: Threshold effects in collective action.American Sociological Review.1991.56(6)
+26.Hu,H..ICTs, Social connectivity, and collective action: A cultural-political perspective.Journal of Artificial Societies and Social Simulation.2014.17(2)
+27.潘芳.危机事件网络舆情传播模型及消极思潮应急对策.图书情报工作.2010.54(15)
+-----------------------------------------------------------------------
+
+【来源篇名】大数据环境下社会舆情分析与决策支持的研究视角和关键问题
+【英文篇名】Social Public Opinion Analysis and Decision Making Support with Big Data
+【来源作者】岑咏华/王曰芬
+【基    金】国家社会科学基金重点项目(14AZD084)/江苏高校优势学科建设工程资助项目/江苏高校哲学社会科学重点研究基地“社会计算与舆情分析”(培育点)项目
+【期    刊】现代图书情报技术
+【第一机构】南京理工大学
+【机构名称】[岑咏华]南京理工大学.经济管理学院/[王曰芬]江苏省社会公共安全科技协同创新中心.
+【第一作者】岑咏华
+【中图类号】G350
+【年代卷期】2016,(070):3-10
+【关 键 词】社会舆情分析/政府决策支持/研究视角/关键问题/大数据
+【基金类别】国家社科基金/省（市）级基金/其它基金/
+【参考文献】
+1.王曰芬.大数据环境下社会舆情及其演化分析研究.情报资料工作.2016.37(3)
+2.夏火松.大数据环境下舆情分析与决策支持研究文献综述.情报杂志.2015.34(2)
+3.邢梦婷.国内外社会舆情研究的回顾与展望.情报理论与实践.2015.38(11)
+4..File: DIKW(1).png.2015
+5.钟义信.信息科学原理.北京:北京邮电大学出版社
+6.常绍舜.从经典系统论到现代系统论.系统科学学报.2011.19(3)
+7.萨巴蒂尔,保罗·A..政策变迁与学习——一种倡议联盟途径.北京:北京大学出版社
+8.扎勒,约翰·R..公共舆论.北京:中国人民大学出版社
+9.王慧媛.语义关联对注意捕获的影响:学位论文.沈阳:东北师范大学,2009
+10.Posner,M.I..Attention and Cognitive Control.Hillsdale, NJ:Erlbaum,1975:55-85
+11.Berners-Lee,T..Semantic Web: A New Form of Web Content That is Meaningful to Computers Will Unleash a Revolution of New Possibilities.Scientific American.2001.284(5)
+12.Simons,D.J..Attentional Capture and Intentional Blindness.Trends in Cognitive Science.2000.4(4)
+13.拉斯韦尔,哈罗德.社会传播的结构与功能.北京:中国传媒大学出版社
+14.罗伯特,L..认知心理学.上海:上海人民出版社
+15.刘晓雪.问题解决中的元认知作用综述.社会心理科学.2013.28(11)
+16.米丽娟.媒介素养科学内涵研究述评.重庆文理学院学报(社会科学版).2010.29(2)
+17.李伟权.“互动决策”:政府公共决策回应机制建设.探索.2002.(3)
+18.柴生秦.新公共管理对中国行政管理改革的借鉴意义.西北大学学报(哲学社会科学版).2000.30(2)
+19.迈尔-舍恩伯格,维克托.大数据时代——生活、工作与思维的大变革.杭州:浙江人民出版社
+-----------------------------------------------------------------------
+
+【来源篇名】面向政府决策需求的社会舆情信息语义组织研究
+【英文篇名】Semantic Analysis of Social Public Opinion Information for Government Decision Making
+【来源作者】王曰芬/邢梦婷
+【基    金】国家社会科学基金重点项目(14AZD084)/江苏高校优势学科建设工程资助项目/江苏高校哲学社会科学重点研究基地“社会计算与舆情分析”(培育点)
+【期    刊】现代图书情报技术
+【第一机构】南京理工大学
+【机构名称】[王曰芬]南京理工大学.经济管理学院/[邢梦婷]南京理工大学.经济管理学院
+【第一作者】王曰芬
+【中图类号】G350
+【年代卷期】2016,(070):21-30
+【关 键 词】政府决策需求/社会舆情信息/本体/语义组织
+【基金类别】国家社科基金/省（市）级基金/其它基金/
+【参考文献】
+1.中国图书馆学会.2011—2012年图书馆学学科发展报告.北京:中国科学技术出版社
+2.Sure,Y..On-To-Knowledge: Semantic Web Enabled Knowledge Management:Proceedings of Web Intelligence:Springer-Verlag,2003:277-300
+3.Staab,S..An Annotation Framework for the Semantic Web,2001:30-31
+4.方平.试论一体化医学语言系统(UMLS)超级叙词表的特点.图书情报工作.1998.42(10)
+5.李萍萍.基于语义Web的知识组织方法与应用.中华医学图书情报杂志.2009.18(4)
+6.苏晓路.农业科技信息智能检索系统中的知识组织.现代图书情报技术.2005.(12)
+7.董慧.基于本体和多代理的数字图书馆信息检索模型.中国图书馆学报.2004.30(2)
+8.董慧.基于数字图书馆的本体应用环境研究.中国图书馆学报.2009.35(5)
+9.申欣.基于语义网的信息检索系统的研究与实现.山东理工大学学报(自然科学版).2011.25(1)
+10.Kinsella,S..Applications of Semantic Web Methodologies and Techniques to Social Networks and Social Websites:Reasoning Web:Springer Berlin Heidelberg,2008:171-199
+11.Sleeman,J..Computing FOAF Co-reference Relations with Rules and Machine Learning,2010:595-608
+12.王兰成.主题舆情分析中的语义Web文本分类研究.情报学报.2012.31(4)
+13.王兰成.网络舆情情报语义集成分析法的理论与实践探析.情报理论与实践.2013.36(2)
+14.付业勤.旅游危机事件网络舆情的本体分析.重庆理工大学学报(社会科学).2015.29(2)
+15.李宏伟.食品安全网络舆情本体学习研究.南京邮电大学学报(社会科学版).2013.15(4)
+16.Lagoze,C..ABC Ontology and Model.Journal of Digital Information.2002.2(2)
+17.方兴东.网络舆情蓝皮书.北京:电子工业出版社
+18.谢耘耕.中国社会舆情与危机管理报告.北京:社会科学文献出版社
+19.杜骏飞.危如朝露:2010—2011中国网络舆情报告.杭州:浙江大学出版社
+20..ICTCLAS汉语分词系统.2015
+21.张树庭.中国开始进入互联网“新常态”——2014中国网络舆论生态环境研究报告.现代传播.2015.37(3)
+22..人民网舆情工作室案例库.2015
+23.宋余超.面向主题分类的网络舆情博弈形成机制研究——基于三主体研究.情报杂志.2015.34(8)
+24.Gruber,T.R..A Translation Approach to Portable Ontologies Specifications.Knowledge Acquisition.1993.5(2)
+25.白同强.语义Web的研究与展望.吉林大学学报(信息科学版).2004.22(2)
+26.白如江.国内外主要本体库比较分析研究.现代图书情报技术.2011.(1)
+27.杜文华.本体构建方法比较研究.情报杂志.2005.24(10)
+28.刘宇松.本体构建方法和开发工具研究.现代情报.2009.29(9)
+29.Kiryakov,A..Semantic Annotation, Indexing, and Retrieval:Semantic Web-ISWC 2003:Springer Berlin Heidelberg,2003:484-499
+30.Scherp,A..F--A Model of Events Based on the Foundational Ontology dolce+ Dn S Ultralight:ACM,2009:137-144
+31.王文俊.应急案例本体模型的研究及应用.计算机应用.2009.29(5)
+32..Protege.2013
+-----------------------------------------------------------------------
+
+【来源篇名】社交媒体舆情信息传播效果影响因素研究——以新浪微博“8.12天津爆炸”事件为例
+【英文篇名】Public Opinion Dissemination over Social Media: Case Study of Sina Weibo and \"8.12 Tianjin Explosion\"
+【来源作者】廖海涵/王曰芬
+【基    金】国家社会科学基金重点项目(14AZD084)/江苏高校哲学社会科学重点研究基地“社会计算与舆情分析(培育点)”
+【期    刊】现代图书情报技术
+【第一机构】南京理工大学
+【机构名称】[廖海涵]南京理工大学.经济管理学院/[王曰芬]南京理工大学.经济管理学院
+【第一作者】廖海涵
+【中图类号】G350
+【年代卷期】2016,(120):85-93
+【关 键 词】信息传播/社交媒体/影响因素/假设验证
+【基金类别】
+【参考文献】
+1..第37次中国互联网络发展状况统计报告.2016
+2.李纲.突发公共事件网络舆情研究综述.图书情报知识.2014.(2)
+3.杨成明.微博客用户行为特征实证分析.图书情报工作.2011.55(12)
+4.彭希羡.微博客用户特征分析及分类研究——以“新浪微博”为例.情报科学.2015.33(1)
+5.赵蓉英.微博信息传播的影响因素研究分析.情报理论与实践.2014.37(3)
+6.Agichtein,E.Improving Web Search Ranking by Incorporating User Behavior Information:ACM,2006:19-26
+7.Benevenuto,F.Characterizing User Behavior in Online Social Networks:ACM,2009:49-62
+8.Ye,S.Measuring Message Propagation and Social Influence on Twitter. Com.Springer Berlin Heidelberg
+9.陈慧娟.微博网络信息传播研究综述.计算机应用研究.2014.31(2)
+10.宋恩梅.新浪微博中的“权威”与“人气”:以社会网络分析为方法.图书情报知识.2012.(3)
+11.平亮.基于社会网络中心性分析的微博信息传播研究——以Sina微博为例.图书情报知识.2010.(6)
+12.康伟.突发事件舆情传播的社会网络结构测度与分析——基于“11·16校车事故”的实证研究.中国软科学.2012.(7)
+13.Kwak,H.What is Twitter, A Social Network or A News Media?:ACM,2010:591-600
+14.Mislove,A.Measurement and Analysis of Online Social Networks:ACM,2007:29-42
+15.Hui-Ye,C T.A Study of Blog Networks to Determine Online Social Network Properties from the Tie Strength Perspective.Online Information Review.2014.38(3)
+16.Java,A.Why We Twitter: Understanding Microblogging Usage and Communities:ACM,2007:56-65
+17.拉斯韦尔,哈罗德.社会传播的结构与功能.北京:中国传媒大学出版社
+18.McCombs,M E.Agenda-Setting Function of Mass Media.Public Opinion Quarterly.1972.36(2)
+19.Severin,W J.传播理论:起源、方法与应用.北京:中国传媒大学出版
+20.林琛.微博个体信息传播影响力评价指标分析.图书情报工作.2014.58(1)
+21.Wang,R.An Empirical Study on the Relationship Between the Followers' Number and Influence of Microblogging,2010:2014-2017
+22.Krishnamurthy,B.A Few Chirps About Twitter.2016
+23.Huberman,B A.Social Networks that Matter: Twitter Under the Microscope.2016
+24.胡媛.微博客中基于时序的非正式信息流机制研究——以Sina微博为例.图书情报知识.2011.(4)
+25.兰月新.公共危机事件网络谣言对网络舆情的影响研究.图书情报工作.2014.58(9)
+26.王晓光.微博客用户行为特征与关系特征实证分析——以“新浪微博”为例.图书情报工作.2010.54(14)
+27.麦考姆斯,麦克斯韦尔.议程设置理论概览:过去，现在与未来.新闻大学.2007.(3)
+28.Goncalves,B.Modeling Users'Activity on Twitter Networks: Validation of Dunbar's Number.PLoS One.2011.6(8)
+29.Terpstra,T.Towards a Realtime Twitter Analysis During Crises for Operational Crisis Management.Simon Fraser University
+30.Bosch,H.Scatterblogs2: Real-time Monitoring of Microblog Messages Through User-guided Filtering.IEEE Transactions on Visualization and Computer Graphics.2013.19(12)
+31.刘坤.“意见领袖”理论研究综述.青年记者.2009.(24)
+32.Kim,S H.Think About It This Way: Attribute Agenda-setting Function of the Press and the Public's Evaluation of a Local Issue.Journalism & Mass Communication Quarterly.2002.79(1)
+33.Weaver,D H.Political Issues and Voter Need for Orientation:Emergence of American Political Issues:The Agenda-Setting Function of the Press,1977:107-119
+-----------------------------------------------------------------------
+
+【来源篇名】基于BTM的微博舆情热点发现
+【英文篇名】Hotspot Detection in Microblog Public Opinion Based on Biterm Topic Model
+【来源作者】王亚民/胡悦
+【基    金】
+【期    刊】情报杂志
+【第一机构】西安电子科技大学
+【机构名称】[王亚民]西安电子科技大学.经济与管理学院/[胡悦]西安电子科技大学.经济与管理学院
+【第一作者】王亚民
+【中图类号】G350
+【年代卷期】2016,35(110):119-124,140
+【关 键 词】热点发现/词对主题模型/短文本/微博舆情/相似性度量
+【基金类别】
+【参考文献】
+1.周鹏.基于关键词抽取的微博舆情事件内容聚合.情报杂志.2014.33(1)
+2.马彦.大数据环境下微博舆情热点话题挖掘方法研究.现代情报.2014.34(11)
+3.孙玲芳.基于改进K-means的网络舆情热点事件发现技术.计算机与现代化.2014.18(4)
+4.邬智慧.中文微博的语体特征研究:学位论文.武汉:华中师范大学,2012
+5.丁晟春.面向中文微博的观点句识别研究.情报学报.2014.33(2)
+6.柏建普.基于语义分析的微博热点话题发现技术研究.内蒙古科技大学学报.2013.32(3)
+7.马雯雯.基于隐含语义分析的微博热点话题发现策略:学位论文.成都:电子科技大学,2013
+8.王振振.基于LDA主题模型的文本相似度计算.计算机科学.2013.40(12)
+9.阮光册.基于LDA的网络评论主题发现研究.情报杂志.2014.33(3)
+10.唐晓波.基于潜在狄利克雷分配模型的微博主题演化分析.情报学报.2013.32(3)
+11.王鹏.基于LDA模型的文本聚类研究.情报科学.2015.33(1)
+12.Yu,Z.Understanding Short Texts through Semantic Enrichment and Hashing.IEEE Transactions on Knowledge and Data Engineering.2015.28(2)
+13.Duc,T V.Learning to classify short text from scientific documents using topic models with various types of knowledge.Expert Systems with Applications.2015.42(3)
+14.Atefeh,F.A survey of techniques for event detection in twitter.Computational Intelligence.2015.31(1)
+15.刘少鹏.基于MB-HDP模型的微博主题挖掘.计算机学报.2015.38(7)
+16.Yan,X.A biterm topic model for short texts,2013:1445-1456
+17.Cheng,X.BTM: Topic modeling over short texts.IEEE Transactions on Knowledge and Data Engineering.2014.26(12)
+18.黄承慧.一种结合词项语义信息和TF-IDF方法的文本相似度量方法.计算机学报.2011.34(5)
+19.Stuart,G.Stochastic relaxation, gibbs distributions, and the bayesian restoration of images.IEEE Transactions on Pattern Analysis and Machine Intelligence.1984.6(6)
+20.黄贤英.一种新的微博短文本特征词选择算法.计算机工程与科学.2015.37(9)
+21.张瑾.基于改进TF-IDF算法的情报关键词提取方法.情报杂志.2014.33(4)
+22.路永和.改进TF-IDF算法的文本特征权重计算方法.图书情报工作.2013.57(3)
+23.申剑博.改进的TF-IDF中文本特征词加权算法研究.软件导刊.2015.14(4)
+24.李振君.基于Document Triage的TF-IDF算法的改进.计算机应用.2015.35(12)
+25.金镇晟.基于改进的TF-IDF算法的中文微博话题检测与研究:学位论文.北京:北京理工大学,2015
+26.Du,Y.An improved focused crawler based on semantic similarity vector space model.Applied Soft Computing.2015.36(7)
+27.Tran,T.Extraction of discriminative patterns from skeketon sequences for accurate action recognition.Fundamenta Informaticae.2014.130(2)
+28.Endres,D M.A new metric for probability distributions.IEEE Transactions on Information Theory.2003.49(7)
+-----------------------------------------------------------------------
+
+【来源篇名】舆情传播对于复杂信任网络信任度的影响研究
+【英文篇名】Study of Opinion Propagation Effects on Trust Degree of a Complex Trust Network
+【来源作者】况湘玲/黄光球/曹黎侠/李雪琴/罗光远
+【基    金】湖北省教育厅人文社科项目(13q088)/湖北汽车工业学院博士基金项目(BK201203)
+【期    刊】情报杂志
+【第一机构】西安建筑科技大学
+【机构名称】[况湘玲]西安建筑科技大学.管理学院/[黄光球]西安建筑科技大学.管理学院/[曹黎侠]西安建筑科技大学.管理学院/[李雪琴]西安建筑科技大学.管理学院/[罗光远]湖北汽车工业学院.经济管理学院
+【第一作者】况湘玲
+【中图类号】G350
+【年代卷期】2015,34(060):131-139
+【关 键 词】复杂网络/信任网络/舆情传播/信任度
+【基金类别】其它基金/
+【参考文献】
+1.纪诗奇.复杂网络环境下舆情演化机理研究:学位论文.北京:北京工业大学,2014
+2.潘新.基于社会网络的舆情传播模型构建与分析.运筹与管理.2011.(4)
+3.Castellano,C..Statistical physics of social dynamics.Review of Modern Physics.2009.(81)
+4.王林.影响微博社交网络集群行为执行意向的机制研究.情报杂志.2014.(12)
+5.钱明辉.虚拟社区在线信任研究新进展及其启示.经济问题探索.2013.(5)
+6.魏傲希.社会网络信息生态链国内外研究述评..2013.(10)
+7.曹强.基于社会网络的可信Web服务选择研究:学位论文.广州:广东工业大学,2014
+8.赵竞.网络交往中的人际信任.心理科学进展.2013.(8)
+9.胡蓉.网络人际交互中的信任问题研究.图书情报知识.2005.(8)
+10.Doyle,James D..Trust intentions in readers of blogs.Management Research Review.2012.(9)
+11.Kuo,F.Y..An Exploratory Study of Trust Dynamics in Work-oriented Virtual Teams.Journal of Computer-Mediated Communication.2009.14(4)
+12.罗昕.虚拟社群信任网络的生成与维系——以广州两个跑群为例.国际新闻界.2014.(9)
+13.甘早斌.电子商务下的信任网络构造与优化.计算机学报.2012.(1)
+14.司夏萌.具有社团结构的有界信任舆论涌现模型研究.系统仿真学报.2009.(12)
+15.马书权.网络舆论传播及舆论引导实证研究:学位论文.重庆:重庆大学,2013
+16.高艳子.网络舆情的动态传播演化研究.江苏商论.2014.(6)
+17.易成岐.社会网络的信息传播规律研究:学位论文.哈尔滨:哈尔滨理工大学,2013
+18.康伟.突发事件舆情传播的社会网络结构测度与分析——基于“11.16校车事故”的实证研究.中国软科学.2012.(7)
+19.龙军.一种基于信任推理与演化的Web服务组合策略.计算机学报.2012.(2)
+20.印桂生.网构软件的Wright_Fisher多策略信任演化模型.软件学报.2012.(8)
+21.辛乐.基于服务信誉评价的偏好分析与推荐模型.计算机集成制造系统.2014.(6)
+22.夏秀峰.Web病毒式营销客户信任网络构建.小型微型计算机系统.2013.(9)
+23.王文佳.网上拍卖中信任模型的研究综述.计算机工程与应用.2010.(10)
+24.胡祥培.信任传递模型研究综述.东南大学学报(哲学社会科学版).2013.(7)
+25.解志恒.汽车制造业供应链协作信任的运行机制研究:学位论文.天津:天津大学,2010
+26.Grabowski,A..Epidemic Spreading in a Hierarchical Social Network.Phsical Review E.2004.70(3)
+27.王健.Web信任传播建模.计算机工程与应用.2009.(7)
+28.茆诗松.概率论与数理统计.北京:中国统计出版社
+29.郭世泽.复杂网络基础理论.北京:科学出版社
+30.戴特尔,保罗·J..Java程序员教程.北京:电子工业出版社
+-----------------------------------------------------------------------
+
+【来源篇名】面向复合维信息特征的微博舆情事件感知方法
+【英文篇名】Composite Dimensional Information Characteristics Oriented towards Microblogging Public Opinion Event Detection Method
+【来源作者】黄炜/刘坤/杨青
+【基    金】国家自然科学基金项目(71303075)/湖北省自然科学基金项目(2011CDB080)
+【期    刊】情报杂志
+【第一机构】湖北工业大学
+【机构名称】[黄炜]湖北工业大学.管理学院/[刘坤]湖北工业大学.管理学院/[杨青]武汉理工大学.管理学院
+【第一作者】黄炜
+【中图类号】G353.1
+【年代卷期】2015,34(050):146-153
+【关 键 词】微博/主题挖掘/LDA/社交网络/舆情监测
+【基金类别】国家自科基金/省（市）级基金/
+【参考文献】
+1.钱颖.微博舆情传播规律研究.情报学报.2012.31(12)
+2.Allan,J..Topic Detection and Tracking Pilot Study final Report,1998:194-218
+3.Salton,G..A Vector Space Model for Automatic Indexing.Communications of ACM.1974.18(5)
+4.Jay,M..A Language Modeling Approach to Information Retrieval.New York, NY, USA:ACM,1998:275-281
+5.Dumais,S..Using Latent Semantic Analysis to Improve Access to Textual Information:Proceedings of Computer Human Interaction.Washington:ACM,1988:281-285
+6.Landauer,Thomas K..An Introduction to Latent Semantic Analysis.Discourse Processes.1998.25
+7.Hofmann,T..Probabilistic Latent Semantic Indexing.UC Berkeley, CA:Assoc Computing Machinery,1999:50-57
+8.Hofmann,Thomas.Unsupervised Learning by Probabilistic Latent Semantic analysis.Mach. Learn..2001.42(1-2)
+9.Blei,D.M..Latent Dirichlet Allocation.Journal of Machine Learning Research.2003.3(4-5)
+10.李勇.网络文本数据分类技术与实现算法.情报学报.2002.21(1)
+11.王晓光.微博客用户行为特征与关系特征实证分析——以“新浪微博”为例.图书情报工作.2010.54(14)
+12.张晨逸.基于MB-LDA模型的微博主题挖掘.计算机研究与发展.2011.48(10)
+13.Zvi,M..Author-topic Model for Authors and Documents.Arlington:AUAI Press,2004:487-494
+14.Xin,Zhao Wayne.Comparing Twitter and Traditional Media Using Topic Models.Berlin, Heidelberg:Springer-Verlag,2011:338-349
+15.Ramage,D..Characterizing Microblogs with Topic Models.Menlo Park, CA:AAAI,2010:130-137
+16.Ramage,D..Labeled lda: A Supervised Topic Model for Credit Attribution in Multi-labeled Corpora.Stroudsburg:Association for Computational Linguistics,2009:248-256
+17.吴绍忠.互联网络舆情预警机制研究.中国人民公安大学学报(自然科学版).2008.(3)
+18.曾润喜.网络舆情突发事件预警系统、指标与机制.情报杂志.2009.28(11)
+19.张一文.非常规突发事件网络舆情热度评价指标体系构建.情报杂志.2010.29(11)
+20.王伟.基于聚类的网络舆情热点发现及分析.现代图书情报技术.2009.(3)
+21.黄炜.网络舆情主题信息采集研究.现代图书情报技术.2012.28(11)
+22.黄炜.基于本体的网络群体性事件主题发现研究.图书情报工作.2012.56(20)
+-----------------------------------------------------------------------
+
+【来源篇名】面向主题分类的网络舆情博弈形成机制研究——基于三主体研究
+【英文篇名】The Formation Mechanism of Online Public Opinion Based on Topic Classification and Game Theory: A Study Based on the Three Subjects Involved
+【来源作者】宋余超/陈福集
+【基    金】国家自然科学基金项目(71271056)
+【期    刊】情报杂志
+【第一机构】福州大学
+【机构名称】[宋余超]福州大学.经济与管理学院/[陈福集]福州大学.经济与管理学院
+【第一作者】宋余超
+【中图类号】G350
+【年代卷期】2015,34(080):122-126,121
+【关 键 词】网络舆情/主题分类/三方博弈/形成机制
+【基金类别】国家自科基金/
+【参考文献】
+1.曾润喜.网络舆情管控工作机制研究.图书情报工作.2009.(18)
+2.王淑萍.权利与权力的博弈:对舆情危机的深层次透视.求实.2012.(7)
+3.魏丽萍.网络舆情形成机制的进化博弈论启示.新闻与传播研究.2010.(6)
+4.谭双林.网络舆论形成过程中权力与权利的博弈.电子政务.2011.(12)
+5.肖强.Web2.0环境下的“网络推手”现象案例研究.情报杂志.2012.31(9)
+6.于永宏.新媒体时代网络舆论场域中的博弈研究.漳州职业技术学院.2014.16(3)
+7.韩少春.基于动态演化博弈论的舆论传播羊群效应.系统工程学报.2011.26(2)
+8.谌楠.网络舆情政府干预最佳点选择的研究.情报分析与研究.2012.(3)
+9.黄江玲.基于演化博弈的网络舆情传播的羊群效应研究.情报杂志.2013.32(10)
+10.魏芳芳.网络虚假信息中政府、企业和公民三者的进化博弈行为分析.运筹与管理.2012.21(6)
+11.陈福集.三方博弈视角下政府应对网络推手的对策研究.中国行政管理.2013.(11)
+12.燕道成.网络推手的传播学反思.中国青年研究.2012.(4)
+13.毕宏音.网民的网络舆情主体特征研究.广西社会科学.2008.(7)
+14.戴媛.基于网络舆情安全的信息挖掘及评估指标体系研究.情报理论与实践.2008.31(6)
+15.李未柠.中国进入互联网“新常态”—2014中国网络舆论生态环境分析报告.2014
+16.光明网舆情中心.2014年度网络舆论生态发展报告.2015
+17..
+-----------------------------------------------------------------------
+
+【来源篇名】基于网络舆情分析的突发事件情报支援研究
+【英文篇名】Research on the Emergency Intelligence Support Based on Online Public Opinion Analysis
+【来源作者】王兰成
+【基    金】
+【期    刊】情报理论与实践
+【第一机构】解放军南京政治学院
+【机构名称】[王兰成]解放军南京政治学院.军事信息管理系
+【第一作者】王兰成
+【中图类号】G353
+【年代卷期】2015,38(070):72-75
+【关 键 词】情报支援/网络舆情/突发事件/信息系统
+【基金类别】
+【参考文献】
+1.CLEMENTS,B..Public opinion and military intervention: Afghanistan, Iraq and Libya.Political Quarterly.2013.
+2.LOU,T..A Study on emergency early-warning mechanism of internet public opinion:Scientific Research Publishing,2009:374-377
+3.张坚.联合情报保障体系情报信息分发控制系统.指挥信息系统与技术.2013.4(2)
+4.国务院办公厅.国家地震应急预案.2012
+5.佚名.雅安地震舆情报告.社会与公益.2013.(5)
+6.昆仑大盗.中国军队新型军用数值预报系统保障抗震救灾.2013
+-----------------------------------------------------------------------
+
+【来源篇名】基于不确定微分方程的网络舆情传播模型研究
+【英文篇名】The internet public opinion propagation model via uncertain differential equation
+【来源作者】苏创/彭锦/李圣国
+【基    金】教育部人文社科研究项目(13YJA630065)
+【期    刊】系统工程理论与实践
+【第一机构】上海师范大学
+【机构名称】[苏创]上海师范大学.数理学院/[彭锦]黄冈师范学院.数理学院/[李圣国]黄冈师范学院.数理学院
+【第一作者】苏创
+【中图类号】G353.1
+【年代卷期】2015,35(120):3201-3209
+【关 键 词】网络舆情/不确定动态系统/不确定过程/不确定微分方程
+【基金类别】教育部基金/
+【参考文献】
+1.高承实.网络舆情几个基本问题的探讨.情报杂志.2011.30(11)
+2.曾润喜.网络舆情信息资源共享研究.情报杂志.2009.28(8)
+3.兰月新.突发事件网络舆情传播规律与预警阶段研究.情报杂志.2013.32(5)
+4.杜涛.网络舆论的演变特征分析.新闻爱好者.2005.(1)
+5.王子文.网络舆情中的“网络推手”问题研究.政治学研究.2011.(3)
+6.罗旭.网络政治参与中的舆论领袖研究:演进与规制.探索.2012.(4)
+7.陈波.泛在媒体环境下的网络舆情传播控制模型.系统工程理论与实践.2011.31(11)
+8.方薇.采用元胞自动机的网络舆情传播模型研究.计算机应用.2010.30(3)
+9.王杨.基于博弈论的网络社区舆情传播模型.计算机应用研究.2013.30(8)
+10.廖祥文.基于概率推理模型的博客倾向性检索研究.计算机研究与发展.2009.46(9)
+11.韩少春.基于动态演化博弈论的舆论传播羊群效应.系统工程学报.2011.26(2)
+12.Java,A..Modeling the spread of influence on the blogosphere.Edinburgh, Scotland,2006
+13.Barabasi,A.L..Emergence of scaling in random networks.Science.1999.286
+14.Newman,M.E.J..Email networks and the spread of computer viruses.Physical Review E.2002.66
+15.苏创.国内外网络舆情数学建模研究综述.情报杂志.2014.33(10)
+16.梁之舜.概率论及数理统计(上册).北京:高等教育出版社
+17.Liu,B..Uncertainty theory (2nd ed).Berlin:Springer-Verlag
+18.Liu,B..Uncertainty theory: A branch of mathematics for modeling human uncertainty.Berlin:Springer-Verlag
+19.Liu,B..Fuzzy process, hybrid process and uncertain process.Journal of Uncertain Systems.2008.2(1)
+20.Liu,B..Some research problems in uncertainty theory.Journal of Uncertain Systems.2009.3(1)
+21.Chen,X..Existence and uniqueness theorem for uncertain differential equations.Fuzzy Optimization and Decision Making.2010.9(1)
+22.Yao,K..Some stability theorems of uncertain differential equation.Fuzzy Optimization and Decision Making.2013.12(1)
+23.Yao,K..A numerical method for solving uncertain differential equations.Hong Kong:Globe-Link,2012:145-152
+24.Peng,J..A new option pricing model for stocks in uncertainty markets.International Journal of Operations Research.2011.8(2)
+25.Yao,K..An uncertain control model with, application to production-inventory system,2011:972-977
+26.李圣国.描述不确定动态系统的新工具:不确定微分方程.系统工程学报.2013.28(3)
+27.朱明刚.甘肃兰州自来水苯含量超标事件舆情分析.2014
+-----------------------------------------------------------------------
+
+【来源篇名】基于系统动力学的网络舆情事件传播研究
+【英文篇名】Research on the Propagation of Internet Public Opinion Events Based on System Dynamics
+【来源作者】陈福集/游丹丹
+【基    金】国家自然科学基金项目(71271056)
+【期    刊】情报杂志
+【第一机构】福州大学
+【机构名称】[陈福集]福州大学.经济与管理学院/[游丹丹]福州大学.经济与管理学院
+【第一作者】陈福集
+【中图类号】G350
+【年代卷期】2015,34(090):118-122
+【关 键 词】网络舆情/SIR模型/系统动力学
+【基金类别】国家自科基金/
+【参考文献】
+1.吴绍忠.互联网网络舆情预警机制研究.中国人民公安大学学报(自然科学版).2008.57(3)
+2.向江燕.基于系统动力学的网络舆情事件演化研究.情报探索.2015.(2)
+3.狄国强.网络舆情事件的系统动力学模型与仿真.情报杂志.2012.31(8)
+4.孟晓娇.基于系统动力学的网络舆情预警机制研究:学位论文.黑龙江:黑龙江大学,2013
+5.丁学君.基于SIR的SNS网络舆情话题传播模型研究.计算机仿真.32(1)
+6.苏国强.基于SIR的突发事件网络谣言扩散模型研究.武警学院学报.2013.29(4)
+7.陈福集.一类新SEIRS模型上的网络舆情传播行为研究.情报资料工作.2014.(4)
+8.李旭.社会系统动力学:政策研究的原理、方法和应用.上海:复旦大学出版社
+9.姜启源.数学模型.北京:高等教育出版社
+10.董.急性传染病的系统动力学建模.2015
+11.罗旭.网络政治参与中的舆论领袖研究:演进与规制.探索.2012.(4)
+-----------------------------------------------------------------------
+
+【来源篇名】微博舆情跨域周期波动实证研究
+【英文篇名】An Empirical Research on Periodic Fluctuation of Public Opinion on Microblogging and Other Domains
+【来源作者】盛宇
+【基    金】2014年度上海政法学院青年科研基金项目(2014XQN29)
+【期    刊】情报杂志
+【第一机构】上海政法学院
+【机构名称】[盛宇]上海政法学院.
+【第一作者】盛宇
+【中图类号】G350
+【年代卷期】2015,34(100):123-128
+【关 键 词】微博/舆情/线上线下/周期波动/雾霾
+【基金类别】其它基金/
+【参考文献】
+1.张恒.基于生命周期理论的网络舆情及其管理研究:学位论文.北京:北京邮电大学,2013
+2.谢科范.网络舆情突发事件的生命周期原理及集群决策研究.武汉理工大学学报(社会科学版).2010.23(4)
+3.王克群.网络舆情的研判与应对.长白学刊.2010.(1)
+4.曹劲松.网络舆情的发展规律.新闻与写作.2010.(5)
+5.翁文斌.网络舆情演进的周期性特征及其监管体系研究:学位论文.浙江:浙江工商大学,2012
+6.张玉亮.基于发生周期的突发事件网络舆情风险评价指标体系.情报科学.2012.30(7)
+7.曾润喜.网络舆情指标体系、方法与模型比较研究.情报杂志.2014.33(4)
+8.朱训佳.基于生命周期的企业舆情管理.中国航空报.2013
+9.张一文.突发性公共危机事件与网络舆情作用机制研究:学位论文.北京:北京邮电大学,2012
+10.高卫华.中国环境议题建构及议程互动关系分析.当代传播.2014.(1)
+11.周军杰.线上线下互动、群体分化与知识共享的关系研究.中国管理科学.2012.20(6)
+12.蔡佳.线上线下互惠影响机制的研究述评与展望.电子商务.2014.(24)
+13.Wang,Hao.A System for Real-time Twitter Sentiment Analysis of 2012 U. S Presidential Election Cycle.USA:Association for Computational Linguistics,2012:115-120
+14.Komori,M..Relationships between Periodic Behaviors in Micro-blogging and the Users’ Baseline Mood.USA:IEEE Computer Society,2012:405-410
+15.Shankar,Venkatesh.Customer Satisfaction and Loyalty in Online and Offline Environments.International Journal of Research in Marketing.2003.20(2)
+16.Gentzkow,Matthew.Ideological Segregation Online and Offline.NBER Working Pape Series.2010.(15916)
+-----------------------------------------------------------------------
+
+【来源篇名】基于信息风险感知的社交网络舆情传播模型研究
+【英文篇名】A Public Opinion Dissemination Model on Social Networks Based on Perception of Risks
+【来源作者】成俊会/赵金楼
+【基    金】国家自然科学基金资助项目(71271062)
+【期    刊】情报杂志
+【第一机构】哈尔滨工程大学
+【机构名称】[成俊会]哈尔滨工程大学.经济管理学院/[赵金楼]哈尔滨工程大学.经济管理学院
+【第一作者】成俊会
+【中图类号】G350
+【年代卷期】2015,34(010):134-138
+【关 键 词】信息风险感知/社交网络/舆情传播模型/传播概率/获知概率/仿真
+【基金类别】国家自科基金/
+【参考文献】
+1.Bailey,N.T.J..Mathematical Theory of Infectious Diseases and Its Applications, Second ed..London:Griffin
+2.杨国忠.基于系统动力学的二元技术创新扩散研究.软科学.2012.(8)
+3.赵修文.高校导师制隐性知识传播的微分动力学模型研究.科学学研究.2010.(11)
+4.Watts,D.J..Influence, Networks, and Public Opinion Formation.Journal of Consumer Research.2007.(34)
+5.Goldenberg,J..Talk of the Network: A Complex Systems Look at the Underlying Process of Word-of-mouth.Marketing Letters.2001.
+6.熊熙.基于社交网络的观点传播动力学研究.物理学报.2012.61(15)
+7.付芸.一种基于非均匀性和非对称性的病毒传播模型.复杂系统与复杂性科学.2014.11(2)
+8.黄倩.具有免疫接种的SIRS传染病模型研究.计算机仿真.2014.(3)
+9.顾亦然.在线社交网络中谣言的传播与抑制.物理学报.2012.61(23)
+10.王辉.基于移动社交网络的谣言传播动力学研究.物理学报.2013.62(11)
+11.张彦超.基于在线社交网络的信息传播模型.物理学报.2011.60(5)
+12.赵文兵.Web2.0环境下社交网络信息传播仿真研究.情报学报.2013.32(5)
+13.Barabasi,A.L..Emergence of Scaling in Random Networks.Science.2000.286(5439)
+-----------------------------------------------------------------------
+
+【来源篇名】基于网页转载关系判别的网络舆情传播态势分析
+【英文篇名】Analysis of Public Opinion Dissemination Based on Distinguishing the Near-duplicate Web Pages
+【来源作者】王君泽/曾润喜/杜洪涛
+【基    金】中央高校基本科研业务费(华中科技大学自主创新基金文科青年项目)(2013WQ035)
+【期    刊】情报杂志
+【第一机构】华中科技大学
+【机构名称】[王君泽]华中科技大学.非传统安全研究中心/[曾润喜]华中科技大学.非传统安全研究中心/[杜洪涛]清华大学.公共管理学院
+【第一作者】王君泽
+【中图类号】G350
+【年代卷期】2015,34(010):144-149
+【关 键 词】网络舆情/转载网页/主题抽取/核函数/舆情传播/舆情研判
+【基金类别】教育部基金/
+【参考文献】
+1.Kumar,J.P..Duplicate and Near Duplicate Documents Detection: A Review.European Journal of Scientific Research.2009.32(4)
+2.Henzinger,M..Finding Near-Duplicate Web Pages: A Large-Scale Evaluation of Algorithms,2006:284-291
+3.Manber,U..Finding Similar Files In A Large File System.Usenix Winter.1994.(94)
+4.Charikar,M.S..Similarity Estimation Techniques from Rounding Algorithms,2002:380-388
+5.李纲.基于语义指纹的中文文本快速去重.现代图书情报技术.2013.29(9)
+6.Manku,G.S..Detecting Near-duplicates for Web Crawling,2007:141-150
+7.吴平博.基于特征串的大规模中文网页快速去重算法研究.中文信息学报.2003.17(2)
+8.Li,W..Web Document Duplicate Removal Algorithm Based on Key Word Sequences,2005:511-516
+9.黄仁.基于正文结构和长句提取的网页去重算法.计算机应用研究.2010.27(7)
+10.李志义.国内网页去重技术研究:现状与总结.图书情报工作.2011.55(7)
+11.Yang,H..Near-duplicate Detection By Instance-Level Constrained Clustering,2006:421-428
+12.魏丽霞.基于网页文本结构的网页去重.计算机应用.2007.27(11)
+13.王琦.基于DOM的网页主题信息自动提取.计算机研究与发展.2004.21(10)
+14.李晓明.搜索引擎——原理、技术与系统.北京:科学出版社
+15.王建勇.近似镜像网页检测算法的研究与评价.电子学报.2000.28(11)
+16.Erkan,G..LexRank: Graph-based Lexical Centrality As Salience in Text.Journal of Artificial Intelligence Research.2004.(22)
+17.谈国新.突发公共事件网络舆情监测指标体系研究.华中师范大学学报.2010.49(3)
+18.王君泽.微博舆情分析平台的框架与支撑技术研究.电子政务.2013.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】基于信息安全的网络图像舆情分析与识别研究
+【英文篇名】Network Image Supervision of Public Opinion: Analysis and Countermeasures Based on Information Security
+【来源作者】詹必胜/曾润喜/佘硕/葛镜
+【基    金】国家社会科学基金项目(青年项目)(13CGL117)
+【期    刊】情报杂志
+【第一机构】华中科技大学
+【机构名称】[詹必胜]华中科技大学.公共管理学院/[曾润喜]华中科技大学.公共管理学院/[佘硕]华中科技大学.公共管理学院/[葛镜]华中科技大学.公共管理学院
+【第一作者】詹必胜
+【中图类号】G350
+【年代卷期】2015,34(020):7-12,27
+【关 键 词】网络舆情/舆情监管/信息安全/数字指纹/数字水印
+【基金类别】国家社科基金/
+【参考文献】
+1.曾润喜.网络舆情管控工作机制研究.图书情报工作.2009.53(18)
+2.毕宏音.网络舆情形成与变动中的群体影响分析.天津大学学报(社会科学版).2007.9(3)
+3.Ming,K..Bayesian Online Classifiers for Text Classification and Filtering,2002
+4.Autonomy.安全与监控.2014
+5.Wu,Yu.A Novel Emergence Model of Public Opinion Based on Small-World Network.Key Engineering Materials.2011.(474)
+6.Garofalakis,M..Visual Analysis of Temporal Trends in Social Networks Using Edge Color Coding and Metric Timelines,2011:549-554
+7.Liu,C.Q..Public Sentiment Monitoring Method Based on the Combination of Semantic Network and Apriori Algorism.Advances in Intelligent and Soft Computing.2012.(148)
+8.Naud,Antoine.Exploration of a Text Collection and Identification of Topics by Clustering.Lecture Notes in computer Science.2007.(12)
+9.Gil-Garcia,R..Dynamic hierarchical algorithms for document clustering.Pattern Recognition Letters.2010.(31)
+10.Liu,H..Internet public opinion hotspot detection research based on k-means algorithm:Advances in Swarm Intelligence:Springer Berlin Heidelberg,2010:594-602
+11.兰月新.突发事件网络舆情安全评估指标体系构建.情报杂志.2011.30(7)
+12.王青.网络舆情监测及预警指标体系研究综述..2011.29(7)
+13.张玥.基于信息生命周期理论的网络舆情监测研究.情报科学.2013.31(11)
+14.杜阿宁.互联网舆情信息挖掘方法研究:学位论文.哈尔滨:哈尔滨工业大学,2007
+15.黄晓斌.文本挖掘在网络舆情信息分析中的应用.情报科学.2009.(1)
+16.万源.基于语义统计分析的网络舆情挖掘技术研究:学位论文.武汉:武汉理工大学,2012
+17.Van Schyndel,R..A digital watermark.Austin, Tex:IEEE Press,1994:86-90
+18.孙圣和.数字水印技术及应用.北京:科学出版社
+19.Memon,N..Protecting Digital Media Content: Watermarks for Copyrighting and Authentication.Comm of ACM.1998.21(18)
+20.黄继武.DCT域图像水印:嵌入对策和算法.电子学报.2000.28(4)
+21.黄达人.小波变换域图像水印嵌入对策和算法.软件学报.2002.13(7)
+22.胡军全.结合数字签名和数字水印的多媒体认证系统.软件学报.2003.14(6)
+23.庞晓红.图像数字水印理论与技术研究:学位论文.哈尔滨:哈尔滨工程大学,2006
+24.姜传贤.基于线性空间隐藏模型的可逆图像水印算法.自动化学报.2014.40(10)
+25.吴静.基于混沌系统的数字水印加密算法研究.计算机工程与科学.2013.35(12)
+26.张飞燕.基于奇异值分解的Contourlet域稳健性数字水印算法.计算机应用研究.2012.29(4)
+27.曾润喜.网络舆情突发事件预警系统、指标与机制.情报杂志.2009.28(11)
+-----------------------------------------------------------------------
+
+【来源篇名】基于意见领袖的网络论坛舆情演化多主体仿真研究
+【英文篇名】A Study on the Multi-Agent Simulation of BBS Public Opinion Evolution Based on the Theory of Opinion Leaders
+【来源作者】郭勇陈/沈洋/马静
+【基    金】国家自然科学基金项目(71373123)/中央高校基本科研业务费专项资金资助项目(NJ20140030)/中央高校基本科研业务费专项资金资助项目(NR2013001)/南京航空航天大学第三届研究生创新实验竞赛培育项目“基于NetLogo的网络舆情演化与干预多主体仿真实验”
+【期    刊】情报杂志
+【第一机构】南京航空航天大学
+【机构名称】[郭勇陈]南京航空航天大学.经济与管理学院/[沈洋]南京航空航天大学.经济与管理学院/[马静]南京航空航天大学.经济与管理学院
+【第一作者】郭勇陈
+【中图类号】G350
+【年代卷期】2015,34(020):13-21
+【关 键 词】网络论坛/舆情演化/NetLogo/多主体建模与仿真/意见领袖
+【基金类别】国家自科基金/教育部基金/其它基金/
+【参考文献】
+1.许鑫.国内网络舆情研究的回顾与展望.情报理论与实践.2009.(3)
+2.林敏.网络舆情影响因素及其作用机制研究:学位论文.杭州:浙江大学,2013
+3.王来华.與情研究概论.天津:天津社会科学院出版社
+4.陈力丹.舆论学——舆论导向研究.北京:中国广播电视出版社
+5.詹络武.公共情结与大众传媒的宣导机制.郑州大学学报(哲学社会科学版).2008.(11)
+6.高承实.网络舆情几个基本问题的探讨.情报杂志.2011.30(11)
+7.彭鹏.网络情绪型舆论的调控.军事记者.2004.(7)
+8.方付建.突发事件网络舆情演变研究:学位论文.武汉:华中科技大学,2011
+9.董天策.网络新闻传播学.福州:福建人民出版社
+10.张莹.网络论坛舆论传播现象研究:学位论文.长春:吉林大学,2011
+11.中国互联网信息中心.第26次中国互联网络发展状况统计报告,2010
+12.朱毅华.网络舆情研究中的仿真方法应用综述.情报杂志.2013.32(10)
+13.刘小波.基于NetLogo平台的舆情演化模型实现.情报资料工作.2012.(1)
+14.宗立勇.危机沟通环境中网络舆情演变的Multi-Agent建模研究.情报科学.2010.(9)
+15.拉扎斯菲尔德,保罗·F..人民的选择:选民如何在总统选战中做决定.北京:中国人民大学出版社
+16.张春华.网络舆情社会学的阐释.北京:社会科学文献出版社
+17.宗立勇.基于注意力资源分配机制的网络危机舆情演变研究.情报理论与实践.2010.(10)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情观点提取的LDA主题模型方法
+【英文篇名】Extraction Method of Network Public Opinion Based on LDA Topic Model
+【来源作者】陈晓美/高铖/关心惠
+【基    金】国家自然科学基金面上项目(71473101)
+【期    刊】图书情报工作
+【第一机构】吉林大学
+【机构名称】[陈晓美]吉林大学.管理学院/[高铖]长春理工大学.计算机科学技术学院/[关心惠]吉林大学.管理学院
+【第一作者】陈晓美
+【中图类号】G350.7
+【年代卷期】2015,59(210):21-26
+【关 键 词】网络舆情/LDA/主题模型/语义/观点
+【基金类别】国家自科基金/
+【参考文献】
+1.Liu,Bing.Sentiment analysis and opinion mining.San Rafael:Morgan & Claypool
+2.Liu,Bing.A survey of opinion mining and sentiment analysis:Mining Text Data.New York:Springer,2012:415-463
+3.姚天昉.文本意见挖掘综述.中文信息学报.2008.22(3)
+4.杨潇.主题模型LDA的多文档自动文摘.智能系统学报.2010.(2)
+5.Hofmann,T..Probabilistic latent semantic indexing.New York:ACM,1999:50-57
+6.Blei,D.M..Latent dirichlet allocation.Journal of Machine Learning Research.2003.(3)
+7.任昭春.面向网络论坛的动态主题建模与文本摘要:学位论文.济南:山东大学,2012
+8.范云满.利用LDA的领域新兴主题探测技术综述.现代图书情报技术.2012.(12)
+9.Yan,Xiaohui.A biterm topic model for short texts.Riode Janeiro:International World Wide Web Conferences Steering Committee,2013:1445-1456
+10.王来华.2004年舆情研究综述.天津大学学报(社会科学版).2005.(4)
+11..阿拉伯世界政府倒台给中国人的警醒.2015
+12.房宁.中国民主的经验.2014
+13..群体智慧在社交媒体中的应用研究:学位论文.大连:大连理工大学,2014
+14.彭兰.群氓的智慧还是群体性迷失——互联网群体互动效果的两面观察.当代传播.2014.(2)
+15.樊嘉禄.“盲人摸象”的认识论启示.安徽农业大学学报(社会科学版).2001.(1)
+16.Brookes,B.C..Fundamental problem of informationscience.Journal of Information Sciecce.1981.(3)
+17.张小平.基于词相似性与CRP的主题模型.模式识别与人工智能.2010.(1)
+18.李金广.数据挖掘中聚类算法研究综述.中国科技信息.2010.(17)
+19.张连文.隐结构模型与中医辨证研究(Ⅰ)——隐结构法的基本思想以及隐结构分析工具.北京中医药大学学报.2006.29(6)
+20.张小平.主题模型及其在中医临床诊疗中的应用研究:学位论文.北京:北京交通大学,2011
+21.王大玲.一种面向数据挖掘预处理过程的领域知识的分类及表示.小型微型计算机系统.2003.(5)
+22..Sougou实验室数据.2015
+23.Lu,Yue.Opinion integration through semi-supervised topic modeling.Beijing:ACM,2008:121-130
+24.张冬梅.文本情感分类及观点摘要关键问题研究:学位论文.济南:山东大学,2012
+25.付玲.结合LDA和谱聚类的多文档摘要.计算机工程与应用.2013.49(16)
+26.秦兵.多文档文摘中句子优化选择方法研究.计算机研究与发展.2006.43(6)
+-----------------------------------------------------------------------
+
+【来源篇名】面向舆情主题的微博用户行为聚类实证分析
+【英文篇名】Empirical Analysis of Micro-blogger Behavior Clustering on Public Opinion Topics
+【来源作者】李磊/刘继
+【基    金】国家自然科学基金项目(71261025)/教育部人文社会科学研究青年项目(11YJC630129)/新疆财经大学人文社科重点研究基地社会经济统计研究中心重点项目(050312B01)
+【期    刊】情报杂志
+【第一机构】新疆财经大学
+【机构名称】[李磊]新疆财经大学.统计与信息学院/[刘继]新疆财经大学.统计与信息学院
+【第一作者】李磊
+【中图类号】G350
+【年代卷期】2014,33(030):118-121
+【关 键 词】网络舆情/微博/用户行为/主题/聚类/实证分析
+【基金类别】国家自科基金/教育部基金/其它基金/
+【参考文献】
+1.Damon,Centola.Spread of Behavior in an Online Social Network Experiment.Science.2010.329(5996)
+2.Lu,Linyuan.Small World Yields the Most Effective Information Spreading.New J Phys.2011.13(12)
+3.柳军.微内容的网络舆情传播特征分析.情报杂志.2013.32(1)
+4.郭海霞.新型社交网络信息传播特点和模型分析.现代情报.2012.32(1)
+5.郑蕾.基于微博网络的信息传播模型.通信技术.2012.45(2)
+6.王晓光.微博客用户行为特征与关系特征实证分析——以“新浪微博”为例.图书情报工作.2010.54(14)
+7.岳香芬.网络舆情文献聚类分析.科技创业月刊.2012.25(6)
+8.黄美璇.基于聚类分析的网络舆情监控系统的设计.宝鸡文理学院学报.2011.31(4)
+9.殷风景.一种面向网络话题发现的增量文本聚类算法.计算机应用研究.2011.28(1)
+10.杨凯.微博用户关系网络的结构研究与聚类分析.复杂系统与复杂性科学.2013.10(2)
+11.赵国富.聚类分析中CLARA算法的分析与实现.山东理工大学学报(自然科学版).2006.20(2)
+-----------------------------------------------------------------------
+
+【来源篇名】网络论坛视角下突发事件舆情的关键节点识别及分类研究
+【英文篇名】Research of Identification and Classification of Emergencies Key Nodes Based on BBS
+【来源作者】曹学艳/段飞飞/方宽/张仙/李仕明
+【基    金】2012年度国家自然科学基金重点支持项目(91224001)
+【期    刊】图书情报工作
+【第一机构】电子科技大学
+【机构名称】[曹学艳]电子科技大学.图书馆/[段飞飞]电子科技大学.政治与公共管理学院/[方宽]电子科技大学.计算机学院/[张仙]电子科技大学.离退休工作处/[李仕明]电子科技大学.经济与管理学院
+【第一作者】曹学艳
+【中图类号】G350
+【年代卷期】2014,58(040):65-70
+【关 键 词】突发事件/网络舆情/关键节点/网络论坛
+【基金类别】国家自科基金/
+【参考文献】
+1.谢新洲.网络舆情的形成、发展与预测研究序.图书情报工作.2013.56(15)
+2.刘军.整体网分析讲义.上海:上海人民出版社
+3.庞科.社会网络结构洞在网络参政领袖分析中的应用.武汉理工大学学报(信息与管理工程版).2011.(1)
+4.Watts,D.J..Influentials, networks, and public opinion formation.Journal of Consumer Research.2007.34(4)
+5.周涛.社会网络分析及其在舆情和疫情防控中的应用.系统工程学报.2010.25(6)
+6.汪小帆.复杂网络理论及其应用.北京:清华大学出版社
+7.Watts,D.J..Collective dynamics of small world network.Nature.1998.393(6684)
+8.Barabasi,A.L..Emergence of scaling in random network.Science.1999.286(5439)
+9.Carlson,J..Highly optimized tolerance:Robustness and power laws in complex system.Physical Review Letters.2000.84(11)
+10.Carlson,J..Complexity and robustness.Proceedings of the National Academy of Science of the United States of America.2002.99(S1)
+11..2012年中国网络陆君安网络科学论坛报告.2013
+12.Albert,R..Error and attack tolerance of complex networks.Nature.2000.406(6794)
+13.Miorandi,D..K-shell decomposition for dynamic complex networks.Piscataway:IEEE,2010:488-496
+14.周漩.利用重要度评价矩阵确定复杂网络关键节点.物理学报.2012.61(5)
+15.刘茂立.基于选择关键节点的网络易损性评估法.舰船电子工程.2011.(1)
+16.Lu,Linyuan.Leaders in social networks, the delicious case.PLoS ONE.2011.6(6)
+17.康伟.基于SNA的突发事件网络舆情关键节点识别——以“7·23动车事故”为例.公共管理学报.2012.9(3)
+-----------------------------------------------------------------------
+
+【来源篇名】突发公共事件舆情传播特征与规律研究——以新浪微博和新浪新闻平台为例
+【英文篇名】A Study on Communication Features and Rules of Public Opinions in Public Emergency: Taking Sina Microblog and Sina News Platform as Example
+【来源作者】张玥/孙霄凌/朱庆华
+【基    金】江苏省社科基金项目(13XWC014)/江苏省教育厅高校哲学社会科学基金项目(2013SJD870013)
+【期    刊】情报杂志
+【第一机构】南京大学
+【机构名称】[张玥]南京大学.信息管理学院/[孙霄凌]南京大学.工程管理学院/[朱庆华]南京大学.信息管理学院
+【第一作者】张玥
+【中图类号】G350
+【年代卷期】2014,33(040):90-95
+【关 键 词】突发公共事件/网络舆情/微博客/网络新闻/传播特征
+【基金类别】省（市）级基金/其它基金/
+【参考文献】
+1.刘毅.略论网络舆情的概念、特点、表达与传播.理论界.2007.(1)
+2.Senberg,D..Group Polarization: A Critical Review and Meta Analysis.Journal of Personality and Social Psychology.1986.50(6)
+3.Barabasi,A.L..Emergence of Scaling in Random Networks.Science.1999.286
+4.Hegselmann,R..Opinion Dynamics and Bounded Confidence: Models, Analysis and Simulation.Journal of Artificial Societies and Simulations.2002.5(3)
+5.Wu,Y..A Novel Emergence Model of Public Opinion Based on Small-World Network.Journal of Key Engineering Materials.2011.474-476
+6.钱颖.微博舆情传播规律研究.情报学报.2012.12(31)
+7.许鑫.基于信号分析的突发公共事件网络舆情预警研究.情报理论与实践.2010.12(33)
+8.曾润喜.网络舆情突发公共事件预警指标体系构建.情报理论与实践.2010.33(1)
+9.曾润喜.高校网络舆情的控制与引导.情报理论与实践.2009.32(11)
+10.张玉亮.突发公共事件网络舆情的生成原因与导控策略—基于网络舆情主体心理的分析视阈.情报杂志.2012.31(4)
+11.Al-Khalifa,H.S..An Experimental System for Measuring the Credibility of News Content in Twitter.International Journal of Web Information Systems.2011.7(2)
+12.Thelwall,M..Sentiment in Twitter Events.Journal of the American Society for Information Science and Technology.2011.62(2)
+13.Murthy,D..Twitter and Disasters: the Uses of Twitter During the 2010 Pakistan Floods.Information, Communication & Society.2013.16(6)
+14.王晓光.微博社区交流网络结构的实证分析.情报杂志.2011.30(2)
+15.朱恒民.面向话题衍生性的微博网络舆情传播研究.现代图书情报技术.2012.(5)
+16.唐继军.新媒体蓝皮书:中国社会舆情与危机管理报告NO.3(2012).北京:社会科学文献出版社
+17.喻季欣.微博对新闻传播的拓展.新闻战线.2010.(5)
+18..2012年互联网舆情报告.2013
+19..新浪百科.2013
+20.Sussman,S.W..Informational Influence in Organizations: an Integrated Approach to Knowledge Adoption.Information Systems Research.2003.14(1)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情传播阶段与模型比较研究
+【英文篇名】Comparative Study on Transmission Phase and Model of Internet Public Opinion
+【来源作者】曾润喜/王晨曦/陈强
+【基    金】中央高校基本科研业务费(华中科技大学自主创新基金文科青年项目)(2013WQ050)
+【期    刊】情报杂志
+【第一机构】华中科技大学
+【机构名称】[曾润喜]华中科技大学.公共管理学院/[王晨曦]华中科技大学.公共管理学院/[陈强]华中科技大学.公共管理学院
+【第一作者】曾润喜
+【中图类号】G353
+【年代卷期】2014,33(050):119-124
+【关 键 词】网络舆情/舆情传播/演变模型/技术模型
+【基金类别】教育部基金/
+【参考文献】
+1.王来华.舆情变动初论.学术交流.2005.(12)
+2.徐敬宏.非常规突发事件中网络舆情的生成及管理.当代传播.2010.(4)
+3.兰月新.突发事件网络舆情传播规律与预警阶段研究.情报杂志.2013.(5)
+4.刘毅.网络舆情研究概论.天津:天津人民出版社
+5.曹劲松.网络舆情的发展规律.新闻与写作.2010.(5)
+6.田卉.网络环境下的舆论形成模式及调控分析.现代传播(中国传媒大学学报).2010.(1)
+7.方付建.突发事件网络舆情演变研究:博士学位论文:华中科技大学,2011
+8.谢耘耕.微博舆论生成演变机制和舆论引导策略.现代传播.2011.(5)
+9.谢科范.网络舆情突发事件的生命周期原理及集群决策研究.武汉理工大学学报.2010.(4)
+10.顾明毅.网络舆情及社会性网络信息传播模式.新闻与传播研究.2009.(5)
+11.李纲.Web2.0环境下企业网络舆情传播过程的研究及实证分析.情报科学.2011.(12)
+12.李彪.网络事件传播阶段及阀值研究.国际新闻界.2011.(10)
+13.刘小波.基于人际关系网络的舆情演化建模研究.情报理论与实践.2011.(9)
+14.朱恒民.互联网舆情演化的动态网络模型.情报理论与实践.2010.(10)
+15.李青.基于BA网络的互联网舆情观点演化模型研究.情报杂志.2012.(3)
+16.谌楠.网络舆论形成过程中权力与权利的博弈.电子政务.2011.(3)
+17.方薇.因特网舆情传播的协同元胞自动机模型.计算机应用.2012.(2)
+18.方薇.采用元胞自动机的网络舆情传播模型研究.计算机应用.2010.(3)
+19.戴建华.基于模糊规则的元胞自动机网络舆论传播模型研究.情报杂志.2012.(7)
+20.朱恒民.面向话题衍生性的微博网络舆情传播模型研究.现代图书情报技术.2012.(5)
+21.潘芳.危机事件网络舆情传播模型及消极思潮应急对策.图书情报工作.2010.(8)
+22.陈波.泛在媒体环境下的网络舆情传播控制模型.系统工程理论与实践.2011.(11)
+23.Watts,D.J..Collective dynamics of small world networks.Nature.1998.(4)
+24.刘常昱.基于小世界网络的舆论传播模型研究.系统仿真学报.2006.(12)
+25.姜鑫.微博社区内信息传播的“小世界”现象及实证研究——以腾讯微博为例.情报科学.2012.(8)
+26.陈力丹.论新媒体人际传播的客观“监督”效果——以“柑蛆”事件为例.现代传播(中国传媒大学学报).2009.(1)
+27.王杨.基于博弈论的网络社区舆情传播模型.计算机应用研究.2013.(8)
+28.潘新.基于社会网络的舆情传播模型构建与分析.运筹与管理.2011.(2)
+29.钟瑛.大数据的缘起、冲击及其应对.现代传播.2013.(7)
+30.徐晓林.论云计算对电子政务的革命性影响.电子政务.2012.(10)
+-----------------------------------------------------------------------
+
+【来源篇名】基于BP神经网络的微博网络社群突发舆情的预警监控
+【英文篇名】Precautionary Monitoring of the Sudden Burst of Public Opinion in Weibo Community on Internet Based on BP Neural Network
+【来源作者】潘芳/张霞/仲伟俊
+【基    金】中国博士后基金(2013M531259)/教育部人文社会科学青年基金项目(13YJC630116)/江苏省博士后基金(1202103C)
+【期    刊】情报杂志
+【第一机构】东南大学
+【机构名称】[潘芳]东南大学.经济管理学院/[张霞]南京中医药大学.经贸管理学院/[仲伟俊]东南大学.经济管理学院
+【第一作者】潘芳
+【中图类号】G350.7
+【年代卷期】2014,33(050):125-128
+【关 键 词】微博舆情/BP神经网络/预警监控/网络社群/突发舆情/网络舆情
+【基金类别】国家级其它基金/教育部基金/
+【参考文献】
+1.兰月新.突发事件网络衍生舆情监测模型研究.现代图书情报技术.2013.(3)
+2.冀静.2013微博用户及市场行为分析报告.2014
+3.李建伟.河南省重大突发性事件的互联网信息传播及其治理研究.河南社会科学.2012.(5)
+4.Crossley,Achibald.Stiaw Pollsin.Public Opinion Quarterly.1937.
+5.张元龙.关于“舆情”及相关概念的界定与辨析.浙江学刊.2009.(3)
+6.夏雨禾.突发事件中的微博舆论:基于新浪微博的实证研究.新闻与传播研究.2011.(5)
+7.王长宁.对微博舆情热度监测及预警的指标体系的研究.计算机与现代化.2013.(1)
+8.付宏.基于微博传播的舆情演进案例研究.图书情报工作.2013.57(15)
+9.肖凝希.浅谈舆论生命周期视角下的微博舆论预警.科技创新导报.2013.(15)
+10.薛圈圈.基于BP神经网络的网络舆情危机预警研究:学位论文:江西财经大学,2010
+11.呼雨.网络舆情监测及预警指标体系研究综述.情报探索.2012.(11)
+12.高承实.微博舆情监测指标体系研究.情报杂志.2011.30(9)
+13.王青.网络舆情监测及预警指标体系构建研究.图书情报工作.2011.55(8)
+14.中央政府门户网站.国家突发公共事件总体应急预案.2014
+15.王新辉.基于BP神经网络的国际电子商务信用风险预警模型研究:学位论文.沈阳:沈阳工业大学,2008
+16.尹韵公.新媒体蓝皮书:中国新媒体发展报告,2012:47
+-----------------------------------------------------------------------
+
+【来源篇名】WoS视域下国际网络舆情研究知识图谱分析
+【英文篇名】Knowledge Mapping Analysis of International Network Public Opinion Research from the View of WoS
+【来源作者】孙宁/陈雅
+【基    金】江苏省高等教育教改研究项目(2013JSJG165)/南京市哲学社会科学重点项目(13B05)
+【期    刊】情报资料工作
+【第一机构】南京大学
+【机构名称】[孙宁]南京大学.信息管理学院/[陈雅]南京大学.信息管理学院
+【第一作者】孙宁
+【中图类号】G35
+【年代卷期】2014,(040):21-26
+【关 键 词】网络舆情/前沿主题/知识基础/知识图谱
+【基金类别】省（市）级基金/其它基金/
+【参考文献】
+1.金俣昕.共链分析用于管理咨询业竞争态势研究.情报杂志.2009.(11)
+2.许鑫.国内网络舆情研究的回顾与展望.情报理论与实践.2009.(3)
+3.苏楠.基于知识图谱的国内网络舆情研究可视化分析.情报杂志.2012.(10)
+4.曾润喜.高校网络舆情的控制与引导.情报理论与实践.2009.(11)
+5.Chen,Chaomei.CiteSpace Ⅱ: Detecting and visualizing emerging trends and transient patterns in scientific literature.Journal of the American Society for Information Science and Technology.2006.(2)
+6.Pemson,O..Intellectual base and research fronts of jasis 1986—1990.Journal of the American Society for Information Science.1994.45(1)
+7.邱均平.近五年国际图书情报学研究热点、前沿及其知识基础——基于17种外文期刊知识图谱的可视化分析.图书情报知识.2013.(3)
+8.哈贝马斯.公共领域的结构转型.上海:学林出版社
+9.陈力丹.舆论学:舆论导向研究.北京:中国广播电视出版社
+10.Zaller,J.R..Nature and Origins of Mass Opinion.Cambridge:Cambridge University Press
+11.潘忠党.舆论研究的新起点:从陈力丹著《舆论学——舆论导向研究》谈起.新闻与传播评论.2001.
+12.Sznajd,W.K..Opinion Evolution in closed community.International Journal of Modern Physics C.2000.11(6)
+13.Fortunato,S..On the consensus threshold for the opinion dynamics of Krause-Hegselmann, international.Journal of Modern Physics C.2005.16(17)
+14.Entman,R..Framing: Toward clarification of a fractured paradigm.Journal of Communication.1993.43(4)
+15.Putnam,R.D..Bowling: Alone the Collapse and Revival of American Community.New York:Simon & Schuster
+16.Cho,J..Crawling the Web: Discovery and Maintenance of Large-Scale Web Data.Stanford:Stanford University,2001:192
+17.Diana,C.M..Hearing the Other Side: Deliberative versus Participatory Democracy.Cambridge:Cambridge University Press
+18.董石桃.当代西方参与式民主理论的发展及对我国的启示.学术界.2010.(6)
+-----------------------------------------------------------------------
+
+【来源篇名】一类新SEIRS模型上的网络舆情传播行为研究
+【英文篇名】An Analysis of Internet Public Opinion Propagation Behavior Based on a New SEIRS Model
+【来源作者】陈福集/陈婷/郑小雪
+【基    金】国家自然科学基金项目(71271056)
+【期    刊】情报资料工作
+【第一机构】福州大学
+【机构名称】[陈福集]福州大学.公共管理学院/[陈婷]福州大学.公共管理学院/[郑小雪]福建农林大学.交通学院
+【第一作者】陈福集
+【中图类号】G35
+【年代卷期】2014,(040):62-67
+【关 键 词】网络舆情/SEIRS模型/传播阈值/控制对策
+【基金类别】国家自科基金/
+【参考文献】
+1.曾润喜.网络舆情管控工作机制研究.图书情报工作.2009.(18)
+2.Zanette,D.H..Criticality of Rumor Propagation on Small-world Networks.2009
+3.Sehulze,C..Sznajd opinion dynamics with global and local neighbourhood.International Journal of Modern Physics C.2004.15(6)
+4.Sznajd-Weron,Katarzyna.Sznajd model and its applications.Acta Physica Poloniea B.2005.36(8)
+5.方薇.采用元胞自动机的网络舆情传播模型研究.计算机应用.2010.30(3)
+6.Sudbury,A.J..Proportion of the population never hearing a rumour.Journal of Applied Probability.1985.(22)
+7.张彦超.基于在线社交网络的信息传播模型.物理学报.2011.60(5)
+8.Leskovec,J..Patterns of cascading behavior in large bloggraphs.New York:ACM Press,2007:551-556
+9.Gruhl,D..Information diffusion through blogspace.New York:ACM Press,2004:491-501
+10.陈波.泛在媒体环境下的网络舆情传播控制模型.系统工程理论与实践.2011.31(11)
+11.朱恒民.面向话题衍生性的微博网络舆情传播模型研究.现代图书情报技术.2012.(5)
+12.伍盈.从传播学视角看网络舆论监督的衍生传播及其特点.消费导刊.2011.(3)
+13.兰月新.突发事件网络衍生舆情监测模型研究.现代图书情报技术.2013.(3)
+14.廖晓昕.动力系统的稳定性理论和应用.北京:国防工业出版社
+15.马知恩.传染病动力学的数学建模与研究.北京:科学出版社
+16.何敏华.复杂网络上传播动力学研究:学位论文.武汉:华中科技大学,2009
+17.多米尼克,约瑟夫·R..大众传播动力学.北京:中国人民大学出版社
+18..第31次中国互联网络发展状况统计报告.2013
+19.罗旭.网络政治参与中的舆论领袖研究:演进与规制.探索.2012.(4)
+-----------------------------------------------------------------------
+
+【来源篇名】政府重大投资项目舆情风险预警指标体系研究
+【英文篇名】Research on Risk Early Warning Index System of Public Opinions on Major Government Projects
+【来源作者】高航/丁荣贵
+【基    金】国家自然科学基金项目(71072111)/山东大学人文社会科学重大研究项目(12RWZD16)
+【期    刊】图书馆论坛
+【第一机构】山东大学
+【机构名称】[高航]山东大学.管理学院/[丁荣贵]山东大学.管理学院
+【第一作者】高航
+【中图类号】G35
+【年代卷期】2014,34(070):28-33
+【关 键 词】舆情风险/预警指标体系/政府重大投资项目
+【基金类别】国家自科基金/其它基金/
+【参考文献】
+1.方洁.利益相关者视角下的微博舆情监测指标体系研究.情报杂志.2013.(9)
+2.兰月新.突发事件网络舆情传播规律与预警阶段研究.情报杂志.2013.(5)
+3.王来华.政府如何应对舆情危机.决策.2007.(7)
+4.许鑫.国内网络舆情研究的回顾与展望.情报理论与实践.2009.(3)
+5.曾润喜.网络舆情突发事件预警指标体系构建.情报理论与实践.2010.(1)
+6.张一文.非常规突发事件网络舆情热度评价指标体系构建.情报杂志.2010.(11)
+7.戴媛.基于网络舆情安全的信息挖掘及评估指标体系研究.情报理论与实践.2008.(6)
+8.金兼斌.网络舆论调查的方法和策略.河南社会科学.2007.(4)
+9.谈国新.突发公共事件网络舆情监测指标体系研究.华中师范大学学报(人文社会科学版).2010.(3)
+10.喻国明.现阶段中国社会舆情的态势、热点与传播机制研究.中国人民大学学报.2013.(5)
+11.王青.网络舆情监测及预警指标体系研究综述.情报科学.2011.(7)
+12.付宏.基于微博传播的舆情演进案例研究.图书情报工作.2013.(8)
+13.朱毅华.网络舆情研究中的仿真方法应用综述.情报杂志.2013.(10)
+-----------------------------------------------------------------------
+
+【来源篇名】基于用户感知、偏好和涉入的微博舆情传播意愿影响因素研究
+【英文篇名】Empirical Research of Users’ Willingness to Propagate Microblogging Public Opinion Based on Perceptions, Preferences, and Involvements
+【来源作者】赵金楼/成俊会
+【基    金】国家自然科学基金项目(71271062)
+【期    刊】情报学报
+【第一机构】哈尔滨工程大学
+【机构名称】[赵金楼]哈尔滨工程大学.经济管理学院/[成俊会]哈尔滨工程大学.经济管理学院
+【第一作者】赵金楼
+【中图类号】G35
+【年代卷期】2014,33(040):416-425
+【关 键 词】感知/偏好/涉入/传播意愿/信任/结构方程
+【基金类别】国家自科基金/
+【参考文献】
+1.Suh,B..Want to be Retweeted? Large Scale Analytics on Factors Impacting Retweet in Twitter Network.Minneapolis, USA,2010:177-184
+2.Lee,C..Finding Influentials Based on the Temporal Order of Information Adoption in Twitter.Raleigh, USA,2010:1137-1138
+3.吴凯.基于行为预测的微博网络信息传播建模.计算机应用研究.2013.30(6)
+4.张旸.微博客中转发行为的预测研究.中文信息学报.2012.26(4)
+5.Mares,J..On the protection of social networks User's information.Knowledge-Based Systems.2013.49(9)
+6.Santosa,P..Student involvement with online forum and its effects on intention to seek and intention to share: An exploratory study.Bangkok, Thailand,2005:1172-1184
+7.Weingart,L.R..Social Motives in Negotiating Groups.Journal of personality and social psychology.2007.93(6)
+8.曹云忠.基于公共平台的企业微博信息传播意愿研究.信息系统学报.2013.(11)
+9.Jozsa,E..Trust and Credibility on the Web: The Relationship of Web Experience Levels and User Judgments,2012:605-610
+10.Nicolaou,A.I..Perceived information quality in data exchanges: effects on risk, trust, and intension to use.Information Systems Research.2006.17(4)
+11.Saeed,K.A..Toward an integrative framework for online consumer behavior research: a meta-analysis approach.Journal of End User Computing.2003.15(4)
+12.Stvilia,B..A model for online consumer health information quality.Journal of American Society for Information Science and Technology.2009.60(9)
+13.Kim,D..Trust-assuring arguments in b2c e-commerce: impact of content, source, and price on trust.Journal of Management Information Systems.2009.26(3)
+14.Yi,M.Y..Untangling the antecedents of initial trust in Web-based health information: The roles of argument quality, source expertise, and user perceptions of information quality and risk.Decision Support Systems.2013.55(1)
+15.Royal Society.Risk: Analysis, Perception and Management.London:The Royal Society
+16.HMSO.A Guide to Risk Assessment and Risk Management for Environmental Protection.Department of the Environment, HMSO
+17.Slovic,P..Perception of Risk.London:Earthscan
+18.王洪伟.影响个人在线提供隐私信息意愿的实证研究.系统工程理论与实践.2012.32(10)
+19.Egea,J.M.0..Explaining physicians' acceptance of ehcr systems: an extension of tam with trust and risk factors.Computers in Human Behavior.2011.27(1)
+20.Horst,M..Perceived usefulness, personal experiences, risk perception and trust as determinants of adoption of e-government services in The Netherlands.Computers in Human Behavior.2007.23(4)
+21.Koller,M..Risk as a determinant of trust.Basic and Applied Social Psychology.1988.9(4)
+22.Nooteboom,B..Effects of trust and governance on relational risk.Academy and Management Journal.1997.40(2)
+23.Mitchell,V.W..Consumer perceived risk: conceptualizations and models.European Journal of Marketing.1999.33(1/2)
+24.Ropeik,D..Risk communication and non-linearity.Human & amp Experimental Toxicology.2009.28(1)
+25.张赛.微博类社交网络中信息传播的预测和分析.西安交通大学学报.2013.47(2)
+26.Bhattacharya,D..Sharing News Articles Using 140 Characters: A Diffusion Analysis on Twitter,2012:966-971
+27.Sullivan,S..“What's happening?” A content analysis of concussion-related traffic on Twitter.British Journal of Sports Medicine.2012.46(4)
+28.张一文.非常规突发事件网络舆情热度评价指标体系构建.情报杂志.2010.29(11)
+29.Cha,M..Measuring User Influence in Twitter: The Million Follower Fallacy:Washington, D.C.,2010:10-17
+30.Webberley,W..Retweeting: A Study of Message-Forwarding in Twitter:Milan,2011:13-18
+31.Hutto,C.J..A Longitudinal Study of Follow Predictors on Twitter:CHI: Changing Perspectives.Paris, France,2013:821-830
+32.Henri,B..Measuring user participation, user involvement, and user attitude.MIS Quarterly.1994.18(1)
+33.Jackson,C.M..Toward an understanding of the behavioral intention to use an information system.Decision Sciences.1997.28(2)
+34.史波.移动互联网环境下公共危机信息传播行为的影响因素研究.情报杂志.2013.32(6)
+35.Stuart,J.B..Modeling use continuance behavior in microblogging services: The case of Twitter.Journal of Computer Information Systems.2011.51(4)
+36.Hsu,C..Acceptance of blog usage: The roles of technology acceptance, social influence and knowledge sharing motivation.Information and Management.2008.45(1)
+37.候德林.网络视频服务用户内容生成上传行为意愿实证研究.情报学报.2013.32(8)
+38.Rousseau,D.M..Not so different after all: a cross-discipline view of trust.Academy of Management Review.1998.23(3)
+39.Cook,J..New work attitude measures of trust, organizational commitment and personal need non-fulfillment.Journal of Occupational Psychology.1980.53(1)
+40.Gefen,D..Trust and TAM in online shopping: An integrated model.MIS Quarterly.2003.27(1)
+41.Gorsuch,R.L..Common factor analysis versus component analysis: some well and little known facts.Multivariate Behavior Research.1990.25(1)
+42.Fornell,C..Evaluating structure equation modeling with unobservable variables and measurement error: Algebra and statistics.Journal of Marketing Research.1981.18(3)
+-----------------------------------------------------------------------
+
+【来源篇名】基于ELM模型的微博舆情传播影响因素研究——以新浪微博为例
+【英文篇名】Research on Factors That Influence Microblog Opinion Communication Based on Elaboration Likelihood Model: Taking Sina Microblog as An Example
+【来源作者】张玥/孙霄凌/朱庆华
+【基    金】江苏省社科基金项目(13XWC014)/江苏省教育厅高校哲学社会科学基金项目(2013SJD870013)/中央高校基本科研业务费(南京大学青年基金项目)
+【期    刊】情报学报
+【第一机构】南京大学
+【机构名称】[张玥]南京大学.信息管理学院/[孙霄凌]南京大学.工程管理学院/[朱庆华]南京大学.信息管理学院
+【第一作者】张玥
+【中图类号】G35
+【年代卷期】2014,33(040):426-438
+【关 键 词】微博舆情/舆情传播/ELM模型/信息内容/信源特征
+【基金类别】国家社科基金/其它基金/教育部基金/
+【参考文献】
+1..2012年互联网舆情报告.2013
+2.刘毅.略论网络舆情的概念、特点、表达与传播.理论界.2007.(1)
+3.Shannon,C.E..A mathematical Theory of Communication.Bell Systems Technical Journal.1948.(27)
+4.Petty,R.E..Elaboration kikelihood model of persuasion.Advances in Experimental Social Psychology.1986.19
+5.Petty,R.E..Personal involvement as a determinant of argument-based persuasion.Journal of Personality and Social Psychology.1981.41(5)
+6.Petty,R.E..Central and peripheral routes to advertising effectiveness: the moderating role of involvement.Journal of Consumer Research.1983.10(2)
+7.Sussman,S.W..Informational influence in organizations: an integrated approach to knowledge adoption.Information Systems Research.2003.14(1)
+8.Myers,D.G..Social Psychology.New York:McGraw-Hill Humanities
+9.Cialdini,R..Social influence: compliance and conformity.Psychology.2004.
+10.Suh,B..Want to be retweeted? Large scale analyties on factors impacting retweet in twitter network.Minneapolis,2010:177-184
+11.Peng,H..Retweet modeling using conditional random fields,2011:336-343
+12.Petrovic,S..RT to win! Predicting message propagation in twitter,2011:586-589
+13.王晓光.微博客用户行为特征与关系特征实证分析——以新浪微博为例.图书情报工作.2010.54(14)
+14.Nagarajan,M..A qualitative examination of topical tweet and retweet practices:Washington, DC,2010:295-298
+15.胡嫒.微博客中基于时序的非正式信息流机制研究——以sina微博为例.图书情报知识.2011.142(4)
+16.陈远.微博信息传播的正负社会效应.信息资源管理学报.2012.(2)
+17.冯伟.官员微博传播与评论者行为:一个实证研究.情报杂志.2012.31(8)
+18.熊涛.微博转发网络中意见领袖的识别与分析.现代图书情报技术.2013.(6)
+19.张嫒伊.微博博主和信息特征对消费者行为影响研究:学位论文.浙江:浙江大学,2013:75
+20.曾润喜.网络舆情突发公共事件预警指标体系构建.情报理论与实践.2010.33(1)
+21.Duggan,F..Constructing a model of effective information dissemination in a crisis.Information Research.2004.5(3)
+22.Eagly,A.H..Psychology of Attitudes.Orlando:Harcourt, Brace, & Janovich
+23.Mucchi,F.A..Social influence: The role of originality.European Journal of Social Psychology.1991.21(3)
+24.Aladwani,A.M..Developing and validating an instrument for measuring user: perceived web quality.Information & Management.2002.39(6)
+25.Baierova,P..Impact of Purpose for Web Use on User Preferences for Web Design Features.PACIS
+26.Holbrook,M.B..Assessing the Role of Emotions as Mediators of Consumer Responses to Advertising.Journal of Consumer Research.1987.14(3)
+27.张玥.信息类型和信息交流情境视角下电子口碑交流有效性要素研究.中国图书馆学报.2011.37(4)
+28.Park,D.H..E-WOM overload and its effect on consumer behavioral intention depending on consumer involvement.Electronic Commerce Research and Applications.2008.7(4)
+29.Blanchard,A.L..Experienced “sense” of a virtual community: Characteristics and processes.Data Base for Advances in Information Systems.2004.35(1)
+30.Nardi,B.A..Why we blog.Communications of the ACM.2004.47(12)
+31.Wasko,M.M..Why Should I Share? Examining knowledge contribution in networks of practice.MIS Quarterly.2005.29(1)
+32.Pinsky,L.E..A picture is worth a thousand words practical use of videotape in teaching.Journal of General Internal Medicine.2000.15(11)
+33.Ohanian,R..Construction and validation of a scale to measure celebrity.Journal of Advertisin9.1990.19(3)
+34.Kelman,H.C..Reinstatement of the communicator in delayed measurement of opinion change.Journal of Abnormal and Social Psychology.1953.(48)
+35.Eagly,A.H..An attribution analysis of the effect of communicator characteristics on opinion change: The case of communicator attractiveness.Journal of Personality and Social Psychology.1975.32(1)
+36.Pornpitakpan,C..Persuasiveness of source credibility: A critical review of five decades' evidence.Journal of Applied Social Psychology.2004.34(2)
+37.Krishnamurthy,B..A few chirps about twitter.2013
+38.Huberman,B.A..Social networks that matter: twitter under the microscope.2013
+39.McGinnies,E..Better liked than right trustworthiness and expertise as factors in credibility.Personality and Social Psychology Bulletin.1980.6(3)
+40.Patzer,G.L..Source credibility as a function of communicator physical attractiveness.Journal of business research.1983.11(2)
+41.Harris,R.B..An investigation of the computer-mediated communication of emotion.Journal of Applied Sciences Research.2007.3(12)
+42.Stieglitz,S..Emotions and information diffusion in social media-sentiment of microblogs and sharing behavior.Journal of Management Information Systems.2013.29(4)
+43.高铁梅.计量经济分析方法与建模——EViews应用及实例.北京:清华大学出版社
+44.张文彤.SPSS11统计分析教程.北京:希望电子出版社
+45.Huffaker,D..Dimensions of leadership and social influence in online communities.Human Communication Research.2010.4(36)
+46.Joyce,E..Predicting continued participation in newsgroups.Journal of Computer-Mediated Communication.2006.3(11)
+47.Berger,J..What makes online content viral?.Journal of Marketing Research.2012.2(49)
+-----------------------------------------------------------------------
+
+【来源篇名】基于改进聚类算法的网络舆情分析系统研究
+【英文篇名】Research and Implementation of Desktop Search Engine Based on Tika and Lucene
+【来源作者】王旭仁/李娜/何发镁/王彦丽/宋蓓
+【基    金】国家自然科学基金项目(61373161)/北京市属高等学校人才强教深化计划项目(PHR201008083)
+【期    刊】情报学报
+【第一机构】首都师范大学
+【机构名称】[王旭仁]首都师范大学.信息工程学院/[李娜]首都师范大学.信息工程学院/[何发镁]北京理工大学.图书馆/[王彦丽]首都师范大学.信息工程学院/[宋蓓]首都师范大学.信息工程学院
+【第一作者】王旭仁
+【中图类号】G35
+【年代卷期】2014,33(050):530-537
+【关 键 词】互联网舆情/数据挖掘/关键词提取/文本聚类
+【基金类别】国家自科基金/省（市）级基金/
+【参考文献】
+1.王来华.舆情研究概论.天津:天津人民出版社
+2.Hakala,K..EVEX in ST’13: Application of a large-scale text mining resource to event extraction and network construction.Sofia, Bulgaria,2013:26-34
+3.Liu,Bing.A Survey of Opinion Mining and Sentiment Analysis.Mining Text Data, Springer us.2012.
+4.周亚东.流量内容词语相关度的网络热点话题提取.西安交通大学学报.2007.41(10)
+5.杨震.基于字符串相似性聚类的网络短文本舆情热点发现技术.北京工业大学学报.2010.36(5)
+6.胡艳丽.网络舆情中一种基于0LDA的在线话题演化方法.国防科技大学学报.2012.34(1)
+7.钱爱玲.多时间序列关联规则分析的论坛舆情趋势预测.南京航空航天大学学报.2012.44(6)
+8.刘锦德.基于不完全信息演化博弈模型的网络舆情传播羊群行为.国防科技大学学报.2013.35(5)
+9..方正智思互联网舆情监控系统.2014
+10..人民网舆情.2014
+11.徐雅斌.基于MapReduce架构的网络热点话题发现.华中科技大学学报(自然科学版).2012.40(s1)
+12.李鹏.Tag-TextRank:一种基于Tag的网页关键词抽取方法.计算机研究与发展.2012.49(11)
+13.陶余会.一种基于文本单元关联网络的自动文摘方法.模式识别与人工智能.2009.22(3)
+14.钱爱兵.基于改进TF-IDF的中文网页关键词抽取——以新闻网页为例.信息系统.2008.31(6)
+15.刘佳宾.基于机器学习的科技文件关键词自动提取方法.计算机工程与应用.2007.(43)
+16.张阔.基于优化层次聚类的文档逻辑结构抽取.淸华大学学报(自然科学版).2005.45(4)
+17.刘立平.一种选取初始聚类中心的方法.计算机工程与应用.2004.(8)
+18.李晓明.搜索引擎:原理、技术与系统.北京:科学出版社
+19.Laenderand,A..A Brief Survey of Web Data.ACM SIGMOD Record.2002.31(2)
+20.Kaiser,Suhit Gupta.DOM-based content extraction of HTML documents.New York, NY, USA,2003:207-214
+21.Cai,Deng.Extracting Content Structure for Web Pages based on Visual Representation,2003:406-417
+22.夏火松.停用词表对基于SVM的中文文本情感分类的影响.情报学报.2011.30(4)
+-----------------------------------------------------------------------
+
+【来源篇名】政府重大投资项目舆情传播与舆情风险关系研究
+【英文篇名】Study on the Relationship of Dissemination and Risk of Public Opinion about Government-invested Major Project
+【来源作者】高航/丁荣贵
+【基    金】国家自然科学基金项目(71072111)/山东大学人文社会科学重大研究项目(12RWZD16)
+【期    刊】情报杂志
+【第一机构】山东大学
+【机构名称】[高航]山东大学.管理学院/[丁荣贵]山东大学.管理学院
+【第一作者】高航
+【中图类号】G353.1
+【年代卷期】2014,33(090):106-110,128
+【关 键 词】舆情传播/舆情风险/舆情信息/传播方式/传播主体/政府重大投资项目
+【基金类别】国家自科基金/其它基金/
+【参考文献】
+1.渠敬东.项目制:一种新的国家治理体制.中国社会科学.2012.32(5)
+2.钟伟军.公共舆论危机中的地方政府微博回应与网络沟通—基于深圳“5.26飙车事件”的个案分析.公共管理学报.2013.10(1)
+3.杨青山.政府针对突发性事件的舆情应对策略.中国行政管理.2010.26(4)
+4.陈福集.基于演化博弈的网络舆情传播的羊群效应研究.情报杂志.2013.32(10)
+5.王青.网络舆情监测及预警指标体系研究综述.情报科学.2011.32(7)
+6.王来华.政府如何应对舆情危机.决策.2007.28(7)
+7.Harold,L..Structure and Function of Communication in Society.Communication of Ideas.1948.
+8.Shannon,C..Mathematics Theory of Communication.Urbana:University of Illinois Press
+9.Defleur,L..Understanding Mass Communication.Boston:Houghton Mifflin
+10.谈国新.突发公共事件网络舆情监测指标体系研究.华中师范大学学报(人文社会科学版).2010.49(3)
+11.Berinsky,A.J..New Directions in Public Opinion.New York:Routledge
+12.艾新革.政府舆情信息需求理论初探.图书馆论坛.2011.31(2)
+13.Price,V..Public Opinion Research in the New Century Reflections of a Former POQ Editor.Public Opinion Quarterly.2011.75(5)
+14.兰月新.突发事件网络舆情传播规律与预警阶段研究.情报杂志.2013.32(5)
+15.Feldman,S..Limits of Elite Influence on Public Opinion.Critical Review.2012.24(4)
+16.戴媛.基于网络舆情安全的信息挖掘及评估指标体系研究.情报理论与实践.2008.31(6)
+17.王洪亮.突发自然灾害事件微博舆情蔓延规律与控制研究.情报杂志.2013.32(9)
+18.付宏.基于微博传播的舆情演进案例研究.图书情报工作.2013.57(8)
+-----------------------------------------------------------------------
+
+【来源篇名】微博舆情生成机制研究
+【英文篇名】Study on the Formation Mechanism of Micro-blog Public Opinion
+【来源作者】李天龙/李明德/张宏邦
+【基    金】国家社会科学基金项目(14BXW052)
+【期    刊】情报杂志
+【第一机构】西安交通大学
+【机构名称】[李天龙]西安交通大学.人文社会科学学院/[李明德]西安交通大学.人文社会科学学院/[张宏邦]西安交通大学.人文社会科学学院
+【第一作者】李天龙
+【中图类号】G353
+【年代卷期】2014,33(090):117-122
+【关 键 词】微博舆情/生成系统/生成要素/生成机制
+【基金类别】国家社科基金/
+【参考文献】
+1.王来华.对舆情、民意和舆论三概念异同的关系辨析.新视野.2009.(5)
+2.丁柏铨.略论舆情——兼及它与舆论、新闻的关系.新闻记者.2007.(1)
+3.Micro-blog: Map-casting From Mobile Phones to Virtual Sensor Maps
+4.周金元.国内微博研究综述.情报杂志.2013.32(9)
+5.李明德.微博舆情传播模式研究.情报杂志.2014.33(2)
+6.张思锋.煤炭开采区生态补偿的体制与机制研究.西安交通大学学报.2011.(3)
+7.百度百科.体制
+8.手机辞海APP
+9.刘社瑞.自媒体时代微博舆情演化与应对策略.求索.2011.(10)
+10.刘金荣.危机沟通视角下微博舆情演变路径研究.情报杂志.2012.32(7)
+11.李明德.微博舆情:模式、表征与趋势.情报杂志.2013.32(7)
+12.陈力丹.舆论学——舆论导向研究.北京:中国广播电视出版社
+13.顾芳芳.网络舆情危机生成机制研究.新闻界.2011.(8)
+14.中国互联网络信息中心.第33次中国互联网络发展状况统计报告.2014
+15.马捷.微博信息生态链构成要素与形成机理.图书情报工作.2012.(9)
+16..马克思恩格斯选集(第1卷).北京:人民出版社
+17.塔尔德.传播与社会影响.北京:中国人民大学出版社
+18.许静.舆论学概论.北京:北京大学出版社
+19.侯晋雄.转型期社会心态问题与构建和谐社会.陕西理工学院学报.2006.(4)
+20.陈月生.构建和谐社会需要准确认识和把握舆情产生的影响因素、表现特征及其规律.天津大学学报.2008.(9)
+21.樊新民.当代中国社会问题.北京:中国社会出版社
+22.杜骏飞.危如朝露:2010—2011中国网络舆情报告.杭州:浙江大学出版社
+23.谢耘耕.舆情蓝皮书:中国社会舆情与危机管理报告(2012).北京:社会科学文献出版社
+24.李明德.大众传播的导向责任.西安交通大学学报(社会科学版).2009.(6)
+25.陈力丹.精神交往论——马克思恩格斯的传播观.北京:中国人民大学出版社
+26.刘正荣.互联网与新舆论场:新媒体研究前沿.北京:清华大学出版社,2012:111-125
+27.陈力丹.2012解析中国新闻传播学.北京:人民日报出版社
+28.杜骏飞.沸腾的冰点:2009中国网络舆情报告.杭州:浙江大学出版社
+29.百度百科.六度空间理论
+30.卿立新.微博时代网络事件传播规律与鼾探析.求索.2010.(12)
+-----------------------------------------------------------------------
+
+【来源篇名】一种基于在线评论共现特征词的舆情事件相关度计算方法
+【英文篇名】An Evaluation Method of Relative Intensity of Online Public Opinion Based on Co-occurrence Feature Word
+【来源作者】陈涛/刘越
+【基    金】国家社会科学基金项目(12BTQ055)/浙江省教育厅高校科研项目(Y201224457)/宁波大学王宽诚幸福基金
+【期    刊】情报杂志
+【第一机构】宁波大学
+【机构名称】[陈涛]宁波大学.商学院信息管理系/[刘越]宁波大学.商学院信息管理系
+【第一作者】陈涛
+【中图类号】G350
+【年代卷期】2014,33(090):141-147,151
+【关 键 词】网络舆情/在线评论/共现特征词/相关度
+【基金类别】国家社科基金/其它基金/
+【参考文献】
+1.曾润喜.网络舆情信息资源共享研究.情报杂志.2009.28(8)
+2.张勤.国内知识管理研究结构探讨——以共词分析为方法.情报学报.2008.27(1)
+3.叶鹰.用共关键词网络揭示领域知识结构的实验研究.情报学报.2012.31(12)
+4.范少萍.国内外共词分析研究的文献计量分析.情报杂志.2013.32(9)
+5.皇甫青红.国际数字图书馆领域研究热点及作者团体分析——基于共词分析和社会网络分析.情报杂志.2013.32(1)
+6.邱小花.基于Sci2的国外图书馆学情报学研究主题演变分析——以共词分析为例.情报杂志.2013.32(12)
+7.唐晓波.微博产品评论挖掘模型研究.情报杂志.2013.32(2)
+8.唐晓波.基于复杂网络的微博舆情分析.情报学报.2012.31(11)
+9.崔鹏.基于共词分析的网络虚拟社会领域热点及演进态势研究.情报杂志.2013.32(2)
+10.周鹏.基于关键词抽取的微博舆情事件内容聚合.情报杂志.2014.33(1)
+11.余传明.情感词汇共现网络的复杂网络特性分析.情报学报.2010.29(5)
+12.常鹏.一种基于词共现的文档聚类算法.计算机程.2012.38(2)
+13.薛翠芳.汉语文本特征词的抽取方法.情报学报.2000.19(3)
+14.李赟.维基百科的中文语义相关词获取及相关度分析计算.北京邮电大学学报.2009.32(3)
+15.刘军.基于Wikipedia的语义相关度计算.计算机工程.2010.36(19)
+16.曾淑琴.基于HowNet的词语相关度计算模型.微型机与应用.2012.31(8)
+17.钟茂生.基于词语量化相关关系的句际相关度计算.山东大学学报(工学版).2010.40(5)
+18.张友华.基于句子相关度的文本自动分类.中国科学技术大学学报.2006.36(5)
+19.朱鲲鹏.基于文档相关度计算的网页预测模型.计算机应用与软件.2012.29(2)
+20.陈涛.基于搜索引擎关注度的网络舆情时空演化比较分析—以谷歌趋势和百度指数比较为例.情报杂志.2012.26(1)
+21.张建刚.在线电影评论倾向性分类算法研究.计算机工程与应用.2011.47(11)
+-----------------------------------------------------------------------
+
+【来源篇名】面向舆情主题的微博用户网络影响力挖掘分析
+【英文篇名】Analysis of Micro-blogger Network Influence Mining on Public Opinion Subjects
+【来源作者】刘继/李磊
+【基    金】国家自然科学基金项目(71261025)/教育部人文社会科学研究青年项目(11YJC630129)/新疆财经大学人文社科重点研究基地社会经济统计研究中心重点项目(050312B01)
+【期    刊】情报杂志
+【第一机构】新疆财经大学
+【机构名称】[刘继]新疆财经大学.统计与信息学院/[李磊]新疆财经大学.社会经济统计研究中心
+【第一作者】刘继
+【中图类号】G350
+【年代卷期】2014,33(100):21-24
+【关 键 词】网络舆情/大数据/微博/网络结构/舆情主题/数据挖掘
+【基金类别】国家自科基金/教育部基金/其它基金/
+【参考文献】
+1.冯芷艳.大数据背景下商务管理研究若干前沿课题.管理科学学报.2013.16(1)
+2.Lynch,C..Big data: How do your data grow?.Nature.2008.455(7209)
+3.孟小峰.大数据管理:概念、技术与挑战.计算机研究与发展.2013.50(1)
+4.吴敏琦.微博用户日常生活信息获取行为模式及其影响因素研究.情报科学.2013.31(1)
+5.王晓光.微博客用户行为特征与关系特征实证分析-以"新浪微博"为例.图书情报工作.2010.54(14)
+6.杨凯.微博用户关系网络的结构研究与聚类分析.复杂系统与复杂性科学.2013.10(2)
+7.刘继.基于微博用户转发行为的舆情信息传播模式分析.情报杂志.2013.32(7)
+8.Aral,S..Identifying Influential and Susceptible Members of Social Networks.Science.2012.337(6092)
+9.于晶.微博传播过程中用户影响力的特征实证分析.情报杂志.2013.32(8)
+10.张玥.识别网络论坛中有影响力用户.计算机研究与发展.2013.50(10)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情研究中量化方法应用态势分析
+【英文篇名】Quantitative Methods Application in Online Public Opinion Researches: A Review
+【来源作者】方付建
+【基    金】
+【期    刊】情报杂志
+【第一机构】中南民族大学
+【机构名称】[方付建]中南民族大学.公共管理学院
+【第一作者】方付建
+【中图类号】G353.1
+【年代卷期】2014,33(100):47-51
+【关 键 词】网络舆情/量化研究/定量分析/预警与监测/内容分析法
+【基金类别】
+【参考文献】
+1.许鑫.国内网络舆情研究的回顾与展望.情报理论与实践.2009.38(3)
+2.罗昊.国内图情期刊关于网络舆情研究的现状及特点.情报杂志.2013.32(5)
+3.崔薇.中国网络舆情研究文献计量分析.情报科学.2011.(1)
+4.叶平浩.基于知识图谱的网络舆情研究现状分析.情报杂志.2013.32(2)
+5.苏楠.基于知识图谱的国内网络舆情研究可视化分析.情报杂志.2012.31(10)
+6.李弼程.突发事件网络舆情研究探讨.情报杂志.2010.29(7)
+7.张玉亮.突发事件网络舆情研究:回顾、检视及反思.情报杂志.2013.32(2)
+8.陆蓓.互联网舆情挖掘研究述略.情报资料工作.2010.(2)
+9.陈忆金.网络舆情信息监测研究进展.图书情报知识.2011.(6)
+10.王青.网络舆情监测及预警指标体系研究综述.情报科学.2011.(7)
+11.丁菊玲.我国网络舆情危机预警研究探讨.情报杂志.2010.29(10)
+12.郝晓玲.网络舆情研判技术的研究进展.情报科学.2012.(12)
+13.朱毅华.网络舆情研究中的仿真方法应用综述.情报杂志.2013.32(10)
+14.陈福集.我国网络舆情演变文献研究综述.情报杂志.2013.32(7)
+-----------------------------------------------------------------------
+
+【来源篇名】基于系统动力学的网络舆情风险模型仿真研究
+【英文篇名】Research on Modeling and Simulation of Risk of Internet Public Opinion Based on System Dynamics
+【来源作者】高航/丁荣贵
+【基    金】国家自然科学基金项目(71072111)/山东大学人文社会科学重大研究项目(12RWZD16)
+【期    刊】情报杂志
+【第一机构】山东大学
+【机构名称】[高航]山东大学.管理学院/[丁荣贵]山东大学.管理学院
+【第一作者】高航
+【中图类号】G353.1
+【年代卷期】2014,33(110):7-13
+【关 键 词】网络舆情/舆情风险/舆情事件/政府公信力/网络媒体/系统动力学
+【基金类别】国家自科基金/其它基金/
+【参考文献】
+1.中国互联网络信息中心.第33次中国互联网络发展状况统计报告.2014
+2.王来华.舆情研究概论:理论、方法与现实热点.天津:天津社会科学出版社
+3.刘毅.网络舆情研究概论.天津:天津人民出版社
+4.许鑫.国内网络舆情研究的回顾与展望.情报理论与实践.2009.46(3)
+5.艾新革.政府舆情信息需求理论初探.图书馆论坛.2011.31(2)
+6.张玉亮.基于发生周期的突发事件网络舆情风险评价指标体系.情报科学.2012.30(7)
+7.兰月新.突发事件网络舆情传播规律与预警阶段研究.情报杂志.2013.32(5)
+8.杨菁.公共危机事件网络舆情危机水平评测研究.中央财经大学学报.2011.32(10)
+9.丁菊玲.网络舆情危机事件形成因素分析.情报杂志.2011.30(2)
+10.沈阳.基于复杂因子的网络舆情推演研究.情报学报.2013.32(12)
+11.高航.政府重大投资项目舆情风险预警指标体系研究.图书馆论坛.2014.34(7)
+12.任海英.基于系统动力学的新兴技术产业化策略研究.科研管理.2013.34(5)
+13.Harold,L..Structure and Function of Communication in Society.Communication of Ideas.1948.11(3)
+14.Shannon,C..Mathematics Theory of Communication.Urbana:University of Illinois Press
+15.Defleur,L..Understanding Mass Communication.Boston:Houghton Mifflin
+16.谈国新.突发公共事件网络舆情监测指标体系研究.华中师范大学学报(人文社会科学版).2010.49(3)
+17.唐涛.移动互联网舆情新特征、新挑战与对策.情报杂志.2014.33(3)
+18.陈福集.系统动力学视角下政府回应网络舆情的能力提升研究.情报杂志.2013.32(11)
+-----------------------------------------------------------------------
+
+【来源篇名】基于主题河的网络舆情可视化关联分析方法
+【英文篇名】ThemeRiver-based Internet Public Opinion Visualization Correlation Analysis Methods
+【来源作者】詹建/高民权
+【基    金】国家自然科学基金项目(71373108)/中央高校基本科研业务费专项资金项目(14LZUJBWZD012)
+【期    刊】情报资料工作
+【第一机构】兰州大学
+【机构名称】[詹建]兰州大学.信息科学与工程学院/[高民权]兰州大学.信息科学与工程学院
+【第一作者】詹建
+【中图类号】G35
+【年代卷期】2014,(060):17-22
+【关 键 词】主题河/可视化/网络舆情
+【基金类别】国家自科基金/教育部基金/
+【参考文献】
+1.曾润喜.网络舆情信息资源共享研究.情报杂志.2009.(8)
+2.中国互联网信息中心.第33次中国互联网络发展状况统计报告.2014
+3.Wolfe,J.M..Parallel-processing of part-whole information in visual-search tasks.Perception & Psychophysics.1994.55(5)
+4.Muller,Wolfgang.Visualization methods for time-dependent data——An overview.USA:WSC,2003:737-745
+5.唐家渝.文本可视化研究综述.计算机辅助设计与图形学学报.2013.25(3)
+6.周宁.信息可视化与知识检索.北京:科学出版社
+7.周宁.信息可视化的发展趋势研究.图书情报工作.2008.52(8)
+8.周宁.文本信息可视化模型研究.情报学报.2007.26(1)
+9.杨峰.基于信息可视化技术的文本聚类方法研究.情报学报.2005.24(6)
+10.张兆锋.信息可视化在科技文献深度挖掘中的应用.情报学报.2007.26(3)
+11.陈颖.文档类型信息检索可视化系统比较分析.情报杂志.2010.29(1)
+12.安海忠.专题新闻文本集信息可视化研究.图书情报工作.2009.53(12)
+13.刘永.竞争情报可视化探讨.图书馆论坛.2009.29(6)
+14.申莹.针对确定话题的离散文本舆情聚类与可视化研究:学位论文.武汉:武汉理工大学,2011
+15.郭建忠.突发事件网络舆情可视化研究与实现.地矿测绘.2012.28(4)
+16.许星.社会网络的舆情信息分析与可视化——以新浪微博为例.计算机光盘软件与应用.2013.(12)
+17.Havre,S..ThemeRiver: Visualizing thematic changes in large document collections.IEEE Transactions on Visualization and Computer Graphics.2002.8(1)
+18.高承实.微博舆情监测指标体系研究.情报杂志.2011.30(9)
+19.曾润喜.网络舆情突发事件预警系统、指标与机制.情报杂志.2009.28(11)
+20.Liu,Bing.Sentiment Analysis and Opinion Mining.Morgan & Claypool Publishers
+21.Heer,Jeffrey.Prefuse: A toolkit for interactive information visualization.New York, NY, USA:ACM,2005:421-430
+22..4·11兰州自来水苯含量超标事件.2014
+-----------------------------------------------------------------------
+
+【来源篇名】网络新闻中黄岩岛争端事件舆情研究——以新浪网“中菲黄岩岛争端”专题为例
+【英文篇名】Research on Public Opinion of the Disputes on Huangyan Island in the Network News: A Case Study of “Special Reports about the Disputes Between China and Philippines on Huangyan Island” on Sina
+【来源作者】邹伟/刘永学/李满春/王加胜/陈映雪
+【基    金】国家高技术研究发展计划课题基金项目(2012AA12A406)
+【期    刊】现代图书情报技术
+【第一机构】江苏省地理信息技术重点实验室
+【机构名称】[邹伟]江苏省地理信息技术重点实验室./[刘永学]江苏省地理信息技术重点实验室./[李满春]江苏省地理信息技术重点实验室./[王加胜]江苏省地理信息技术重点实验室./[陈映雪]南京大学.地理与海洋科学学院
+【第一作者】邹伟
+【中图类号】G35
+【年代卷期】2014,(020):72-78
+【关 键 词】黄岩岛/舆情/网络新闻/Gephi/新浪网
+【基金类别】其他部委级基金/
+【参考文献】
+1.戴超.国内主流网站“黄岩岛事件”舆论建构策略研究.新闻世界.2012.(12)
+2.中国互联网络信息中心.第31次中国互联网络发展状况统计报告.2013
+3.赵华.基于内容分析的话题检测研究.哈尔滨工业大学学报.2006.38(10)
+4.王伟.基于聚类的网络舆情热点发现及分析.现代图书情报技术.2009.(3)
+5.童亚拉.群智能在网络舆情热点发现及研判机制中的应用分析.电脑学习.2010.(4)
+6.任海果.基于主题事件的舆情分析系统的设计与实现:学位论文.北京:北京邮电大学,2012
+7.Allan,J..Topic Detection and Tracking Pilot Study Final Report,1998:194-218
+8.Li,F..Who is Talking? An Ontology-Based Opinion Leader Identification Framework for Word-of-Mouth Marketing in Online Social Blogs.Decision Support Systems.2011.51(1)
+9.UMBC eBiquity.Blog Vox: Separating Blog Wheat from Blog Chaff.2011
+10.Neri,F..Sentiment Analysis on Social Media:IEEE Computer Society,2012:919-926
+11.刘晓东.基于内容分析的新浪新闻平台研究.情报杂志.2009.28(S1)
+12.易前良.新浪、网易网络新闻比较分析.新闻界.2007.(1)
+13.Alexa.Traffic Detail (sina. com. cn).2013
+14.新浪新闻.中菲黄岩岛争端专题.2012
+15.金应忠.国际关系理论比较研究.北京:中国社会科学出版社
+16.新浪新闻.菲律宾今日再向南海黄岩岛海域派海岸警卫队船.2012
+17.Levene,M..An Introduction to Search Engines and Web Navigation.John Wiley & Sons
+18..Locoy Spider.2013
+19.Code Plex.盘古分词.2013
+20..Gephi.2013
+21.Hu,Y..Algorithms for Visualizing Large Networks.Combinatorial Scientific Computing.2011.5(3)
+22.谢科范.网络舆情突发事件的生命周期原理及集群决策研究.武汉理工大学学报(社会科学版).2010.23(4)
+-----------------------------------------------------------------------
+
+【来源篇名】基于网络舆情的社会心态及调适机制研究——以我国中部某地级市互联网百姓论坛为例
+【英文篇名】Research on the Social Mentality Based on Online Public Opinions and Its Adjustment Mechanism
+【来源作者】唐子茜/王琳
+【基    金】安徽省高等学校省级优秀青年人才基金重点项目(2012SQRW055ZD)
+【期    刊】情报理论与实践
+【第一机构】安徽财经大学
+【机构名称】[唐子茜]安徽财经大学.思想政治理论课教学研究部/[王琳]北京交通大学.马克思主义学院
+【第一作者】唐子茜
+【中图类号】G35
+【年代卷期】2013,36(040):78-80,77
+【关 键 词】网络舆情/社会心态/调适机制
+【基金类别】省（市）级基金/
+【参考文献】
+1.姜胜洪.转型期社会心态方面存在的问题、特点及对策研究.兰州学刊.2011.(10)
+2.韩振峰.幸福指数:社会评价的新指标.人民日报.09.21
+3.胡红生.社会心态论:学位论文.武汉:武汉大学,2004
+4.谢金林.网络舆论社会管理新课题——培育良好的网络社会心态.中国青年研究.2012.(3)
+5.刘鹏飞.寻找主流舆论和民间舆论的重叠地带——人民日报评论部系列文章“关注社会心态”.2011
+6.张冠超.社会心态与新闻报道的互动关系——以“八毛门”事件为例.青年记者.2012.(8)
+7.赵静.思想政治教育视野中的社会心态培育.河南师范大学学报(哲学社会科学版).2012.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】基于模糊元胞自动机的网络舆情演化模型
+【英文篇名】A Model for the Evolution of Online Public Opinion Based on Fuzzy Cellular Automata
+【来源作者】陈涛/林杰
+【基    金】国家社科基金项目(12BTQ055)/浙江省教育厅高校科研项目(Y201224457)/宁波大学预研项目(XYY1001)
+【期    刊】情报学报
+【第一机构】同济大学
+【机构名称】[陈涛]同济大学.经济与管理学院/[林杰]同济大学.经济与管理学院
+【第一作者】陈涛
+【中图类号】G35
+【年代卷期】2013,32(090):920-928
+【关 键 词】有向小世界网络/网络舆情/模糊元胞自动机/演化
+【基金类别】国家社科基金/其它基金/
+【参考文献】
+1.中国互联网研究中心.第30次中国互联网络发展状况统计报告.2012
+2.刘毅.网络舆情研究概论.天津:天津人民出版社
+3.Zhang,M..A Generation Model to Unify Topic Relevance and Lexicon-based Sentiment for Opinion Retrieval:Proceedings of SIGIR,2008:411-418
+4.Zhang,W..Opinion Retrieval from Blogs:Proceedings of CIKM,2007:831-840
+5.Li,F..Answering Opinion Questions with Random Walkson Graphs:Proceedings of ACL,2009:737-745
+6.Toscani,G..Kinetic models of opinion formation.COMMUNICATIONS IN MATHEMATICAL SCIENCES.2006.4(3)
+7.Galam,S..Contrarian deterministic effects on opinion dynamics: “the hung elections scenario”.PHYSICA A.2004.333
+8.Galam,S..Real space renormalization group and totalitarian paradox of majority rule voting.PHYSICA A.2000.285(1)
+9.Weisbuch,G..Persuasion dynamics.PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS.2005.353
+10.Amblard,F..Role of network topology on extremism propagation with the relative agreement opinion dynamics.PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS.2004.343
+11.Hegselmann,R..Truth and Cognitive Division of Labour First Steps towards a Computer Aided Social Epistemology.JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION.2006.9(3)
+12.王根生.迁移元胞自动机网络舆情演化模型.情报学报.2011.(6)
+13.刘慕仁.舆论传播的元胞自动机模型(Ⅰ).广西师范大学学报(自然科学版).2002.(2)
+14.曾祥平.基于元胞自动机的网络舆论激励模型.计算机应用.2007.27(11)
+15.Zhou,J..Influence of network structure On rumor propagation.Physics Letters A.2007.368(6)
+16.Von Neumann,J..Papers of John von Neumann on Computing and Computer Theory in Reprint Series on the History of Computing.Boston:MIT Press
+17.Wolfram,S..Theory and Applications of Cellular Automata in: Advanced Series on Complex Systems.Singapore: World Science.1986.
+18.Zadeh,L.A..Fuzzy sets.Information and Control.1965.8
+19.Jafelice,R.M..Fuzzy modeling in symptomatic HIV virus infected population.BULLETIN OF MATHEMATICAL BIOLOGY.2004.66(6)
+20.那日萨.基于在线评论的消费者模糊情感计算与推理.情报学报.2011.(4)
+21.王茹.小世界网络上个体持续度的舆论动力学研究.复杂系统与复杂性科学.2008.(2)
+22.Watts,D.J..Collective dynamics of small-world networks.Nature.1998.393
+23.Behera,L..On spatial consensus formation: is the sznajd model different from a votermodel?.INTERNATIONAL JOURNAL OF MODERN PHYSICS C.2003.14(10)
+24.Elgazzar,A.S..Applications of small-world networks to some socio-economic systems.Phyisica A.2003.324(2)
+25.搜狐博客.韩寒方舟子激辩“代笔门”.2012
+26.人民网站.方舟子对韩寒是合理质疑还是恶意诽谤？.2012
+-----------------------------------------------------------------------
+
+【来源篇名】基于复杂因子的网络舆情推演研究
+【英文篇名】Public Opinion Deduction Research Based on Complexity Factors
+【来源作者】沈阳/吴荆棘
+【基    金】国家社科基金重大项目(11&ZD025)
+【期    刊】情报学报
+【第一机构】武汉大学
+【机构名称】[沈阳]武汉大学.信息管理学院/[吴荆棘]武汉大学.信息管理学院
+【第一作者】沈阳
+【中图类号】G35
+【年代卷期】2013,32(120):1315-1325
+【关 键 词】影响因子/网络舆情推演/结构方程模型/舆情演变规律
+【基金类别】国家社科基金/
+【参考文献】
+1.曾润喜.网络舆情信息资源共享研究.情报杂志.2009.28(8)
+2.朱恒民.互联网舆情演化的动态网络模型研究.情报理论与实践.2010.33(10)
+3.钱颖.微博舆情传播规律研究.情报学报.2012.31(12)
+4.李青.基于BA网络的互联网舆情观点演化模型研究.情报杂志.2012.(3)
+5.周耀明.基于EMD的网络舆情演化分析与建模方法.计算机工程.2012.38(21)
+6.周耀明.一种自适应网络舆情演化建模方法.数据采集与处理.2013.28(1)
+7.谢新洲.网络事件案例库建设与案例库数据分析.情报学报.2012.31(1)
+8.Brulle,Robert J..Shifting Public Opinion on Climate Change: an Empirical Assessment of Factors Influencing Concern over Climate Change in the U.S, 2002—2010.Climatic Change.2012.114(2)
+9.Casillas,Christopher J..How Public Opinion Constrains the U.S. Supreme Court.American Journal of Political Science.2011.55(1)
+10.Song,Mei.Realization of the Government Network Monitoring System Based on Public Opinion.Information Technology.2011.(9)
+11.Itaoka,K..Influential Information and Factors for Social Acceptance of CCS: the 2nd Round Survey of Public Opinion in Japan.Energy Procedia.2009.1(1)
+12.Poznyak,D..American Attitude: Priming Issue Agendas and Longitudinal Dynamic of Political Trust:University of Cincinnati,2012
+13.Bollen,K.A..Testing Structural Equation Models.Newbury Park, CA:Sage
+14.吴明隆.结构方程模型.重庆:重庆大学出版社
+15.Peng,Yun.Research on the Communication Law of Negative News:2nd Asia Conference on Media & Mass Communication.Japan,2011
+16.Deng,Lei.How Information Influences an Individual Opinion Evolution.Physica A: Statistical Mechanics and its Applications.2012.391(24)
+17.Launius,Roger D..Public Opinion Polls and Perceptions of US Human Spaceflight.Space Policy.2003.19(3)
+18.Ding,Fei.An Evolutionary Game Theory Model of Binary Opinion Formation.Physica A: Statistical Mechanics and its Applications.2010.389(8)
+19.Sobkowicz,Pawel.Opinion Mining in Social Media: Modeling, Simulating, and Forecasting Political Opinions in the Web.Government Information Quarterly.2012.29(4)
+-----------------------------------------------------------------------
+
+【来源篇名】基于知识图谱的网络舆情研究现状分析
+【英文篇名】Network Public Opinion Research Based on the Knowledge Mapping Analysis
+【来源作者】叶平浩/张李义
+【基    金】湖北省教育厅科学技术研究项目(B20128901)
+【期    刊】情报杂志
+【第一机构】武汉大学
+【机构名称】[叶平浩]武汉大学.信息管理学院/[张李义]武汉大学.信息管理学院
+【第一作者】叶平浩
+【中图类号】G350
+【年代卷期】2013,32(020):34-39
+【关 键 词】社会化网络分析/知识图谱/网络舆情/共词分析
+【基金类别】其它基金/
+【参考文献】
+1.刘毅.略论网络舆情的概念、特点、表达与传播.理论界.2007.(1)
+2.崔薇.中国网络舆情研究文献计量分析.情报科学.2011.(1)
+3.董志宏.突发事件网络舆情研究文献计量分析.情报杂志.2011.(S2)
+4.卢卉.国内网络舆情研究热点与趋势分析.预防医学情报杂志.2011.(11)
+5.姚占雷.2005-2009年国内网络舆情文献的计量分析.现代情报.2010.(10)
+6.靖继鹏.情报科学导论.北京:科学出版社
+7.张大伟.复杂网络领域科学合作状况的网络分析研究.情报杂志.2008.27(8)
+8.王林.施引关键词与被引作者交叉共现分析方法及实证研究.情报学报.2012.(4)
+9.张勤.国外知识管理研究范式——以共词分析为方法.管理科学学报.2007.(6)
+10.张凌.基于共词分析的国内知识服务研究.图书情报工作.2009.(24)
+11.魏群义.近10年国内情报学硕士学位论文研究热点统计分析.图书情报工作.2012.(2)
+12.曾润喜.我国网络舆情研究与发展现状分析.图书馆学研究.2009.(8)
+13.马荔.突发事件网络舆情政府治理研究:学位论文.北京:北京邮电大学,2010
+14.黄金.群体性事件的网络舆情及其治理:学位论文.长沙:中南大学,2011
+15.扁柯潇.我国网络舆情引导机制研究文献计量分析.情报杂志.2011.(S2)
+16.许鑫.国内网络舆情研究的回顾与展望.情报理论与实践.2009.(3)
+17.张义庭.信息化环境下高校网络舆情与危机管理研究.情报杂志.2011.(8)
+18.郭小安.网络群体性事件的概念辨析及指标设定.情报杂志.2012.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】基于搜索引擎关注度的网络舆情时空演化比较分析——以谷歌趋势和百度指数比较为例
+【英文篇名】Comparative Analysis of Temporal-Spatial Evolution of Online Public Opinion Based on Search Engine Attention——Cases of Google Trends and Baidu Index
+【来源作者】陈涛/林杰
+【基    金】国家社会科学基金项目(12BTQ055)/宁波大学预研项目(XYY1001)
+【期    刊】情报杂志
+【第一机构】同济大学
+【机构名称】[陈涛]同济大学.经济与管理学院/[林杰]同济大学.经济与管理学院
+【第一作者】陈涛
+【中图类号】G350
+【年代卷期】2013,32(030):7-10,16
+【关 键 词】搜索引擎/关注度/网络舆情/谷歌/百度
+【基金类别】国家社科基金/其它基金/
+【参考文献】
+1.曾润喜.网络舆情信息资源共享研究.情报杂志.2009.(8)
+2..艾瑞咨询:“2012年Q2搜索引擎市场规模达68.7亿，同比增速放缓”.2012
+3.张小娣.基于科学知识图谱的搜索引擎前沿分析.科技管理研究.2011.(18)
+4.李建婷.网络搜索引擎在科技查新中的应用.情报杂志.2011.(S2)
+5.姜旭平.影响搜索引擎营销效果的关键因素分析.管理科学学报.2011.(9)
+6.王婵娟.专业搜索引擎之博客搜索.图书馆学研究.2009.(6)
+7.唐曦.互联网地图搜索引擎视觉质量的模糊评价与可视化分析.测绘科学.2011.(3)
+8..百度百科:谷歌趋势.2012
+9.Da,Zhi.In Search of Earnings Predictability,2011:1-32
+10..百度百科:百度指数.2012
+11.张一文.非常规突发事件网络舆情热度评价体系研究.情报科学.2011.(9)
+12.陈涛.基于SOM的语义词典自动构建实验研究.情报学报.2007.1
+-----------------------------------------------------------------------
+
+【来源篇名】基于突发事件的微博集群行为舆情感知实验
+【英文篇名】Experimental Studies on Public Opinion Perception of the Micro-Blog’s Collective Behavior Based on the Emergencies
+【来源作者】王林/时勘/赵杨/张跃先
+【基    金】国家973重大项目(2010CB731406)/东北大学秦皇岛分校校内科研基金项目(XNB201313)
+【期    刊】情报杂志
+【第一机构】东北大学秦皇岛分校
+【机构名称】[王林]东北大学秦皇岛分校.经贸学院/[时勘]中国人民大学.心理系/[赵杨]东北大学秦皇岛分校.经贸学院/[张跃先]东北大学秦皇岛分校.经贸学院
+【第一作者】王林
+【中图类号】G350
+【年代卷期】2013,32(050):32-37,48
+【关 键 词】突发事件/集群行为/舆情预警/舆情危机/舆情传播/引导策略
+【基金类别】其他部委级基金/其它基金/
+【参考文献】
+1.刘霞.非常规突发事件动态应急群决策:“情景-权变”范式.云南社会科学.2010.(5)
+2.Coser,L.A..Functions of Social Conflict.Glencoe, IL, USA:Free Press
+3.Turner,R.H..Collective Behavior.Englewood Cliffs, NJ, USA:Prentice-Hall
+4.LeBon,G..Crowd: A Study of the Popular Mind.London, England:Ernest Benn
+5.Olson,M..Logic of Collective Action.Cambridge, MA, USA:Cambridge University Press
+6.于建嵘.集体行动的原动力机制研究——基于H县农民维权抗争的考察.学海.2006.(2)
+7.张书维.跨情境下集群行为的动因机制.心理学报.2012.(4)
+8.田大宪.网络集群行为的生成机理与调控方略.当代传播.2010.(4)
+9.李阳春.论危机事件中网络集群行为的发生机制及调控.福建警察学院学报.2012.(5)
+10.Park,R.E..Introduction to the Science of Sociology.Chieago:University of Chicago Press
+11.乐国安.网络集群行为的理论解释模型探索.南开学报(哲学社会科学版).2011.(5)
+12.李臣.国内网络集群行为研究文献综述.淮海工学院学报(人文社会科学版).2012.(5)
+13.邓希泉.网络集群行为的主要特征及其发生机制研究.社会科学研究.2010.(1)
+14.Mason,W.A..Propagation of Innovations in Networked Groups.Experimental Psychology: General.2008.(137)
+15.钱晓蓉.公共管理中网络集群行为治理方法的思考.全国商情(理论研究).2012.11
+16.曾润喜.网络舆情对群体性突发事件的影响与作用.情报杂志.2010.(12)
+17.李丹.微博舆情下的议题管理.国际公关.2012.(1)
+18.吴闻莺.微博网舆论聚合效应研究—微博围观、微博极化与微博动员.大连理工大学学报(社会科学版).2013.(1)
+19.吴文苑.微博传播对网络舆论的影响——以“宜黄强拆事件”为例.新闻世界.2011.(6)
+20.谢耘耕.微博舆论生成演变机制和舆论引导策略.现代传播(中国传媒大学学报).2011.(5)
+21.徐瑗.微博传播影响公共事件走向的机制分析——以江西宜黄拆迁自焚事件为例.青年记者.2010.(34)
+22.庞平.微博客:影响公共安全的新手段.网络安全技术与应用.2011.(8)
+23.丁菊玲.定量网络舆情危机预警模型构建.图书情报工作.2011.(20)
+24.田野.基于微博平台的事件趋势分析及预测研究:学位论文.武汉:武汉大学,2012
+25.张超.文本倾向性分析在舆情监控系统中的应用研究:学位论文.北京:北京邮电大学,2008
+26.刘志明.面向突发事件的群体情绪监控预警.系统工程.2010.(7)
+-----------------------------------------------------------------------
+
+【来源篇名】基于最小二乘法的突发事件网络舆情演化规律研究
+【英文篇名】Study on the Evolution of Emergency Internet Public Opinion Based on Least Square Method
+【来源作者】曹学艳/宋彦宁/刘海涛/李仕明
+【基    金】2012年度国家自然科学基金重点项目(91224001)/2010年度中央高校基础科研经费项目(ZYGX2010J155)
+【期    刊】图书情报工作
+【第一机构】电子科技大学
+【机构名称】[曹学艳]电子科技大学.图书馆/[宋彦宁]电子科技大学.政治与公共管理学院/[刘海涛]电子科技大学.微电子与固体电子学院/[李仕明]电子科技大学.经济与管理学院
+【第一作者】曹学艳
+【中图类号】G350
+【年代卷期】2013,57(240):101-105
+【关 键 词】突发事件/网络舆情/演化/最小二乘法
+【基金类别】国家自科基金/教育部基金/
+【参考文献】
+1.李岳德.《突发事件应对法》立法的若干问题.行政法学研究.2007.(4)
+2.曾润喜.网络舆情管控工作机制研究.图书情报工作.2009.(18)
+3.曹学艳.非常规突发事件演化机理研究.北京:中国科学院研究生院,2009:68-71
+4.亓菁晶.突发事件的多层次多阶段机理研究.三峡大学学报(人文社会科学版).2008.(S2)
+5.兰月新.突发事件网络舆情演进规律模型研究.情报杂志.2011.(8)
+6.兰月新.突发事件网络舆情传播规律与预警阶段研究.情报杂志.2013.(5)
+7.刘智.网络社区危机信息传播与干预研究:学位论文.合肥:中国科学技术大学,2010
+8.魏玖长.危机事件新闻报道数量的时间演变模式研究.图书情报工作.2008.(11)
+9.周耀明.网络舆情演化模式分析.信息工程大学学报.2012.(3)
+10.周耀明.基于EMD的网络舆情演化分析与建模方法.计算机工程.2012.(21)
+11.梁凯.网络舆情扩散影响因素及规律的系统动力学仿真.价值工程.2013.(10)
+12.朱恒民.面向话题衍生性的微博网络舆情传播模型研究.现代图书情报技术.2012.(5)
+13.陈福集.我国网络舆情演变文献研究综述.情报杂志.2013.(7)
+14.周招.基于最小二乘法在学科建设评价中的应用:学位论文.重庆:重庆师范大学,2013
+15.尤钦科.最小二乘法.北京:人民交通出版社
+-----------------------------------------------------------------------
+
+【来源篇名】基于微博用户转发行为的舆情信息传播模式分析
+【英文篇名】Analysis of Public Opinion Propagation Mode Based on Repost Behavior of Microblog Users
+【来源作者】刘继/李磊
+【基    金】教育部人文社会科学研究青年项目(11YJC630129)/国家自然科学基金项目(71261025)/新疆财经大学人文社会科学重点研究基地社会经济统计研究中心重点项目(050312B01)
+【期    刊】情报杂志
+【第一机构】新疆财经大学
+【机构名称】[刘继]新疆财经大学.统计与信息学院/[李磊]新疆财经大学.统计与信息学院
+【第一作者】刘继
+【中图类号】G350
+【年代卷期】2013,32(070):74-77,63
+【关 键 词】网络舆情/微博/信息传播/转发行为/关键点/网络结构
+【基金类别】教育部基金/国家自科基金/其它基金/
+【参考文献】
+1.Lazer,D..Computational Social Science.Science.2009.5915(323)
+2.Grabowski,A..Opinion Formation in a Social Network: The Role of Human Activity.Physica A.2009.388(6)
+3.顾明毅.网络舆情及社会性网络信息传播模式.新闻与传播研究.2009.(5)
+4.黄淑敏.网络社区公共危机事件信息传播模式实证分析.北京邮电大学学报(社会科学版).2011.13(4)
+5.刘颖.网络舆情传播特征分析.北京邮电大学学报(社会科学版).2011.13(4)
+6.陈波.泛在媒体环境下的网络舆情传播控制模型.系统工程理论与实践.2011.31(11)
+7.钱颖.微博舆情传播规律研究.情报学报.2012.(12)
+8.刘常昱.基于小世界网络的舆论传播模型研究.系统仿真学报.2006.18(12)
+9.Damon,Centola.Spread of Behavior in an Online Social Network Experiment.Science.2010.329(5996)
+10.LU,Linyuan.Small World Yields the Most Effective Information Spreading.New J Phys.2011.13
+11.唐晓波.基于复杂网络的微博舆情分析.情报学报.2012.(11)
+12.郭海霞.新型社交网络信息传播特点和模型分析.现代情报.2012.32(1)
+13.郑蕾.基于微博网络的信息传播模型.通信技术.2012.45(2)
+14.平亮.基于社会网络中心性分析的微博信息传播研究——以Sina微博为例.图书情报知识.2010.(6)
+15.康伟.基于SNA的突发事件网络舆情关键节点识别-以“7.23”动车事故“为例.公共管理学报.2012.（3）
+-----------------------------------------------------------------------
+
+【来源篇名】系统动力学视角下政府回应网络舆情的能力提升研究
+【英文篇名】Improving Government’s Ability in Responding to Internet Public Opinion: A System Dynamics Perspective
+【来源作者】陈福集/叶萌
+【基    金】国家自然科学基金项目(71271056)/国家教育部人文社会科学研究项目(10YJAZH006)
+【期    刊】情报杂志
+【第一机构】福州大学
+【机构名称】[陈福集]福州大学.公共管理学院/[叶萌]福州大学.公共管理学院
+【第一作者】陈福集
+【中图类号】G350
+【年代卷期】2013,32(110):121-127
+【关 键 词】网络舆情/系统动力学/模型仿真/政府回应能力/网民/传媒/网媒
+【基金类别】国家自科基金/教育部基金/
+【参考文献】
+1..舆情监测室研究成果.2011
+2.刘力锐.我国网络民意的成长、政治意蕴及政府回应.广东行政学院学报.2009.(5)
+3.韩平.网民政治参与和政府回应性研究.理论界.2010.(2)
+4.李大芳.公众网络参与与政府回应演化博弈分析.统计与决策.2011.(21)
+5.王娟.网络舆情的分级响应与处置.理论导刊.2013.(1)
+6.朱丽峰.论政府回应网络民意的行为选择.法制与经济(下旬).2010.(3)
+7.刘丽敏.地方政府应对网络舆情危机对策研究.经济论坛.2011.(1)
+8.方付建.突发网络舆情危机事件政府回应研究—基于案例的分析.北京理工大学学报(社会科学版).2012.(3)
+9.陈新.民主视阈中的政府回应:内涵、困境及实践路径.兰州学刊.2012.(3)
+10.丁白云.网络舆论与政府回应机制研究.中共浙江省委党校学报.2012.(5)
+11.李松林.政府回应性框架下的网络问政及治理思路.长白学刊.2013.(2)
+12.管人庆.论网络政治表达的政府回应机制的构建.东北大学学报(社会科学版).2012.（2）
+13.顾明毅.互联网受众对网络舆情的需求起源.新闻记者.2011.(11)
+14.祝华新.2012年中国互联网舆情分析报告:人民网舆情监测室,2012
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情突发异常识别及关键算法研究
+【英文篇名】Study on Key Algorithms of Identification of Unexpected Exception of Online Public Opinion
+【来源作者】曹树金/郑凌/陈忆金
+【基    金】广东省教育厅产学研合作专项资金项目(2007A090302027)
+【期    刊】图书情报知识
+【第一机构】中山大学
+【机构名称】[曹树金]中山大学.资讯管理学院/[郑凌]中国移动通信集团广东有限公司广州分公司./[陈忆金]仲恺农业工程学院.
+【第一作者】曹树金
+【中图类号】G350
+【年代卷期】2012,(010):43-51
+【关 键 词】网络舆情/突发异常/模式识别/关键算法
+【基金类别】其它基金/
+【参考文献】
+1.赵旭东.互联网舆情指数挖掘方法研究:硕士学位论文.哈尔滨:哈尔滨工业大学,2008:56
+2.梅中玲.基于Web信息挖掘的网络舆情分析技术.中国人民公安大学学报(自然科学版).2007.(4)
+3.谢海光.互联网内容及舆情深度分析模式.中国青年政治学院学报.2006.(3)
+4.方薇.采用元胞自动机的网络舆情传播模型研究.计算机应用.2010.(3)
+5.Craemer,Thomas.When Complexity Becomes an Issue: A Null Model for the Evolution of Public Opinion and Political Culture,2004
+6.Mining the Peanut Gallery: Opinion Extraction and Semantic Classification of Product Reviews
+7.杨梅.网络舆情热点发现的研究:硕士学位论文.北京:北京交通大学电子信息工程学院,2008
+8.李若鹏.互联网舆情信息管控关键技术研究与实现:硕士学位论文.上海:上海交通大学,2008
+9.张国权.应用概率统计.北京:科技出版社
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情主题标引算法与实现
+【英文篇名】A Study on Online Public Opinion Subject Indexing
+【来源作者】曹树金/陈桂鸿/陈忆金
+【基    金】广东省教育部产学研合作专项资金项目(2007A090302027)
+【期    刊】图书情报知识
+【第一机构】中山大学
+【机构名称】[曹树金]中山大学.资讯管理学院/[陈桂鸿]深圳腾讯计算机科技有限公司./[陈忆金]仲恺农业工程学院.
+【第一作者】曹树金
+【中图类号】G350
+【年代卷期】2012,(010):52-59,73
+【关 键 词】网络舆情/主题标引/自动标引
+【基金类别】其它基金/
+【参考文献】
+1..CNKI学术定义.2010
+2..自动标引.2011
+3.章成志.自动标引研究的回顾与展望.现代图书情报技术.2007.(11)
+4.苏新宁.信息检索理论与技术.北京:科学技术文献出版社
+5.Yih,Wen-tau.Finding advertising keywords on web pages.Edinburgh, Scotland,2006
+6.Hulth,A..A study on automatically extracted keywords in text categorization,2006
+7..TVe文本特征提取方法研究.2010
+8.Bendersky,M..Discovering key concepts in Verbose queries.ACM New York, NY,USA,2008:491-498
+9.Wang,J..Improving Short Text Clustering Performance with Keyword Expansion.Heidelberg Parallel/Distributed Computing
+10.蒋凡.BBS中主题发现原型系统设计与实现.计算机工程与应用.2005.(31)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情意见挖掘中极性词典构建和极性识别方法研究
+【英文篇名】A Study on the Polar Word Identification Method and Polarity Dictionary Construction of Online Public Opinion Mining
+【来源作者】曹树金/张学莲/陈忆金
+【基    金】广东省教育部产学研合作专项资金项目(2007A090302027)
+【期    刊】图书情报知识
+【第一机构】中山大学
+【机构名称】[曹树金]中山大学.资讯管理学院/[张学莲]中国农业银行广州市分行东城支行./[陈忆金]仲恺农业工程学院.
+【第一作者】曹树金
+【中图类号】G350
+【年代卷期】2012,(010):60-65
+【关 键 词】舆情/意见挖掘/极性词/极性词典/极性识别
+【基金类别】省（市）级基金/
+【参考文献】
+1.Kim,S.M..Identifying and Analyzing Judgment Opinions.New York, US,2006
+2.Turney,Peter D..Thumbs up or thumbs down: Semantic orientation applied to unsupervised classification reviews.Philadelphia, Pennsylvania,2002:417-424
+3.Gamon,Michael.Automatic identification of sentiment vocabulary: exploiting low association with known sentiment terms,2005
+4.Yuen,R.W.M..Morpheme-based Derivation of Bipolar Semantic Orientation of Chinese Words.Geneva，Switzerland,2004
+5.娄德成.基于NLP技术的中文网络评论观点抽取方法的研究:硕士学位论文.上海:上海交通大学,2007
+6.Kim,S.M..Determining the Sentiment of Opinions,2004
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情监控系统中的主题帖自动标引及情感倾向分析研究
+【英文篇名】A Study on emotional Tendency Analysis of Topic posts of Online Public Opinion Monitoring System
+【来源作者】曹树金/周小又/陈桂鸿
+【基    金】广东省教育部产学研合作专项资金项目(2007A090302027)
+【期    刊】图书情报知识
+【第一机构】中山大学
+【机构名称】[曹树金]中山大学.资讯管理学院/[周小又]中国移动通信集团浙江有限公司杭州分公司./[陈桂鸿]深圳腾讯计算机科技有限公司.
+【第一作者】曹树金
+【中图类号】G350
+【年代卷期】2012,(010):66-73
+【关 键 词】网络舆情/舆情控制/主题帖/自动标引/情感倾向/文本倾向性
+【基金类别】其它基金/
+【参考文献】
+1.姚天昉.汉语语句主题语义倾向分析方法的研究.中文信息学报.2007.(5)
+2.马海兵.三种文档语义倾向性识别方法的分析与比较.现代图书情报技术.2007.(4)
+3.梅中玲.基于web信息挖掘的网络舆情分析技术.中国人民公安大学学报(自然科学版).2007.(4)
+4.Nasukawa,T..Sentiment Analysis: Capturing Favorability using Natural Language Processing.Sanibel island, Florida, USA,2003
+5.张超.文本倾向性分析在舆情监控系统中的应用研究:硕士学位论文:北京邮电大学,2008
+6.蔡健平.基于语义理解的意见挖掘,2007
+7.娄德成.汉语句子语义极性分析和观点抽取方法的研究.计算机应用.2006.(11)
+8.董振东.《知网》中文版.2011
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情群体极化动力模型与仿真分析
+【英文篇名】Dynamic Model and Simulation Analysis of Group Polarization of Online Public Opinion
+【来源作者】王根生
+【基    金】国家社会科学基金项目(09BTQ034)
+【期    刊】情报杂志
+【第一机构】江西财经大学
+【机构名称】[王根生]江西财经大学.国际经贸学院
+【第一作者】王根生
+【中图类号】G350
+【年代卷期】2012,31(030):20-24
+【关 键 词】网络舆情/群体极化/影响因素/动力关系
+【基金类别】国家社科基金/
+【参考文献】
+1..第27次中国互联网络发展状况统计报告
+2.桑斯坦,凯斯.网络共和国——网络社会中的民主问题.上海:上海出版集团
+3.刘毅.网络舆情研究概论.天津:天津人民出版社
+4.贾举.基于“耗散结构理论”对网络舆情有序化控制和引导的思考.东南传媒.2009.55(3)
+5.程亮亮.丁香小慧事件与网民的群体极化倾向.传媒观察.2007.(9)
+6.秦志希.论人肉搜索中舆论的群体极化现象.新闻与传播评论.2009.
+7.Rodrigues,E.A..Surviving Opinions in Sznajd Models on Complex Networks.International Journal of Modern Physics C.2005.16(11)
+8.Toscani,G..Kinetic Models of Opinion Formation.Communications in Mathematical Sciences.2006.4(3)
+9.史波.网络舆情群体极化的动力机制与调控策略研究.情报杂志.2010.29(7)
+10.丁菊玲.一种面向网络舆情危机预警的观点柔性挖掘模型.情报杂志.2009.28(10)
+11.王根生.迁移元胞自动机网络舆情演化模型(M2CA).情报学报.2011.30(6)
+12.贾仁安.SD流率基本入树建模法.系统工程理论与实践.1998.(6)
+13.Stoner,J.A.F..A Comparison of Individual and Group Decisions Involving Risk.USA:Massachusetts Institute of Technology,1961
+14.谢科范.网络舆情突发事件的生命周期原理及集群决策研究.武汉理工大学学报(社会科学版).2010.23(4)
+-----------------------------------------------------------------------
+
+【来源篇名】基于主题分类的网络舆情观测指数体系研究
+【英文篇名】Network Opinion Index System Based on Topic Classification
+【来源作者】高承实/荣星/陈越/邬江兴
+【基    金】国家社会科学基金重大项目(09&ZD014)
+【期    刊】情报杂志
+【第一机构】解放军信息工程大学
+【机构名称】[高承实]解放军信息工程大学.电子技术学院/[荣星]解放军信息工程大学.电子技术学院/[陈越]解放军信息工程大学.电子技术学院/[邬江兴]解放军信息工程大学.电子技术学院
+【第一作者】高承实
+【中图类号】G353.1
+【年代卷期】2012,31(050):36-39,79
+【关 键 词】舆情影响指数/舆情趋势指数/舆情累积指数/主题分类/容忍度
+【基金类别】国家社科基金/
+【参考文献】
+1.吴绍忠.互联网络舆情预警机制研究.中国人民公安大学学报(自然科学版).2008.(3)
+2.曾润喜.网络舆情突发事件预警系统、指标与机制.情报杂志.2009.(11)
+3.戴媛.我国网络舆情安全评估指标体系的构建研究.信息网络安全.2010.(4)
+4.谈国新.突发公共事件网络舆情监测指标体系研究.华中师范大学学报(人文社会科学版).2010.(5)
+5.于欣.舆情指标指导投资.新财富.2009.(1)
+6.高承实.网络舆情几个基本问题的探讨.情报杂志.2011.(11)
+7.坦比尼,达米安.媒体审查制度得失辨.中国改革.2011.(12)
+8.朱恒民.互联网舆情演化的动态网络模型研究.情报理论与实践.2010.(10)
+9.赵鼎新.社会与政治运动讲义.北京:社会科学文献出版社
+-----------------------------------------------------------------------
+
+【来源篇名】基于发生周期的突发事件网络舆情风险评价指标体系
+【英文篇名】Network Opinion Risk Evaluation Index System Based on the Cycle of Emergency
+【来源作者】张玉亮
+【基    金】教育部人文社科基金项目(12YJCZH292)/河南省教育厅科学技术研究重点项目(12A630018)/河南理工大学博士基金项目(B2011-098)
+【期    刊】情报科学
+【第一机构】河南理工大学
+【机构名称】[张玉亮]河南理工大学.应急管理学院
+【第一作者】张玉亮
+【中图类号】G350
+【年代卷期】2012,30(070):1034-1037,1043
+【关 键 词】突发事件/网络舆情/风险/评价指标
+【基金类别】教育部基金/其它基金/
+【参考文献】
+1.兰月新.突发事件网络舆情安全评估指标体系构建.情报杂志.2011.(7)
+2.戴媛.我国网络舆情安全评估指标体系的构建研究.信息网络安全.2010.(4)
+3.张一文.非常规突发事件网络舆情热度评价指标体系构建.情报杂志.2010.(11)
+4.张莉.网络群体性事件中的政府责任.理论导刊.2010.(12)
+5.乐国安.网络集群行为过程解析.人民论坛.2010.(13)
+6.李苏楠.网络群体性事件的应对.中国党政干部论坛.2010.(4)
+7.彭国甫.地方政府公共事业管理绩效评价研究.长沙:湖南人民出版社
+8.徐家良.政府评价论.北京:中国社会科学出版社
+9.张欢.应急管理评估.北京:中国劳动社会保障出版社
+10.张玉亮.政府公共危机信息预警能力评价指标体系研究.图书情报工作.2010.(12)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情冲突类言语行为研究
+【英文篇名】Research on Speech Act of Online Public Opinions Conflict
+【来源作者】李嘉/张朋柱
+【基    金】国家自然科学基金青年项目(71001038)
+【期    刊】情报科学
+【第一机构】华东理工大学
+【机构名称】[李嘉]华东理工大学.商学院/[张朋柱]上海交通大学.安泰经济与管理学院
+【第一作者】李嘉
+【中图类号】G350
+【年代卷期】2012,30(070):1076-1083
+【关 键 词】言语行为/自动分类/网络舆情/冲突
+【基金类别】国家自科基金/
+【参考文献】
+1.徐晓林.关于把握网络舆情主导权问题研究.管理世界.2010.(4)
+2.Prasad,R..Training a dialogue act tagger for human-human and human-computer travel dialogues.Philadelphia, Pennsylvania,2002:3
+3.Fernandez,R..Using machine learning for non-sentential utterance classification.Lisbon, Portugal,2005:4
+4.Lendvai,P..Machine learning for shallow interpretation of user utterances in spoken dialogue systems.Budapest, Hungary,2003:5
+5.冯志伟.自然语言的计算机处理.上海:上海外语教育出版社
+6.Draft of DAMSL: Dialog act markup in several layers, in Unpublished manuscript
+7.Jurafsky,D..Switchboard SWBD-DAMSL Shallow-Discourse-Function Annotation Coders Manual.NJ:University of Colorado, Institute of Cognitive Science
+8.Godfrey,J.J..SWITCHBOARD: Telephone speech corpus for research and development.San Francisco, CA, USA,1992
+9.Levin,L..Tagging of speech acts and dialogue games in Spanish callhome.Somerset, NJ,1998
+10.Reithinger,N..Utilizing statistical dialogueact processing in Verbmobil.Morristown, NJ, USA:Association for Computational Linguistics,1995
+11.Gerassimenko,O..Annotated dialogue corpus as a language resource: an experience of building the Estonian dialogue corpus.Latvia, Riga,2004
+12.Wright,H..Automatic utterance type detection using suprasegmental features.Sydney, Australia:International Speech Communication Association,1998
+13.Grau,S..Dialogue actclassification using a Bayesian approach.Saint-Petersburg, Russia,2004
+14.Keizer,S..Dialogue act recognition with Bayesian networks for Dutch dialogues.Philadelphia, USA
+15.李欣苗.团队创新信息关系的自动识别方法及其应用.管理科学学报.2007.10(5)
+16.Levin,L..Domain specific speech acts for spoken language translation.Sapporo, Japan,2003
+17.Samuel,K..Dialogue Act Tagging with Transformation-Based Learning.PA, USA
+18.Samuel,K..Automatically selecting useful phrases for dialogue act tagging.Waterloo, Ontario, Canada,1999:1
+19.Kim,J..Identifying Student Online Discussions with Unanswered Questions.Redondo Beach, California, USA,2009:2
+20.Kim,J..Identifying Unresolved Issues in Online Student Discussions: A Multi-Phase Dialogue Classification Approach.Brighton, UK,2009:2
+21.Pang,B..Thumbs up?: sentiment classification using machine learning techniques.Philadelphia:Association for Computational Linguistics,2002
+22.Cunningham,H..GATE, a general architecture for text engineering.Computers and the Humanities.2002.36(2)
+23.Yang,Y..A comparative study on feature selection in text categorization.San Francisco, USA,1997
+24.Koppel,M..Automatically categorizing written texts by author gender.Literary and Linguistic Computing.2002.17(4)
+25.Abbasi,A..Sentiment analysis in multiple languages: Feature selection for opinion classification in Web forums.ACM Transactions on Information Systems.2008.26(3)
+26.Forman,G..An extensive empirical study of feature selection metrics for text classification.Journal of Machine Learning Research.2003.(3)
+27.Dash,M..Feature selection for classification.Intelligent data analysis.1997.1(3)
+28.Kim,S.N..Tagging and linkingweb forum posts.Uppsala, Sweden:Association for Computational Linguistics,2010
+29.Wang,L..Predicting Thread Discourse Structure over Technical Web Forums.Edinburgh, Scotland, UK:Association for Computational Linguistics Press,2011
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情事件的系统动力学模型与仿真
+【英文篇名】System Dynamics Modeling and Simulation of Internet Public Opinions Events
+【来源作者】狄国强/曾华艺/勒中坚/丁菊玲
+【基    金】国家社会科学基金项目(09BTQ034)
+【期    刊】情报杂志
+【第一机构】江西财经大学
+【机构名称】[狄国强]江西财经大学.信息管理学院/[曾华艺]江西财经大学.信息管理学院/[勒中坚]江西财经大学.信息管理学院/[丁菊玲]江西财经大学.信息管理学院
+【第一作者】狄国强
+【中图类号】G350
+【年代卷期】2012,31(080):12-20
+【关 键 词】网络舆情事件/网络舆情危机/舆情热度/危机预警/系统动力学/模型仿真
+【基金类别】国家社科基金/
+【参考文献】
+1.中国互联网络信息中心.第29次中国互联网络发展状况统计报告,2012
+2.祝华新.2011年中国互联网舆情分析报告,2011
+3.张小明.公共危机预警机制设计与指标体系构建.中国行政管理.2006.(7)
+4.刘毅.突发性群体事件中舆情信息的汇集与分析.学术交流.2005.(10)
+5.王来华.论群体性突发事件与舆情问题研究.天津社会科学.2006.(5)
+6.吴绍忠.互联网络舆情预警机制研究.中国人民公安大学学报.2008.(3)
+7.曾润喜.网络舆情突发事件预警系统、指标与机制.情报杂志.2009.(11)
+8.丁菊玲.一种面向网络舆情危机预警的观点柔性挖掘模型.情报杂志.2009.(10)
+9.刘毅.网络舆情研究概论.天津:天津人民出版社
+10.丁菊玲.我国网络舆情危机预警研究探讨.情报杂志.2010.(10)
+11.张一文.非常规突发事件网络舆情指标体系建立初探——概念界定与基本维度.北京邮电大学学报(社会科学版).2010.(4)
+12.李旭.社会系统动力学-政策研究的原理、方法和应用.上海:复旦大学出版社
+-----------------------------------------------------------------------
+
+【来源篇名】基于AHP的高校网络舆情安全评估指标体系构建研究
+【英文篇名】Study on the Security Evaluation Index System of the Colleges and Universities Network Public Opinion Based on AHP
+【来源作者】邓尚民/董亚倩
+【基    金】
+【期    刊】情报杂志
+【第一机构】山东理工大学
+【机构名称】[邓尚民]山东理工大学.科技信息研究所/[董亚倩]山东理工大学.科技信息研究所
+【第一作者】邓尚民
+【中图类号】G350
+【年代卷期】2012,31(080):31-36
+【关 键 词】高校/网络舆情/指标体系/AHP/安全评估
+【基金类别】
+【参考文献】
+1.曾润喜.高校网络舆情的控制与引导.情报理论与实践.2009.(11)
+2.谢海光.互联网内容及舆情深度分析模式.中国青年政治学院学报.2006.(3)
+3.兰新月.突发事件网络舆情安全评估指标体系构建.情报杂志.2011.(7)
+4.张一文.非常规突发事件网络舆情热点评价指标体系构建.情报杂志.2010.(11)
+5.刘毅.基于三角模糊数的网络舆情预警指标体系构建.统计与决策.2012.(2)
+6.徐楠.面向高校网络舆情安全的监管与预警研究.信息系统工程.2009.(7)
+7.曾润喜.网络舆情突发事件预警系统、指标与机制.情报杂志.2009.(11)
+8.戴媛.我国网络舆情安全评估指标体系的构建研究.信息网络安全.2010.(4)
+9.郭洪.探析高校突发事件.法制与经济.2011.(1)
+10.李雯静.网络舆情指标体系设计与分析.情报科学.2009.(7)
+11.曾润喜.网络舆情突发事件预警指标体系构建.情报理论与实践.2010.(1)
+12.杜栋.现代综合评价方法与案例精选.北京:清华大学出版社
+-----------------------------------------------------------------------
+
+【来源篇名】突发事件网络舆情谣言传播规律模型及对策研究
+【英文篇名】Research on Network Rumor Diffusion Model and Countermeasures in the Emergercy
+【来源作者】兰月新
+【基    金】公安部应用创新项目(2011WJXYYYCX132)
+【期    刊】情报科学
+【第一机构】解放军武警部队学院
+【机构名称】[兰月新]解放军武警部队学院.
+【第一作者】兰月新
+【中图类号】G350
+【年代卷期】2012,30(090):1334-1338
+【关 键 词】网络谣言/传播模型/网络舆情
+【基金类别】其他部委级基金/
+【参考文献】
+1.中国互联网络信息中心.第29次中国互联网络发展状况统计报告.2012
+2.霍良安.突发事件中的谣言传播问题研究.情报杂志.2011.(10)
+3.王国华.基于案例分析的网络谣言事件政府应对研究.情报杂志.2011.(10)
+4.王灿发.突发公共事件的谣言传播模式建构及消解.现代传播.2010.(6)
+5.陈烨.突发事件中的网络谣言传播研究:学位论文.武汉:华中师范大学,2010
+6.兰月新.突发事件网络舆情演进规律模型研究.情报杂志.2011.(8)
+7.胡钰.大众传播效果.北京:新华出版社
+8.蒋启源.数学模型.北京:高等教育出版社
+9.常健.论公共冲突过程中谣言的作用、传播与防控.天津社会科学.2010.(6)
+10.韩强.科学应对公共事件中谣言传播问题研究.中国行政管理.2008.(7)
+-----------------------------------------------------------------------
+
+【来源篇名】基于主题的舆情跟踪方法研究及性能评价
+【英文篇名】Research and Performance Evaluation on the Theme Based Method for the Public Opinion Tracking
+【来源作者】姚长青/杜永萍
+【基    金】国家自然科学基金青年基金项目(60803086)/北京市自然科学基金项目(4123091)
+【期    刊】图书情报工作
+【第一机构】中国科学技术信息研究所
+【机构名称】[姚长青]中国科学技术信息研究所./[杜永萍]北京工业大学.计算机学院
+【第一作者】姚长青
+【中图类号】G350
+【年代卷期】2012,56(180):50-53,109
+【关 键 词】舆情跟踪/文本分类/自然语言处理
+【基金类别】国家自科基金/省（市）级基金/
+【参考文献】
+1.James,A..Topic detection and tracking pilot study: Final report.San Francisco:Morgan Kaufmann Publishers Inc,1998:194-218
+2.Zhang,Kuo.New event detection based on indexing tree and named entity.Amsterdam:ACM Press,2007:215-222
+3.Juha,M..Simple semantics in topic detection and tracking.Information Retrieval.2004.7(3/4)
+4.Brants,T..A system for new event detection.New York:ACM Press,2003:330-337
+5.Ji,H..Refining event extraction through cross-document onference.Columbus:ACM Press,2008:254-262
+6.Patwardhan,S..Effective information extraction with semantic affinity patterns and relevant regions.Prague:Association for Computational Linguistics Press,2007:717-727
+7.Czech,R..A unified model of phrasal and sentential evidence for information extraction.Stroudsburg:Association for Computational Linguistics Press,2009:151-160
+8.王会珍.基于反馈学习自适应的中文话题追踪.中文信息学报.2006.20(3)
+9.于满泉.话题识别与跟踪中的层次化话题识别技术研究.计算机技术与发展.2006.43(3)
+10.王煜.用于Web文本分类的快速KNN算法.情报学报.2007.26(1)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情主题信息采集研究
+【英文篇名】Focused Crawling for Network Public Opinion’s Topic Information
+【来源作者】黄炜/金雅博/胡昌龙
+【基    金】教育部人文社会科学研究青年基金项目(10YJC870012)/中国博士后科学基金项目(2012M511697)/湖北省自然科学基金项目(2011CDB080)/教育部人文社会科学研究青年基金项目(12YJC870009)
+【期    刊】现代图书情报技术
+【第一机构】湖北工业大学
+【机构名称】[黄炜]湖北工业大学.管理学院/[金雅博]湖北工业大学.管理学院/[胡昌龙]湖北工业大学.管理学院
+【第一作者】黄炜
+【中图类号】G353.1
+【年代卷期】2012,(110):65-71
+【关 键 词】网络群体性事件/网络舆情/主题爬虫/领域本体/主题因子
+【基金类别】教育部基金/国家级其它基金/省（市）级基金/
+【参考文献】
+1.中国互联网信息中心.第30次中国互联网络发展状况调查统计报告.2012
+2.刘毅.略论网络舆情的概念、特点、表达与传播.理论界.2007.(1)
+3.Sahami,M..Using Machine Learning to Improve Information Access.Stanford:Stanford University,1998
+4.北大方正技术研究院.以科技手段辅助网络舆情突发事件的监测分析——方正智思舆情辅助决策支持系统.信息化建设.2005.(10)
+5.周立柱.聚焦爬虫技术研究综述.计算机应用.2005.25(9)
+6.Sun,H..A Note on the PageRank Algorithm.Applied Mathematics and Computation.2006.79(2)
+7.Nomura,S..Analysis and Improvement of HITS Algorithm for Detecting Web Communities,2002:132-140
+8.Aggarwal,C.C..On the Merits of Using Supervised Clustering for Building Categorization Systems.New York:ACM,1999:352-356
+9.De Bra,P.M.E..Information Retrieval in Distributed Hypertexts,1994:481-493
+10.De Bra,P.M.E..Information Retrieval in the World Wide Web: Making Client-based Searching Feasible.Amsterdam:Elsevier,1994:183-192
+11.姜鹏.一种主题爬虫文本分类器的构建.中文信息学报.2010.24(6)
+12.朱学芳.基于P2P的分布式主题爬虫系统的设计与实现.情报学报.2010.29(3)
+13.乔建忠.基于主题爬虫的本体非分类关系学习框架.图书情报工作.2010.54(18)
+14.蒋国瑞.基于本体的TBT电子信息产品领域主题爬虫研究.情报杂志.2011.30(7)
+15.宋海洋.一种新的主题网络爬虫爬行策略.计算机应用与软件.2011.28(11)
+16.张囡囡.面向语义网的领域本体半自动构建方法的研究:学位论文.大连:大连海事大学,2008
+17.黄炜.基于本体的网络群体性事件主题发现研究.图书情报工作.2012.56(20)
+18.连浩.改进的基于布尔模型的网页查重算法.计算机应用研究.2007.24(2)
+19.黄炜.基于语义爬虫的商品信息主题采集研究.现代图书情报技术.2010.(1)
+20.谢科范.网络舆情突发事件的生命周期原理及集群决策研究.武汉理工大学学报(社会科学版).2010.23(4)
+-----------------------------------------------------------------------
+
+【来源篇名】信息孤岛背景下提高地方政府网络舆情应对能力的对策性思考
+【英文篇名】On the Counter Measures of Improving Internet Opinions Answering Ability of Local Governments under the Background of Isolated Information Islands
+【来源作者】阎宇
+【基    金】教育部人文社会科学研究一般项目(09YJC810038)/吉林省社科规划项目(2011B245)/吉林财经大学青年学俊项目
+【期    刊】情报科学
+【第一机构】吉林财经大学
+【机构名称】[阎宇]吉林财经大学.公共管理学院
+【第一作者】阎宇
+【中图类号】G350
+【年代卷期】2012,30(020):268-270
+【关 键 词】信息孤岛/地方政府/网络舆情
+【基金类别】教育部基金/省（市）级基金/其它基金/
+【参考文献】
+1.杨明波.电子政务与信息孤岛.电子政务.2005.(11)
+2.王俊杰.冲出信息孤岛，实现数字资源共享.大学图书馆学报.2004.(3)
+3.李希明.从信息孤岛的形成谈数字资源整合的作用.图书馆论坛.2003.(6)
+4.商晓帆.电子政务信息资源整合与信息孤岛.现代情报.2008.(6)
+5.郑中玉.“网络社会”的概念辨析.社会学研究.2004.(1)
+6.柯健.和谐社会视角下的网络舆情预警及对策机制初探.热点透视.2007.(14)
+7.徐晓日.网络舆情事件的应急处理研究.华北电力大学学报(社会科学版).2007.(1)
+8.王来华.论网络舆情与舆论的转换及其影响.天津社会科学.2008.(4)
+9.刘毅.略论网络舆情的概念、特点、表达与传播.理论界.2007.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】微博舆情传播规律研究
+【英文篇名】The Spread of Public Sentiment on Micro-blogging under Emergencies
+【来源作者】钱颖/张楠/赵来军/钟永光
+【基    金】国家自然科学基金资助(90924030)/上海浦江人才项目(11PJC075)/上海市教育委员会“曙光计划”项目(09SG38)/教育部人文社会科学研究一般项目(10YJA630021)
+【期    刊】情报学报
+【第一机构】上海大学
+【机构名称】[钱颖]上海大学.管理学院/[张楠]上海大学.管理学院/[赵来军]上海大学.管理学院/[钟永光]青岛大学.管理科学与工程系
+【第一作者】钱颖
+【中图类号】G35
+【年代卷期】2012,31(120):1299-1304
+【关 键 词】新浪微博/突发事件/SIR模型/微博舆情模型
+【基金类别】国家自科基金/省（市）级基金/其它基金/教育部基金/
+【参考文献】
+1.朱力.突发事件的概念、要素及类型.社会研究.2007.(11)
+2.张子利.互联网突发事件的舆论传播特征及引导研究.电脑知识与技术.2011.13(7)
+3.宋晓龙.突发事件的互联网信息传播规律研究:学位论文.哈尔滨:哈尔滨工业大学,2011
+4.潘芳.危机事件网络舆情传播模型及消极思潮应急对策.图书馆学理论研究.2010.54(15)
+5.Bernardo,A.H..Social networks that matter: Twitter under the microscope.Physical Review.2009.(14)
+6.Amanda,L.H..Twitter Adoption and Use in Mass Convergence and Emergency Events.Sweden,2009
+7.张芳.谣言传播模型研究综述.复杂系统与复杂性科学.2009.6(4)
+8.Zanette,D.H..Dynamics of rumor propagation on small-world networks.2009
+9.Moreno,Y..Dynamics of rumor spreading in complex networks.Physical Review.2004.(69)
+10.Debarre,Florence.SIR models of epidemics.2012
+11.Sudbury,A..Proportion of the population never hearing a rumour.Journal of Applied Probability.1985.22(2)
+-----------------------------------------------------------------------
+
+【来源篇名】企业竞争情报系统建设中的舆情监控研究
+【英文篇名】Public Opinion Monitor in Construction of Enterprise Competitive Intelligence System
+【来源作者】石进/胡广伟
+【基    金】
+【期    刊】图书情报工作
+【第一机构】南京大学
+【机构名称】[石进]南京大学.信息管理学院/[胡广伟]南京大学.信息管理学院
+【第一作者】石进
+【中图类号】G354
+【年代卷期】2012,56(240):44-48
+【关 键 词】竞争情报系统/企业危机/舆情监控/预警
+【基金类别】
+【参考文献】
+1.沈固朝.竞争情报的理论与实践.北京:科学出版社
+2.项斌.网络舆情监测系统设计与实现:学位论文.成都:电子科技大学,2010
+3.吴静.网络舆情信息采集系统的设计与实现:学位论文.成都:电子科技大学,2011
+4.于淼.网络舆情的关键技术与系统构架研究.信息网络安全.2011.(1)
+5.中国互联网络信息中心.第29次中国互联网络发展状况统计报告.2012
+6.吴绍忠.互联网络舆情预警机制研究.中国人民公安大学学报(自然科学版).2008.(3)
+7.李雯静.网络舆情指标体系设计与分析.情报科学.2009.(7)
+8.王伟.基于聚类的网络舆情热点发现及分析.现代图书情报技术.2009.(3)
+9.盛江涛.网络论坛话题发现与跟踪技术研究:学位论文.哈尔滨:哈尔滨工业大学,2010
+10.林达真.基于时间分布特征的博客突发事件检测.计算机工程与科学.2010.(10)
+11.李纲.基于意见挖掘的城市形象网络监测系统初探.现代图书情报技术.2010.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】中国网络舆情研究文献计量分析
+【英文篇名】Bibliometric Analysis of Internet Public Opinion in China
+【来源作者】崔薇/曾润喜/王国华
+【基    金】国家社科基金项目(10BTQ046)/教育部哲学社会科学研究重大课题委托研究项目(08WL1111)
+【期    刊】情报科学
+【第一机构】华中科技大学
+【机构名称】[崔薇]华中科技大学.公共管理学院/[曾润喜]华中科技大学.公共管理学院/[王国华]华中科技大学.公共管理学院
+【第一作者】崔薇
+【中图类号】G350
+【年代卷期】2011,29(010):131-135
+【关 键 词】网络舆情/CNKI/文献计量分析
+【基金类别】国家社科基金/教育部基金/
+【参考文献】
+1.曾润喜.网络舆情管控工作机制研究.图书情报工作.2009.(18)
+2.姜胜洪.我国网络舆情的现状及其引导.广西社会科学.2009.(1)
+3.许鑫.国内网络舆情研究的回顾与展望.情报理论与实践.2009.(3)
+4.曾润喜.我国网络舆情研究与发展现状分析.图书馆学研究.2009.(8)
+5.马少美.中国电子政务研究文献计量分析.情报科学.2009.(8)
+6.中国知网站.中国学术文献网络出版总库.2010
+7.罗式胜.文献计量学概论.广州:中山大学出版社
+-----------------------------------------------------------------------
+
+【来源篇名】非常规突发事件网络舆情热度评价体系研究
+【英文篇名】Research on the Index System of Public Opinion on Internet for Unexpected Emergency
+【来源作者】张一文/齐佳音/方滨兴/李欲晓
+【基    金】国家自然科学基金项目(90924029)
+【期    刊】情报科学
+【第一机构】北京邮电大学
+【机构名称】[张一文]北京邮电大学.经济管理学院/[齐佳音]北京邮电大学.经济管理学院/[方滨兴]北京邮电大学.计算机学院/[李欲晓]北京邮电大学.人文学院
+【第一作者】张一文
+【中图类号】G350
+【年代卷期】2011,29(090):1418-1424
+【关 键 词】非常规突发事件/网络舆情热度/指标体系
+【基金类别】国家自科基金/
+【参考文献】
+1.曾润喜.网络舆情突发事件预警指标体系构建.情报理论与实践.2010.(1)
+2.戴媛.基于网络舆情安全的信息挖掘及评估指标体系研究.情报理论与实践.2008.(6)
+3.田依林.突发事件应急能力评价指标体系建模研究.应用基础与工程科学学报.2008.(2)
+4.谈国新.突发公共事件网络舆情监测指标体系研究.华中师范大学学报(人文社会科学版).2010.(3)
+5.张一文.非常规突发事件网络舆情指标体系建立初探——概念界定与基本维度.北京邮电大学学报(社会科学版).2010.(4)
+6.张一文.非常规突发事件网络舆情热度评价指标体系构建.情报杂志.2010.(11)
+7.陈月生.群体性突发事件构成要素、特征和类型的舆情视角.理论月刊.2006.(2)
+8.王来华.论群体性突发事件的基本含义、特征和类型.理论与现代化.2006.(5)
+9.张一文.非常规突发事件网络舆情作用机制初探.北京:美国科研出版社
+10.张一文.网络舆情与非常规突发事件作用机制——基于系统动力学建模分析.情报杂志.2010.(9)
+11.Gupta,Jatirder N.D..Comparing backpropagation with a genetic algorithm for neural network training.International Journal of Management Science.1999.(27)
+12.叶宗裕.关于多指标综合评价中指标正向化和无量纲化方法的选择.浙江统计.2003.(4)
+-----------------------------------------------------------------------
+
+【来源篇名】迁移元胞自动机网络舆情演化模型(M2CA)
+【英文篇名】A Model for the Evolution of Public Opinion in the Web Based on Migration Cellular Automata
+【来源作者】王根生/勒中坚/陆旭/黄玉波/丁菊玲/杨波
+【基    金】国家社科基金项目(09BTQ034)
+【期    刊】情报学报
+【第一机构】江西财经大学
+【机构名称】[王根生]江西财经大学.国际经贸学院/[勒中坚]江西省电子商务工程技术研究中心./[陆旭]江西财经大学.现代教育技术中心/[黄玉波]江西财经大学.现代教育技术中心/[丁菊玲]江西省电子商务工程技术研究中心./[杨波]江西省电子商务工程技术研究中心.
+【第一作者】王根生
+【中图类号】G350
+【年代卷期】2011,30(060):570-576
+【关 键 词】元胞自动机/迁移元胞/倾向度/M2CA/自信度
+【基金类别】国家社科基金/
+【参考文献】
+1.刘毅.网络舆情研究概论.天津:天津人民出版社
+2.Pang,B..A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts,2004:271-278
+3.Matsumoto,S..Sentiment classification using word sub-sequences and dependency sub-trees,2008:1051-1052
+4.Popescu,A.M..Extracting product features and opinions from reviews,2005:339-346
+5.丁菊玲.一种面向网络舆情危机预警的观点柔性挖掘模型.情报杂志.2009.28(10)
+6.Alves,S.G..Electoral survey's influence on the voting processes: A cellular automata model.Physica A: Statistical Mechanics and its Applications.2002.316
+7.Hegselmann,R..Opinion dynamics and bounded confidence models, analysis, and simulation.Journal of Artificial Societies and Social Simulation (JASSS).2002.5(3)
+8.Slanina,F..Analytical results for the Sznajd model of opinion formation.European Physical Journal B.2003.35(2)
+9.Weisbuch,G..Bounded confidence and social networks.European Physical Journal B.2004.38(2)
+10.Schulze,C..Sznajd opinion dynamics with global and local neighbourhood.International Journal of Modern Physics C.2004.15(6)
+11.Rodrigues,E.A..Surviving opinions in Sznajd models on complex networks.International Journal of Modern Physics C.2005.16(11)
+12.Sznajd-Weron,K..Sznajd model and its applications.Acta Physica Polonica B.2005.36(8)
+13.Fortunato,S..Vector Opinion Dynamics in a Bounded Confidence Consensus Model.International Journal of Modern Physics C.2005.16(10)
+14.Toscani,G..Kinetic models of opinion formation.Communications in Mathematical Sciences.2006.4(3)
+15.Shen,B..An Opinion Formation Model with Two Stages.International Journal of Modern Physics C.2007.18(8)
+16.Zhou,J..Influence of network structure on rumor propagation.Physics Letters A.2007.368(6)
+17.曾祥平.基于元胞自动机的网络舆论激励模型.计算机应用.2007.27(11)
+18.胡斌.基于元胞自动机间距识别的员工行为模拟方法.系统工程理论与实践.2006.26(2)
+19.郑忠.基于元胞自动机的车间天车调度仿真模型.系统工程理论与实践.2008.28(2)
+20.杨善林.基于元胞自动机的群决策从众行为仿真.系统工程理论与实践.2009.29(9)
+-----------------------------------------------------------------------
+
+【来源篇名】主题追踪在医药卫生体制改革舆情监测系统中的应用
+【英文篇名】Applying Topic Tracking to the Public Opinion Monitoring System of Health System Reform
+【来源作者】钱庆/安新颖/代涛
+【基    金】中国医学科学院中央公益性基本科研业务费项目(2007X001)
+【期    刊】图书情报工作
+【第一机构】中国医学科学院
+【机构名称】[钱庆]中国医学科学院.医学信息研究所/[安新颖]中国医学科学院.医学信息研究所/[代涛]中国医学科学院.医学信息研究所
+【第一作者】钱庆
+【中图类号】G356
+【年代卷期】2011,55(160):46-49
+【关 键 词】主题追踪/医药卫生体制改革/舆情监测/信息监测
+【基金类别】其他部委级基金/
+【参考文献】
+1.Allan,J..On-line new event detection and tracking.New York:ACM Press,1998:37-45
+2.张茅.深化医药卫生体制改革，尽快实现人人享有基本医疗卫生服务.2009
+3.俞士汶.北京大学现代汉语语料库基本加工规范.中文信息学报.2002.(5)
+4.刘海娟.基于改进权重计算的话题跟踪.无线电工程.2008.(4)
+5.Cover,T.M..Nearest Neighbor Pattern Classification.IEEE Transactions on Information Theory.1967.13(1)
+6.He,Ji.A comparative study on chinese text categorization methods,2000:24-35
+7.孙丽华.一种改进的kNN方法及其在文本分类中的应用.应用科技.2002.29(2)
+-----------------------------------------------------------------------
+
+【来源篇名】微博舆情监测指标体系研究
+【英文篇名】Research on Public Opinion Monitoring Index-system in Micro-blogging
+【来源作者】高承实/荣星/陈越
+【基    金】国家社会科学基金重大项目(09&ZD014)
+【期    刊】情报杂志
+【第一机构】解放军信息工程大学
+【机构名称】[高承实]解放军信息工程大学.电子技术学院/[荣星]解放军信息工程大学.电子技术学院/[陈越]解放军信息工程大学.电子技术学院
+【第一作者】高承实
+【中图类号】G353.1
+【年代卷期】2011,30(090):66-70
+【关 键 词】微博/舆情/指标体系/层次分析法
+【基金类别】国家社科基金/
+【参考文献】
+1.刘毅.略论网络舆情的概念、特点、表达与传播.理论界.2007.(1)
+2.卢金珠.微博客传播特性及盈利模式分析.现代传播(中国传媒大学学报).2010.(4)
+3.姜澎.微博市场2013年或将进入成熟期.文汇报.12.29
+4.曾润喜.网络舆情突发事件预警系统、指标与机制.情报杂志.2009.28(11)
+5.李雯静.网络舆情指标体系设计与分析.情报科学.2009.(7)
+6.张一文.非常规突发事件网络舆情指标体系建立初探——概念界定与基本维度.北京邮电大学学报(社会科学版).2010.(4)
+7.廖福生.微博客的信息传播模式及其发展分析.宁波广播电视大学学报.2010.(2)
+8.谈国新.突发公共事件网络舆情监测指标体系研究.华中师范大学学报(人文社会科学版).2010.(3)
+9.戴媛.基于网络舆情安全的信息挖掘及评估指标体系研究.情报理论与实践.2008.(6)
+10.孟丽丽.采用层次分析法的硬质合金齿圆锯片质量评价体系的建立.现代制造工程.2010.(6)
+-----------------------------------------------------------------------
+
+【来源篇名】基于社会网络分析的网络舆情主体挖掘研究
+【英文篇名】Mining Research on the Subject of Internet Public Opinion Based on Social Network Analysis
+【来源作者】董亚倩/邓尚民
+【基    金】
+【期    刊】情报资料工作
+【第一机构】山东理工大学
+【机构名称】[董亚倩]山东理工大学.科技信息研究所/[邓尚民]山东理工大学.科技信息研究所
+【第一作者】董亚倩
+【中图类号】G353
+【年代卷期】2011,(060):45-49
+【关 键 词】网络舆情/舆情主体/社会网络分析
+【基金类别】
+【参考文献】
+1..第26次中国互联网络发展状况统计报告.2011
+2..中国社科院社会蓝皮书:互联网成为新闻舆论独立源头.2011
+3.杨东峰.从“双核”到“双螺旋”——试论新时期舆论传播主体的变化.新闻世界.2010.(6)
+4.罗家德.社会网络分析讲义.北京:社会科学文献出版社
+5.刘军.社会网络分析导论.北京:社会科学文献出版社
+6.Watts,J.A..Twenty-first century science.Nature.2007.445(7127)
+7.Borgatti,S.P..Network analysis in the social sciences.Science.2009.323(5916)
+8.陈京民.基于虚拟社会网络挖掘的网络舆情分析.中国制造业信息化.2010.39(5)
+9.王来华.舆情研究概论.天津:天津社会科学院出版社
+10.Wasserman,Stanley.Social network analysis methods and applications.Cambridge University Press
+11.徐媛媛.社会网络分析法在引文分析中的实证研究.情报理论与实践.2008.31(2)
+12.姜春林.CSSCI管理学来源期刊引文网络结构分析.科学学与科学技术管理.2009.(7)
+13.张玉峰.基于内容相似性的论坛用户社会网络挖掘.情报杂志.2010.29(8)
+14.吴晓伟.基于社会网络分析的企业合作竞争研究及其实证分析.情报理论与实践.2010.33(5)
+15.闫明.基于SNA的中国创新管理学术群体现状及发展趋势分析.科学学与科学技术管理.2010.(8)
+16.陈华.提升高科技企业核心竞争力——构建技术知识管理系统模型.科学学与科学技术管理.2005.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情话题的数据立方体模型分析
+【英文篇名】Data Cube Model Analysis of Online Public Opinion Topics
+【来源作者】陈焱
+【基    金】江西省社会科学规划项目(10TW20)
+【期    刊】图书情报工作
+【第一机构】萍乡高等专科学校
+【机构名称】[陈焱]萍乡高等专科学校.图书馆
+【第一作者】陈焱
+【中图类号】G350
+【年代卷期】2011,55(240):75-79,131
+【关 键 词】网络舆情/舆情话题分析/数据立方体模型/网络舆情预警
+【基金类别】省（市）级基金/
+【参考文献】
+1...2011
+2.Qi,H.W..A model for mining outliers from complex data sets.Canada, Toronto,2004:595-599
+3.Pavel,M..Clustering Abstracts Instead of Full Texts.Japan, Tyko,2004:129-136
+4.Yamir,M..Dynamics of rumor spreading in complex networks.Physical Review.2004.69(6)
+5.Inderjit,S.D..Efficient clustering of very large document collections:In Data Mining for Scientific and Engineering Applications.Norwell, MA,2001:357-381
+6.Gabriel,P..Parameter Free Busty Events Detection in Text Streams.USA, New York,2005:181-192
+7.Cao,F..Density-based Clustering over an Evolving Data Stream with Noise.China, Beijing,2006:326-337
+8.郑魁.网络舆情热点信息自动发现方法.计算机工程.2010.36(3)
+9.王伟.基于聚类的网络舆情热点发现及分析.现代图书情报技术.2009.(3)
+10.谢海光.互联网内容及舆情深度分析模式.中国青年政治学院学报.2006.(3)
+11.钱爱兵.基于主题的网络舆情分析模型及其实现.现代图书情报技术.2008.(4)
+12.曾依灵.网络热点信息发现研究.通信学报.2007.28(12)
+13.王丫.网络新闻流中热点事件识别与跟踪算法的改进与验证:学位论文.北京:燕山大学,2007
+14.刘星星.网络热点事件发现系统的设计.中文信息学报.2008.22(6)
+15.姚晓娜.BBS热点话题挖掘与观点分析:学位论文.大连:大连海事大学,2008
+16.王允.基于网页布局相似度的Web论坛数据抽取.中文信息学报.2010.24(2)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情信息监测研究进展
+【英文篇名】Survey on Online Public Opinion Information Monitoring
+【来源作者】陈忆金/曹树金/陈少驰/陈珏静
+【基    金】广东省教育厅产学研合作专项资金项目(2007A090302027)
+【期    刊】图书情报知识
+【第一机构】仲恺农业工程学院
+【机构名称】[陈忆金]仲恺农业工程学院./[曹树金]中山大学.资讯管理学院/[陈少驰]中山大学.资讯管理学院/[陈珏静]中山大学.资讯管理学院
+【第一作者】陈忆金
+【中图类号】G350
+【年代卷期】2011,(060):41-49
+【关 键 词】网络舆情/信息监测/舆情分析/意见挖掘/模式识别/舆情监测系统
+【基金类别】其它基金/
+【参考文献】
+1.王青.网络舆情监测及预警指标体系研究综述.情报科学.2011.(7)
+2.王来华.对舆情、民意和舆论三概念异同的初步辨析.新视野.2004.(5)
+3.王来华.舆情研究概论.天津:天津社会科学院出版社
+4.张克生.国家决策:机制与舆情.天津:天津社会科学院出版社
+5.王建龙.把握社会舆情.瞭望新闻周刊.2002.(20)
+6.刘毅.网络舆情研究概论.天津:天津人民出版社
+7.中共中央宣传部舆情信息局.网络舆情信息工作理论与实务.北京:学习出版社
+8.刘毅.略论网络舆情的概念、特点、表达与传播.理论界.2007.(1)
+9.中共中央宣传部舆情信息局.舆情信息工作概论.北京:学习出版社
+10.谭伟.网络舆论概念及特征.湖南社会科学.2003.(5)
+11.许鑫.互联网舆情分析及应用研究.情报科学.2008.(8)
+12.姜胜洪.试论网上舆情的传播途径、特点及其现状.社科纵横.2008.(1)
+13.祝华新.2007中国互联网舆情分析报告.2008
+14.赵瑞华.网络舆论的特征及功能研究:硕士学位论文.广州:暨南大学,2005
+15.张小明.公共危机预警机制设计与指标体系构建.中国行政管理.2006.(7)
+16.秦启文.突发事件的管理与应对.北京:新华出版社
+17.张焕强.突发事件处理:实例与技巧.北京:中国经济出版社
+18.计雷.突发事件应急管理.北京:高等教育出版社
+19.赵士林.突发事件的传播突发事件与媒体报道:硕士学位论文.上海:复旦大学出版社,2006
+20.范以.论突发事件传媒视角选择.北京:军事科学出版社
+21.贺文发.突发事件与对外报道.北京:中国传媒大学出版社
+22.朱金平.论突发事件报道.北京:长征出版社
+23.孙多勇.突发事件与行为决策.北京:社会科学文献出版社
+24.唐喜亮.我国突发公共事件的网络舆情研究:硕士学位论文.成都:电子科技大学,2005
+25.黄成军.网络舆情与公共事件关系研究:硕士学位论文.重庆:重庆大学,2009
+26.吴瑛.突发公共事件中谣言的产生、影响与控制.吉林公安高等专科学校学报.2009.(2)
+27.曾润喜.网络舆情突发事件预警指标体系构建.情报杂志.2009.(11)
+28.Roach,Thomas J..Real Meaning of Public Opinion.2011
+29.Wojcieszak,Magdalena.What Underlies the False Consensus Effect? How Personal Opinion and Disagreement Affect Perception of Public Opinion.International Journal of Public Opinion Research.2009.21(1)
+30.曹效阳.网络舆情的结构与网络特征分析.情报科学.2010.(2)
+31.曹劲松.网络舆情的基本特点.新闻与写作.2009.(12)
+32.杨元元.网络舆论的生成及特点研究:硕士学位论文:湖南师范大学,2004
+33.赵金.网络舆论,民意表达的平台.青年记者.2004.(10)
+34.王天意.网络舆论的功能及社会效应.海南广播电视大学学报.2006.(3)
+35.毕宏音.网民的网络舆情主体特征研究.广西社会科学.2008.(7)
+36.网易博客.有效防范和避免“广场效应”.2011
+37.黄云峰.论传统大众媒体对网络舆论的引导:硕士学位论文.厦门:厦门大学,2008
+38.Cho,Youngsang.Identification of effective opinion leaders in the diffusion of technological innovation: A social network approach.Technological Forecasting and Social Change.2011.
+39.祝华新.2010年中国互联网舆情分析报告.2011
+40.Greysen,S.Ryan.Online Professionlism and the Mirror of Social Media.Journal of General Internal Medicine.2010.25(11)
+41.Ashlin,Alison.Environmental Science Adrift in the Blogosphere.Science.2006.(14)
+42.谢海光.互联网内容及舆情深度分析模式.中国青年政治学院学报.2006.(3)
+43.高嘉鑫.BBS异常事件监控机制之设计:硕士学位论文.新竹:台湾交通大学资讯工程学系,2004
+44.郑凌.逸仙时空BBS舆情模式识别研究:硕士学位论文.广州:中山大学资讯管理系,2009
+45.金晓鸥.互联网舆情信息获取与分析研究:硕士学位论文.上海:上海交通大学,2008
+46.龚海军.网络热点话题自动发现技术研究:硕士学位论文.武汉:华中师范大学,2008
+47.郭岩.网络舆情信息源影响力的评估研究.中文信息学报.2011.(3)
+48.杨梅.网络舆情热点发现的研究:硕士学位论文.北京:北京交通大学,2008
+49.陈桂鸿.网络舆情主题标引与意见挖掘研究:硕士学位论文.广州:中山大学,2010
+50.余智华.网络信息过滤系统的过载处理方法研究.计算机工程.2008.(19)
+51.李明凯.移动互联网搜索中的信息过滤技术研究及实现方案.2007
+52.Charles,L.W..Topic Detection and Tracking (TDT) Overview and Perspective.Lansdowne, VA,1998:17-31
+53.Matsumura,N..Influence Diffusion Model in Text-Based Communication.Journal of the Japanese Soeiety for Artifieial Intelligenee.2002.13(3)
+54.蒋凡.BBS中主题发现原型系统的设计与实现.计算机工程与应用.2005.(31)
+55.魏善岭.面向互动型网络媒体的不良信息监测与过滤:硕士学位论文.大连:大连海事大学,2009
+56.吴晓元.层次化关键词抽取与文本自动分类在BBS中的应用:硕士学位论文.上海:上海交通大学,2007
+57.庄庭玮.适用于网路论坛之新事件侦测技术之研究:硕士学位论文.台北:台湾大学,2009
+58.Hu,M..Mining and summarizing customer reviews.Seattle, Washington, USA,2004
+59.Dave,K..Mining the Peanut Gallery: Opinion Extraction and Semantic Classification of Product Reviews.Budapest, Hungary,2003
+60.Liu,B..Opinion Observer: Analyzing and Comparing Opinions on the Web.Chiba, Japan,2005
+61.Carolin,K..Warning system for online market research Identifying critical situations in online opinion formation.Knowledge-Based Systems.2011.24(6)
+62.Li,F..Who is talking? An ontology-based opinion leader identification framework for word-of-mouth marketing in online social blogs.Decision Support Systems.2011.51(1)
+63..BlogVox.2011
+64.Tsou,Benjamin K.Y..Polarity Classification of Celebrity Coverage in the Chinese Press.McLean, USA,2005
+65.娄德成.汉语句子语义极性分析和观点抽取方法的研究.计算机应用.2006.(11)
+66.姚天昉.汉语情感词语义倾向判别的研究.武汉,2007
+67.刘全升.汉语意见型主观性文本类型体系的研究.中文信息学报.2008.(6)
+68.黄高辉.汉语意见型主观性语句类型分析.山西,2008
+69.姚天昉.汉语语句主题语义倾向分析方法的研究.中文信息学报.2007.(5)
+70.姚天防.汉语主客观文本分类方法的研究.苏州,2007
+71.张超.文本倾向性分析在舆情监控系统中的应用研究:硕士学位论文.北京:北京邮电大学,2008
+72.寇广增.基于意见挖掘通用框架的情感极性强度模糊性研究:博士学位论文.武汉:武汉大学,2010
+73.姚晓娜.BBS热点话题挖掘与观点分析:硕士学位论文.大连:大连海事大学,2008
+74.薛玮.网络舆情信息挖掘系统的研究:硕士学位论文.北京:北京交通大学,2008
+75..陈信希.2011
+76.古伦维.意见分析之研究与应用:博士学位论文.台北:台湾大学,2009
+77.蔡健平.基于语义理解的意见挖掘,2007
+78.李林琳.基于特定领域的汉语句子意见挖掘:硕士学位论文.上海:上海交通大学,2008
+79.岳笑峥.基于领域本体的意见挖掘系统:硕士学位论文.北京:北京邮电大学,2008
+80.戴媛.面向网络舆情分析的实用关键技术概述.信息网络安全.2008.(6)
+81.马海兵.三种文档语义倾向性识别方法的分析与比较.现代图书情报技术.2007.(4)
+82.梅中玲.基于Web信息挖掘的网络舆情分析技术.中国人民公安大学学报(自然科学版).2007.(4)
+83.厉小军.文本倾向性分析综述.浙江大学学报(工学版).2011.(7)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情信息提取与预处理研究
+【英文篇名】A Study on Information Extraction and Preprocessing of Online Public Opinion
+【来源作者】陈桂鸿/曹树金/陈忆金
+【基    金】广东省教育厅产学研合作专项资金项目(2007A090302027)
+【期    刊】图书情报知识
+【第一机构】深圳腾讯计算机科技有限公司
+【机构名称】[陈桂鸿]深圳腾讯计算机科技有限公司./[曹树金]中山大学.资讯管理学院/[陈忆金]仲恺农业工程学院.
+【第一作者】陈桂鸿
+【中图类号】G350
+【年代卷期】2011,(060):50-54
+【关 键 词】网络舆情/信息提取/文本预处理/中文分词/句法分析
+【基金类别】其它基金/
+【参考文献】
+1.金晓鸥.互联网舆情信息获取与分析研究:硕士学位论文.上海:上海交通大学,2008
+2.龚海军.网络热点话题自动发现技术研究:硕士学位论文.武汉:华中师范大学,2008
+3.郑魁.网络舆情热点信息自动发现方法.计算机工程.2010.(3)
+4.吕屏.网络新词与网络舆情研究.西华大学学报(哲学社会科学版).2010.(1)
+5.张博.对互联网环境下中文分词系统的一种架构改进.计算机应用研究.2006.(11)
+6.黄晓斌.网络用语对信息交流的影响.情报理论与实践.2008.(1)
+7.刘群.基于《知网》的词汇语义相似度计算,2002
+-----------------------------------------------------------------------
+
+【来源篇名】舆情搜索引擎中网页信息的采集与抽取研究
+【英文篇名】Information Collection and Extraction of Web Pages with Public Opinion Search Engine
+【来源作者】王兰成
+【基    金】国家社科基金军事学项目
+【期    刊】情报学报
+【第一机构】解放军南京政治学院上海分院
+【机构名称】[王兰成]解放军南京政治学院上海分院.军事信息管理系
+【第一作者】王兰成
+【中图类号】G354
+【年代卷期】2011,30(100):1022-1027
+【关 键 词】网络舆情/抽取规则/新闻网页/信息抽取
+【基金类别】国家社科基金/
+【参考文献】
+1.Eikvil,L..Information Extraction from World Wide Web a Survey.2008
+2.陈少飞.Web信息抽取技术研究进展.河北大学学报(自然科学版).2003.(1)
+3.张成洪.利用Ontology和规则表达式的Web信息抽取.计算机工程.2004.(5)
+4.陈佳.基于XML的Web信息抽取技术的应用研究:学位论文.武汉:武汉理工大学,2007
+5.李晶.Web信息抽取.计算机科学.2003.(6)
+6.贺令亚.基于Web的包装器技术的现状与发展.电脑开发与应用.2007.(6)
+7.朱建华.一种基于web的新闻文本抽取方法,2010:139-144
+8.李洋.基于Web的信息抽取研究.吉林工程技术师范学院学报.2007.(12)
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情几个基本问题的探讨
+【英文篇名】Some Basic Problems on Network Opinion Research
+【来源作者】高承实/陈越/荣星/邬江兴
+【基    金】国家社会科学基金重大项目(09&ZD014)
+【期    刊】情报杂志
+【第一机构】解放军信息工程大学
+【机构名称】[高承实]解放军信息工程大学.电子技术学院/[陈越]解放军信息工程大学.电子技术学院/[荣星]解放军信息工程大学.电子技术学院/[邬江兴]解放军信息工程大学.电子技术学院
+【第一作者】高承实
+【中图类号】G353.1
+【年代卷期】2011,30(110):52-56
+【关 键 词】舆情/网络舆情/网络舆情事件/演化过程
+【基金类别】国家社科基金/
+【参考文献】
+1.李光.百亿市场前景催生网络舆情监测业.凤凰周刊（港）.2010.(19)
+2.康正.舆情软件的灰色江湖.暸望东方周刊.2011.(8)
+3.曾润喜.网络舆情信息资源共享研究.情报杂志.2009.(8)
+4.王来华.舆情研究概论.天津:天津社会科学院出版社
+5.刘毅.网络舆情研究概论.天津:天津人民出版社
+6.杨雪梅.故宫多件临时展品失窃.人民日报.05.11
+7.费雪,欧文.利息理论.上海:上海人民出版社
+8.朱恒民.互联网舆情演化的动态网络模型研究.情报理论与实践.2010.(10)
+-----------------------------------------------------------------------
+
+【来源篇名】Web2.0环境下企业网络舆情传播过程的研究及实证分析
+【英文篇名】Analysis and Research on the Communication Process of Enterprise Internet Public Opinion Based on Web2.0
+【来源作者】李纲/董琦
+【基    金】教育部人文社会科学重点研究基地重大项目(05JJD870159)
+【期    刊】情报科学
+【第一机构】武汉大学
+【机构名称】[李纲]武汉大学.信息管理学院/[董琦]武汉大学.信息管理学院
+【第一作者】李纲
+【中图类号】G350
+【年代卷期】2011,29(120):1810-1814
+【关 键 词】网络舆情/Web2.0/传播模型
+【基金类别】教育部基金/
+【参考文献】
+1.刘毅.网络舆情研究概论.天津:天津人民出版社
+2.丁菊玲.我国网络舆情危机预警研究探讨.情报杂志.2010.29(10)
+3.赵子剑.Web2.0时代大中型企业网络舆情监测机制探讨——舆情监测在网络危机处理中的应用.电子商务.2010.(5)
+4.程洁.网络传播学.苏州:苏州大学出版社
+5.顾明毅.网络舆情及社会性网络信息传播模式.新闻与传播研究.2009.16(5)
+6.曹劲松.网络舆情的发展规律.新闻与写作.2010.(5)
+7.谢科范.网络舆情突发事件的生命周期原理及集群决策研究.武汉理工大学学报(社会科学版).2010.(4)
+8.赵治.高校突发事件网络舆情的演变过程及应对策略.北京教育(德育).2010.(10)
+9.雷兵.企业网络舆情:传播模型与管理机制.2010
+-----------------------------------------------------------------------
+
+【来源篇名】网络舆情态势分析模式研究
+【英文篇名】Research on the Patterns of Online Public Opinions about the State and Trend Analysis
+【来源作者】李弼程/林琛/周杰/王允
+【基    金】国家863项目(2007AA01Z439)
+【期    刊】情报科学
+【第一机构】解放军信息工程大学
+【机构名称】[李弼程]解放军信息工程大学.信息工程学院/[林琛]解放军信息工程大学.信息工程学院/[周杰]解放军信息工程大学.信息工程学院/[王允]解放军信息工程大学.信息工程学院
+【第一作者】李弼程
+【中图类号】G353.1
+【年代卷期】2010,28(070):1083-1088
+【关 键 词】网络舆情/话题检测/态势分析模式/预警
+【基金类别】国家级其它基金/
+【参考文献】
+1..网络舆情“智库”.2009
+2.谢海光.互联网内容及舆情深度分析模式.中国青年政治学院学报.2006.（3）
+3.钱爱兵.基于主题的网络舆情分析模型及其实现.现代图书情报技术.2008.(4)
+4.吴绍忠.互联网络舆情预警机制研究.中国人民公安大学学报（自然科学版）.2008.3（3）
+5...2009
+6..Autonomy面向中国市场推出三款企业搜索产品.2009
+7...2009
+8.都云程.TRS网络舆情监控解决方案.专题研究.技术探讨.2008.(6)
+9.刘同明.数据融合技术及其应用.北京:清华大学出版社
+10.刘星星.网络热点事件发现系统的设计.中文信息学报.2008.22（6）
+11.姚晓娜.BBS热点话题挖掘与观点分析:学位论文.大连:大连海事大学,2008
+12.The 2004 Topic Detection.Task Definition and Evaluation Plan.2009
+13.Papka,R..On-Line New Event Detection using Single Pass Clustering.Melbourne:Athens Press,1998:37-45
+14.刘培德.网络信息过滤系统的设计与实现.计算机工程与应用.2005.41(21)
+15.Wayne,C..Multilingual Topic Detection and Tracking: Successful Research Enabled by Corpora and Evaluation.Athens:Athens Press,2000:1487-1494
+16.姚天顺.自然语言理解:一种让机器懂得人类语言的研究.北京:清华大学出版社
+17.Yang,Yiming.Improving Text Categorization Methods for Event Tracking.Athens:Athens Press,2000:65-72
+18.潘渊.LS-SVM:一种有效的新闻主题追踪方法.计算机应用研究.2008.25(9)
+19.柯宏发.电子战干扰目标的多属性多层次威胁评估模型.系统工程与电子技术.2006.28(9)
+20.王小艺.基于模糊多属性决策的目标威胁估计方法.控制与决策.2007.22(8)
+21.康长青.基于模糊贝叶斯网络的态势威胁评估模型.光电工程.2008.35(5)
+22.雷英杰.基于直觉模糊推理的威胁评估方法.电子与信息学报.2007.29（9）
+23.傅间莲.基于规则和统计的中文自动文摘系统.中文信息学报.2006.20（5）
+24.Kim,Soo-Min.Extracting Opinions, Opinion Holders, and Topics Expressed in Online News Media Text,2006:1-8
+-----------------------------------------------------------------------
+
+【来源篇名】危机沟通环境中网络舆情演变的Multi-Agent建模研究
+【英文篇名】Research on Evolution of Online Public Opinion in Crisis Communication Situation Based on Multi-Agent Modeling
+【来源作者】宗利永/顾宝炎
+【基    金】上海市研究生创新基金项目(JWCXSL1001)/上海市重点学科建设资助项目(S30504)
+【期    刊】情报科学
+【第一机构】上海理工大学
+【机构名称】[宗利永]上海理工大学.管理学院/[顾宝炎]上海理工大学.管理学院
+【第一作者】宗利永
+【中图类号】G350
+【年代卷期】2010,28(090):1414-1419,1425
+【关 键 词】网络舆情/多主体建模/演化/舆论子场
+【基金类别】省（市）级基金/
+【参考文献】
+1.刘毅.网络舆情研究概论.天津:天津人民出版社
+2.宣慧玉.管理与社会经济系统仿真.武汉:武汉大学出版社
+3.张江.人工社会——基于Agent的社会学仿真.系统工程.2005.(1)
+4.许国志.系统科学.上海:上海科技教育出版社
+5.Tisue,S..NetLogo: A Simple Environment for Modeling Complexity.2008
+6.毕宏音.网络舆情形成与变动中的群体影响分析.天津大学学报（文科版）.2007.9（3）
+7.刘毅.简析舆情变动规律.天津社会科学.2007.(3)
+8.甘露.浅析网络议程设置的特色.国际新闻界.2003.(4)
+9.Murphy,P..Chaos theory as a model for managing issues and crises.Public Relations Review.1996.22(2)
+10.张发.复杂系统多主体仿真方法论.系统仿真学报.2009.21（8）
+11.Dean,D.W..Consumer Reaction To Negative Publicity: Effects of Corporate Reputation, Response, and Responsibility For a Crisis Event.Journal of Business Communication.2004.(41)
+12.Arpan,L.M..Stealing Thunder: Analysis of the Effects of Proactive Disclosure of Crisis Information.Public Relations Review.2005.(31)
+13.Coombs,W.T..Further explorations of post-crisis communication: Effects of media and response strategies on perceptions and intentions.Public Relations Review.2009.35(1)
+14.Jeong,S..Public’s Responses to an oil spill accident: A test of the attribution theory and situational crisis communication theory.Public Relations Review Special Section on China Public Relations.2009.35(3)
+15.赵晓波.展望服务科学.工业工程与管理.2009.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】基于注意力资源分配机制的网络危机舆情演变研究
+【英文篇名】Research on the Evolution of Online Public Opinion on Crisis Based on the Allocation Mechanism of Audiences’ Attention Resources
+【来源作者】宗利永/顾宝炎/孙绍荣
+【基    金】国家自然科学基金项目(70871080)/上海市重点学科基金项目(S30504)/上海市研究生创新基金项目(JWCXSL1001)
+【期    刊】情报理论与实践
+【第一机构】上海理工大学
+【机构名称】[宗利永]上海理工大学.管理学院/[顾宝炎]上海理工大学.管理学院/[孙绍荣]上海理工大学.管理学院
+【第一作者】宗利永
+【中图类号】G35
+【年代卷期】2010,33(100):29-33
+【关 键 词】网络舆情/注意力资源/多主体建模
+【基金类别】国家自科基金/省（市）级基金/
+【参考文献】
+1.苏君华.注意力资源与信息服务业发展.情报杂志.2003.(12)
+2.金兼斌.网络舆论的演变机制.传媒.2008.(4)
+3.陶建杰.网络舆情联动应急机制初探.新闻传播.2007.(10)
+4.刘毅.网络舆情研究概论.天津:天津人民出版社
+5.赵正松.网络的议程设置.新闻爱好者.2007.(8)
+6.BIRKLAND,T..After disaster: agenda setting, public policy, and focusing events.Washington:Georgetown. University Press
+7.胡正荣.传播学总论.北京:北京广播学院出版社
+8.陈禹.复杂性研究的新动向——基于主体的建模方法及其启迪.系统辩证学学报.2003.11（1）
+9.TISUE,S..Net Logo: a simple environment for modeling complexity
+10.陈彤旭.BBS议题的形成与衰变——对人民网强国论坛的个案研究.新闻与传播研究.2002.(1)
+11.刘毅.简析舆情变动规律.天津社会科学.2007.(3)
+-----------------------------------------------------------------------
+
+【来源篇名】互联网舆情演化的动态网络模型研究
+【英文篇名】Studies on the Dynamic Network Model for the Evolution of Online Public Opinion
+【来源作者】朱恒民/苏新宁/张相斌
+【基    金】教育部人文社会科学重点研究基地2008年度重大项目(08JJD870225)/国家自然科学基金项目(70871061)/江苏省高校哲学社会科学基金项目(08SJD8700003)/南京邮电大学青蓝计划课题(NY207072)
+【期    刊】情报理论与实践
+【第一机构】南京大学
+【机构名称】[朱恒民]南京大学.信息管理系/[苏新宁]南京大学.信息管理系/[张相斌]南京邮电大学.经济与管理学院
+【第一作者】朱恒民
+【中图类号】G35
+【年代卷期】2010,33(100):75-78
+【关 键 词】互联网/网络舆情/网络模型
+【基金类别】教育部基金/国家自科基金/省（市）级基金/其它基金/
+【参考文献】
+1.姜胜洪.网络舆情热点的形成与发展、现状及舆论引导.理论月刊.2008.(4)
+2.JUHA,M..Investigations on event evolution in TDT.Edmonton, Canada,2003
+3.BLEI,D.M..Dynamic topic models:ICML,2006
+4.WANG,X..Topics over time: a non-Markov continuous-time model of topical trends:SIGKDD,2006
+5.WEI,X..Dynamic mixture models for multiple time series:IJCAI,2007
+6.WANG,C..Continuous time dynamic topic models:UAI,2008
+7.RAMESH,N..Event threading within news topics.Washington, D.C., USA:ACM Press,2004
+8.赵华.面向动态演化的话题检测研究.高技术通信.2006.16(12)
+9.林鸿飞.基于语义框架的话题跟踪方法,2006:383-392
+10.章忠志.复杂网络确定性模型研究的最新进展.复杂系统与复杂性科学.2008.5(4)
+11.SZNAJD-WERON,K..Opinion evolution in closed community.Int. J. Mod. Phys. C.2000.11(6)
+12.MORENO,Y..Dynamics of rumor spreading in complex networks.Phys Rev E.2004.69(6)
+-----------------------------------------------------------------------
+
+【来源篇名】公共信息网络舆情智能分析系统的分析与设计
+【英文篇名】Analysis and Design on the Intellectual Ability Analytics System of Public Sentiment in Public Information Network
+【来源作者】范立国
+【基    金】
+【期    刊】情报科学
+【第一机构】长春市公安局
+【机构名称】[范立国]长春市公安局.网络安全保卫支队
+【第一作者】范立国
+【中图类号】G350
+【年代卷期】2010,28(110):1714-1718
+【关 键 词】网络舆情/综合信息采集/全文检索/数据关联挖掘
+【基金类别】
+【参考文献】
+1.蒋平.信息对抗.北京:清华大学出版社
+2.黄成军.网络舆情与公共事件关系研究:学位论文.重庆:重庆大学,2009
+3.吴亚非.信息安全风险评估.北京:清华大学出版社
+4.徐晓日.网络舆情事件的应急处理研究.华北电力大学学报（文科版）.2007.（1）
+5.吴兴业.互联网舆情分析预警初探.信息网络安全.2008.(6)
+6.Pfleeger，Charles P..信息安全原理与应用.北京:电子工业出版社
+7.钱爱兵.基于主题的网络舆情分析模型及其实现.现代图书情报技术.2008.(4)
+8.张珏.网络舆情预测模型与平台的研究:学位论文.北京:北京交通大学,2009
+-----------------------------------------------------------------------
+
