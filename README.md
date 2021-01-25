@@ -1,10 +1,9 @@
-# paper-longtail
-Research on Keyword Recommendation System for Academic Search Based on Long Tail Theory
+# Research on Keyword Recommendation System for Academic Search Based on Long Tail Theory
 
-Author:Genix
+Author: Genix
 
-Email:genix@greysh.ac.cn
+Email: genix@greysh.ac.cn
 
-ORCID:<https://orcid.org/0000-0001-6337-3451>
+ORCID: <https://orcid.org/0000-0001-6337-3451>
 
-Website:<https://www.greysh.ac.cn/>
+Website: <https://www.greysh.ac.cn/>
